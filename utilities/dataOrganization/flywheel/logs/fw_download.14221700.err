@@ -1,0 +1,5 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 100, in <module>
+    print(exams_thins)
+NameError: name 'exams_thins' is not defined

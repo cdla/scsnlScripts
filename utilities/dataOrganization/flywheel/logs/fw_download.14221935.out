@@ -1,0 +1,332 @@
+receiving incremental file list
+./
+100509_1_1.3T2/
+100509_1_1.3T2/fmri/
+100509_1_1.3T2/fmri/grid1/
+100509_1_1.3T2/fmri/grid1/behavioral/
+100509_1_1.3T2/fmri/grid2/
+100509_1_1.3T2/fmri/grid2/behavioral/
+100509_1_1.3T2/fmri/grid3/
+100509_1_1.3T2/fmri/grid3/behavioral/
+100509_1_1.3T2/fmri/grid4/
+100509_1_1.3T2/fmri/grid4/behavioral/
+100509_1_1.3T2/fmri/sym1/
+100509_1_1.3T2/fmri/sym1/behavioral/
+100509_1_1.3T2/fmri/sym2/
+100509_1_1.3T2/fmri/sym2/behavioral/
+100509_1_1.3T2/fmri/sym3/
+100509_1_1.3T2/fmri/sym3/behavioral/
+100509_1_1.3T2/fmri/sym4/
+100509_1_1.3T2/fmri/sym4/behavioral/
+100509_1_1.3T2/mock_scan/
+100509_1_1.3T2/mri/
+100509_1_1.3T2/mri/anatomy/
+100509_1_1.3T2/mri/dti/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/001/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/002/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/005/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/006/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/007/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/008/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/009/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/010/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/20002/
+8033_1_1.3T3/
+8033_1_1.3T3/behavioral/
+8033_1_1.3T3/fmri/
+8033_1_1.3T3/fmri/level1_run1/
+8033_1_1.3T3/fmri/level1_run1/behavioral/
+8033_1_1.3T3/fmri/level1_run1_blipdown/
+8033_1_1.3T3/fmri/level2_run1/
+8033_1_1.3T3/fmri/level2_run1/behavioral/
+8033_1_1.3T3/fmri/level2_run1_blipdown/
+8033_1_1.3T3/fmri/level2_run2/
+8033_1_1.3T3/fmri/level2_run2/behavioral/
+8033_1_1.3T3/fmri/level2_run2_blipdown/
+8033_1_1.3T3/fmri/level3_run1/
+8033_1_1.3T3/fmri/level3_run1/behavioral/
+8033_1_1.3T3/fmri/level3_run1_blipdown/
+8033_1_1.3T3/fmri/level3_run2/
+8033_1_1.3T3/fmri/level3_run2/behavioral/
+8033_1_1.3T3/fmri/level3_run2_blipdown/
+8033_1_1.3T3/fmri/level3_run2_redo/
+8033_1_1.3T3/fmri/level3_run2_redo/behavioral/
+8033_1_1.3T3/fmri/level3_run3/
+8033_1_1.3T3/fmri/level3_run3/behavioral/
+8033_1_1.3T3/fmri/level3_run3_blipdown/
+8033_1_1.3T3/fmri/resting_state_1/
+8033_1_1.3T3/fmri/resting_state_1_blipdown/
+8033_1_1.3T3/mri/
+8033_1_1.3T3/mri/anatomy/
+8033_1_1.3T3/mri/dti/
+8033_1_1.3T3/mri/multibandcoil/
+8033_1_1.3T3/mri/multibandcoil/001/
+8033_1_1.3T3/mri/multibandcoil/011/
+8033_1_1.3T3/mri/multibandcoil/019/
+8033_1_1.3T3/mri/multibandcoil/020/
+8033_1_1.3T3/mri/standardcoil/
+8033_1_1.3T3/mri/standardcoil/001/
+8033_1_1.3T3/mri/standardcoil/003/
+8033_1_1.3T3/mri/standardcoil/004/
+8033_1_1.3T3/mri/standardcoil/005/
+8033_1_1.3T3/mri/standardcoil/20003/
+8033_1_1.3T3/mri/standardcoil/20004/
+8033_1_1.3T3/mri/standardcoil/20005/
+8098_1_1.3T3/
+8098_1_1.3T3/behavioral/
+8098_1_1.3T3/fmri/
+8098_1_1.3T3/fmri/level1_run1/
+8098_1_1.3T3/fmri/level1_run1/behavioral/
+8098_1_1.3T3/fmri/level1_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run1/
+8098_1_1.3T3/fmri/level2_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run2/
+8098_1_1.3T3/fmri/level2_run2/behavioral/
+8098_1_1.3T3/fmri/level2_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run1/
+8098_1_1.3T3/fmri/level3_run1/behavioral/
+8098_1_1.3T3/fmri/level3_run1_blipdown/
+8098_1_1.3T3/fmri/level3_run2/
+8098_1_1.3T3/fmri/level3_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run3/
+8098_1_1.3T3/fmri/level3_run3/behavioral/
+8098_1_1.3T3/fmri/level3_run3_blipdown/
+8098_1_1.3T3/fmri/resting_state_1/
+8098_1_1.3T3/fmri/resting_state_1_blipdown/
+8098_1_1.3T3/mri/
+8098_1_1.3T3/mri/anatomy/
+8098_1_1.3T3/mri/anatomy/multibandcoil/
+8098_1_1.3T3/mri/anatomy/standardcoil/
+8098_1_1.3T3/mri/dti/
+8110_1_1.3T3/
+8110_1_1.3T3/behaviorial/
+8110_1_1.3T3/fmri/
+8110_1_1.3T3/fmri/level1_run1/
+8110_1_1.3T3/fmri/level1_run1/behavioral/
+8110_1_1.3T3/fmri/level1_run1_blipdown/
+8110_1_1.3T3/fmri/level2_run1/
+8110_1_1.3T3/fmri/level2_run1/behavioral/
+8110_1_1.3T3/fmri/level2_run1_blipdown/
+8110_1_1.3T3/fmri/level2_run2/
+8110_1_1.3T3/fmri/level2_run2/behavioral/
+8110_1_1.3T3/fmri/level2_run2_blipdown/
+8110_1_1.3T3/fmri/level3_run1/
+8110_1_1.3T3/fmri/level3_run1/behavioral/
+8110_1_1.3T3/fmri/level3_run1_blipdown/
+8110_1_1.3T3/fmri/level3_run2/
+8110_1_1.3T3/fmri/level3_run2/behavioral/
+8110_1_1.3T3/fmri/level3_run2_blipdown/
+8110_1_1.3T3/fmri/level3_run3/
+8110_1_1.3T3/fmri/level3_run3/behavioral/
+8110_1_1.3T3/fmri/level3_run3_blipdown/
+8110_1_1.3T3/fmri/resting_state_1/
+8110_1_1.3T3/fmri/resting_state_1_blipdown/
+8110_1_1.3T3/mri/
+8110_1_1.3T3/mri/anatomy/
+8110_1_1.3T3/mri/anatomy/multibandcoil/
+8110_1_1.3T3/mri/anatomy/standardcoil/
+8110_1_1.3T3/mri/dti/
+8114_1_1.3T3/
+8114_1_1.3T3/fmri/
+8114_1_1.3T3/fmri/encoding_1/
+8114_1_1.3T3/fmri/encoding_1/behavioral/
+8114_1_1.3T3/fmri/encoding_1/physiological/
+8114_1_1.3T3/fmri/encoding_2/
+8114_1_1.3T3/fmri/encoding_2/behavioral/
+8114_1_1.3T3/fmri/encoding_2/physiological/
+8114_1_1.3T3/fmri/localizer/
+8114_1_1.3T3/fmri/localizer/behavioral/
+8114_1_1.3T3/fmri/localizer/physiological/
+8114_1_1.3T3/fmri/resting_1/
+8114_1_1.3T3/fmri/resting_1/physiological/
+8114_1_1.3T3/fmri/resting_2/
+8114_1_1.3T3/fmri/resting_2/physiological/
+8114_1_1.3T3/fmri/retrieval_1/
+8114_1_1.3T3/fmri/retrieval_1/behavioral/
+8114_1_1.3T3/fmri/retrieval_1/physiological/
+8114_1_1.3T3/fmri/retrieval_2/
+8114_1_1.3T3/fmri/retrieval_2/behavioral/
+8114_1_1.3T3/fmri/retrieval_2/physiological/
+8114_1_1.3T3/fmri/retrieval_3/
+8114_1_1.3T3/fmri/retrieval_3/behavioral/
+8114_1_1.3T3/fmri/retrieval_3/physiological/
+8114_1_1.3T3/fmri/retrieval_4/
+8114_1_1.3T3/fmri/retrieval_4/behavioral/
+8114_1_1.3T3/fmri/retrieval_4/physiological/
+8114_1_1.3T3/mri/
+8114_1_1.3T3/mri/anatomy/
+8114_1_1.3T3/mri/dti/
+
+sent 1308 bytes  received 325940 bytes  59499.64 bytes/sec
+total size is 2659611901  speedup is 8127.21
+rsyncing behavioral data
+exams in flywheel:
+[{'fw_id': '5a8867bfc2a144001b4f5731', 'scanid': '7968_3_1', 'study': 'hwc'}, {'fw_id': '5a89bf64c2a144001d4f7328', 'scanid': '8088_1_1', 'study': 'adhd'}, {'fw_id': '5a8a360dc2a14400194f5475', 'scanid': '0356_3_1', 'study': 'smpmathfun'}, {'fw_id': '5a8b1218c2a144001d4f7f84', 'scanid': '8101_1_1', 'study': 'asdmemory'}, {'fw_id': '5a8b6f6ec2a14400194f567a', 'scanid': '0227_4_1', 'study': 'smpmathfun'}, {'fw_id': '5a905c4ec2a14400194f592b', 'scanid': '100503_1_1', 'study': 'met'}, {'fw_id': '5a91b8f6c2a144001b4f640d', 'scanid': '0085_2_1', 'study': 'smpmathfun'}, {'fw_id': '5a91f691c2a14400194f59ce', 'scanid': '0227_4_2', 'study': 'smpsmp'}, {'fw_id': '5a92e7f1c2a144001d4f8c0c', 'scanid': '7833_3_1', 'study': 'hwc'}, {'fw_id': '5a930e53c2a14400174f55ad', 'scanid': '7983_2_1', 'study': 'hwc'}, {'fw_id': '5a933aa5c2a144001d4f9316', 'scanid': '8083_1_1', 'study': 'mathwhiz'}, {'fw_id': '5a9ae3dbc2a14400174f596b', 'scanid': '7877_3_1', 'study': 'hwc'}, {'fw_id': '5a9b0d3fc2a14400194f5e6b', 'scanid': '8104_1_1', 'study': 'adhd'}, {'fw_id': '5a9b5545c2a144001b4f6bf4', 'scanid': '8104_1_1', 'study': 'adhd'}, {'fw_id': '5a9b588dc2a144001d4f99a3', 'scanid': '7976_2_1', 'study': 'hwc'}, {'fw_id': '5a9c8a20c2a144001d4f99df', 'scanid': '8086_2_1', 'study': 'mathwhiz'}, {'fw_id': '5aa0a4d7c2a144001d4f9cf8', 'scanid': '100504_1_1', 'study': 'met'}, {'fw_id': '5aa0a61fc2a144001b4f6d4b', 'scanid': '100504_1_1', 'study': 'met'}, {'fw_id': '5aa0a6e4c2a14400174f5abd', 'scanid': '100504_1_1', 'study': 'met'}, {'fw_id': '5aa0a8afc2a14400194f5fcd', 'scanid': '100504_1_1', 'study': 'met'}, {'fw_id': '5aa0b39ac2a144001b4f6d50', 'scanid': '100504_1_1', 'study': 'met'}, {'fw_id': '5aa41cceaf0d9f001759912c', 'scanid': '0426_2_2', 'study': 'smpsmp'}, {'fw_id': '5aa4622eaf0d9f00175991d8', 'scanid': '8083_2_1', 'study': 'mathwhiz'}, {'fw_id': '5aa55aecaf0d9f0017599993', 'scanid': '9235_1_1', 'study': 'met'}, {'fw_id': '5aab2429af0d9f00165994a8', 'scanid': '0275_3_2', 'study': 'smpsmp'}, {'fw_id': '5aad8e1eaf0d9f00165995c0', 'scanid': '8082_1_1', 'study': 'mathwhiz'}, {'fw_id': '5aaec39daf0d9f001759a1bc', 'scanid': '9177_1_1', 'study': 'met'}, {'fw_id': '5ab6eb7190ec420016fe5ffd', 'scanid': '0059_2_1', 'study': 'smpmathfun'}, {'fw_id': '5ab7dee690ec420016fe60f6', 'scanid': '7483_7_1', 'study': 'asdmemory'}, {'fw_id': '5ab82dd190ec420019fe5afd', 'scanid': '7943_3_1', 'study': 'hwc'}, {'fw_id': '5abaf03490ec420016fe682d', 'scanid': '0224_2_1', 'study': 'smpmathfun'}, {'fw_id': '5abc2d49097fcb0017caa01a', 'scanid': '0224_2_2', 'study': 'smpsmp'}, {'fw_id': '5abd95df097fcb001acaa055', 'scanid': '0281_2_1', 'study': 'smpmathfun'}, {'fw_id': '5abdaf0f097fcb0017caa59f', 'scanid': '0098_2_1', 'study': 'smpmathfun'}, {'fw_id': '5abfad6b097fcb001acaa14f', 'scanid': '8082_2_1', 'study': 'mathwhiz'}, {'fw_id': '5abfdb50097fcb0018caa2e2', 'scanid': '7863_2_1', 'study': 'hwc'}, {'fw_id': '5ac02574097fcb0017caa9b3', 'scanid': '0098_2_2', 'study': 'smpsmp'}, {'fw_id': '5aca97c4097fcb0017cac850', 'scanid': '8098_1_1', 'study': 'adhd'}, {'fw_id': '5aca9805097fcb001acaaaed', 'scanid': '8098_1_1', 'study': 'adhd'}, {'fw_id': '5acd3b37097fcb0017cacd30', 'scanid': '100505_1_1', 'study': 'met'}, {'fw_id': '5acd41a5097fcb001acaace7', 'scanid': '100506_1_1', 'study': 'met'}, {'fw_id': '5acd4d72097fcb0017cacdf7', 'scanid': '100507_1_1', 'study': 'met'}, {'fw_id': '5acd56e4097fcb001acaad0a', 'scanid': '100508_1_1', 'study': 'met'}, {'fw_id': '5ad388942c3598001879070c', 'scanid': '8110_1_1', 'study': 'adhd'}, {'fw_id': '5ad4d6fe2c35980019790448', 'scanid': '100509_1_1', 'study': 'met'}]
+checking for exam:
+{'fw_id': '5a8867bfc2a144001b4f5731', 'scanid': '7968_3_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5a89bf64c2a144001d4f7328', 'scanid': '8088_1_1', 'study': 'adhd'}
+new adhd scan found: 8088_1_1
+checking for exam:
+{'fw_id': '5a8a360dc2a14400194f5475', 'scanid': '0356_3_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5a8b1218c2a144001d4f7f84', 'scanid': '8101_1_1', 'study': 'asdmemory'}
+checking for exam:
+{'fw_id': '5a8b6f6ec2a14400194f567a', 'scanid': '0227_4_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5a905c4ec2a14400194f592b', 'scanid': '100503_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5a91b8f6c2a144001b4f640d', 'scanid': '0085_2_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5a91f691c2a14400194f59ce', 'scanid': '0227_4_2', 'study': 'smpsmp'}
+checking for exam:
+{'fw_id': '5a92e7f1c2a144001d4f8c0c', 'scanid': '7833_3_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5a930e53c2a14400174f55ad', 'scanid': '7983_2_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5a933aa5c2a144001d4f9316', 'scanid': '8083_1_1', 'study': 'mathwhiz'}
+checking for exam:
+{'fw_id': '5a9ae3dbc2a14400174f596b', 'scanid': '7877_3_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5a9b0d3fc2a14400194f5e6b', 'scanid': '8104_1_1', 'study': 'adhd'}
+checking for exam:
+{'fw_id': '5a9b5545c2a144001b4f6bf4', 'scanid': '8104_1_1', 'study': 'adhd'}
+checking for exam:
+{'fw_id': '5a9b588dc2a144001d4f99a3', 'scanid': '7976_2_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5a9c8a20c2a144001d4f99df', 'scanid': '8086_2_1', 'study': 'mathwhiz'}
+checking for exam:
+{'fw_id': '5aa0a4d7c2a144001d4f9cf8', 'scanid': '100504_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5aa0a61fc2a144001b4f6d4b', 'scanid': '100504_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5aa0a6e4c2a14400174f5abd', 'scanid': '100504_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5aa0a8afc2a14400194f5fcd', 'scanid': '100504_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5aa0b39ac2a144001b4f6d50', 'scanid': '100504_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5aa41cceaf0d9f001759912c', 'scanid': '0426_2_2', 'study': 'smpsmp'}
+checking for exam:
+{'fw_id': '5aa4622eaf0d9f00175991d8', 'scanid': '8083_2_1', 'study': 'mathwhiz'}
+checking for exam:
+{'fw_id': '5aa55aecaf0d9f0017599993', 'scanid': '9235_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5aab2429af0d9f00165994a8', 'scanid': '0275_3_2', 'study': 'smpsmp'}
+checking for exam:
+{'fw_id': '5aad8e1eaf0d9f00165995c0', 'scanid': '8082_1_1', 'study': 'mathwhiz'}
+checking for exam:
+{'fw_id': '5aaec39daf0d9f001759a1bc', 'scanid': '9177_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5ab6eb7190ec420016fe5ffd', 'scanid': '0059_2_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5ab7dee690ec420016fe60f6', 'scanid': '7483_7_1', 'study': 'asdmemory'}
+checking for exam:
+{'fw_id': '5ab82dd190ec420019fe5afd', 'scanid': '7943_3_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5abaf03490ec420016fe682d', 'scanid': '0224_2_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5abc2d49097fcb0017caa01a', 'scanid': '0224_2_2', 'study': 'smpsmp'}
+new smpsmp scan found: 0224_2_2
+checking for exam:
+{'fw_id': '5abd95df097fcb001acaa055', 'scanid': '0281_2_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5abdaf0f097fcb0017caa59f', 'scanid': '0098_2_1', 'study': 'smpmathfun'}
+checking for exam:
+{'fw_id': '5abfad6b097fcb001acaa14f', 'scanid': '8082_2_1', 'study': 'mathwhiz'}
+checking for exam:
+{'fw_id': '5abfdb50097fcb0018caa2e2', 'scanid': '7863_2_1', 'study': 'hwc'}
+checking for exam:
+{'fw_id': '5ac02574097fcb0017caa9b3', 'scanid': '0098_2_2', 'study': 'smpsmp'}
+checking for exam:
+{'fw_id': '5aca97c4097fcb0017cac850', 'scanid': '8098_1_1', 'study': 'adhd'}
+checking for exam:
+{'fw_id': '5aca9805097fcb001acaaaed', 'scanid': '8098_1_1', 'study': 'adhd'}
+checking for exam:
+{'fw_id': '5acd3b37097fcb0017cacd30', 'scanid': '100505_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5acd41a5097fcb001acaace7', 'scanid': '100506_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5acd4d72097fcb0017cacdf7', 'scanid': '100507_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5acd56e4097fcb001acaad0a', 'scanid': '100508_1_1', 'study': 'met'}
+checking for exam:
+{'fw_id': '5ad388942c3598001879070c', 'scanid': '8110_1_1', 'study': 'adhd'}
+new adhd scan found: 8110_1_1
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level1_run1/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level1_run1_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level2_run1/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level2_run1_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level2_run2/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level2_run2_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level3_run1/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level3_run1_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level3_run2/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level3_run2_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8110/visit1/session1/fmri/level3_run3_blipdown/unnormalized_unc/I.nii.gz
+checking for exam:
+{'fw_id': '5ad4d6fe2c35980019790448', 'scanid': '100509_1_1', 'study': 'met'}
+new met scan found: 100509_1_1
+downloaded scanids:
+[['0224', 'visit2', 'session2', 'smpsmp'], ['8110', 'visit1', 'session1', 'adhd']]
+failed downloads:
+[['8088', 'visit1', 'session1', 'adhd'], ['100509', 'visit1', 'session1', 'met']]
+processing 0224_2_2 behavioral
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addevent_2/behavioral
+run addevent_2 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addevent_2/behavioral/224_addevent_3__28_Mar_18_05_18PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addevent_1/behavioral
+run addevent_1 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addevent_1/behavioral/224_addevent_2__28_Mar_18_05_09PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/subblock_1/behavioral
+run subblock_1 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/subblock_1/behavioral/224_subblock_5__28_Mar_18_05_37PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/word_2/behavioral
+run word_2 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/word_2/behavioral/224_word_7__28_Mar_18_06_18PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/letter_2/behavioral
+run letter_2 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/letter_2/behavioral/224_letter_10__28_Mar_18_06_39PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/number_2/behavioral
+run number_2 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/number_2/behavioral/224_number_8__28_Mar_18_06_25PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addblock_1/behavioral
+run addblock_1 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addblock_1/behavioral/224_addblock_4__28_Mar_18_05_28PM.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/equation_2/behavioral
+run equation_2 not found, creating acquisition behavioral under flywheel exam id 5abc2d49097fcb0017caa01a
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/equation_2/behavioral/224_equation_9__28_Mar_18_06_32PM.csv
+pconverting 0224_2_2
+anatomical dicom convert 0224_2_2
+no anatomical folder :(
+processing 8110_1_1 behavioral
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run1/behavioral/SST_main_gr-8110-1.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run1/behavioral/SST_main_gr-8110-1.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run1/behavioral/SST_main_gr-8110-1-ExperimentAdvisorReport.xml
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run3/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run3/behavioral/CSST_main_gr-8110-3.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run3/behavioral/CSST_main_gr-8110-3.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run3/behavioral/CSST_main_gr-8110-3-ExperimentAdvisorReport.xml
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run1/behavioral/CSST_main_gr-8110-1.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run1/behavioral/CSST_main_gr-8110-1.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run1/behavioral/CSST_main_gr-8110-1-ExperimentAdvisorReport.xml
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level1_run1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8110-1-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8110-1.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8110-1.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run2/behavioral/SST_main_gr-8110-2.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run2/behavioral/SST_main_gr-8110-2-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level2_run2/behavioral/SST_main_gr-8110-2.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run2/behavioral/CSST_main_gr-8110-2.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run2/behavioral/CSST_main_gr-8110-2.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8110_1_1.3T3/fmri/level3_run2/behavioral/CSST_main_gr-8110-2-ExperimentAdvisorReport.xml
+pconverting 8110_1_1
+anatomical dicom convert 8110_1_1
+no anatomical folder :(

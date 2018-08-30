@@ -1,0 +1,4 @@
+  File "download_from_flywheel.py", line 291
+    fw.delete_acquisition_file(sess_acq['_id'],current_nifti_name)_
+                                                                  ^
+SyntaxError: invalid syntax

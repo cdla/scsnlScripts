@@ -1,0 +1,4 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+rsync: opendir "/hd1/scsnl/datafromlucas/100513_1_1.3T2" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1650) [generator=3.1.2]
+setfacl: Option -m: Invalid argument near character 3

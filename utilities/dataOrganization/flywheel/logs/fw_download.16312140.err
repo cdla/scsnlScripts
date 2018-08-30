@@ -1,0 +1,5 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 143, in <module>
+    os.makedirs(split_path(pjoin(scanidpath,download_pair[1].replace('*',file['name'])))[0],exist_ok=True)
+TypeError: makedirs() got an unexpected keyword argument 'exist_ok'

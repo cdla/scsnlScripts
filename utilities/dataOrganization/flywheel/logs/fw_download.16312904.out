@@ -1,0 +1,2583 @@
+receiving incremental file list
+./
+100509_1_1.3T2/
+100509_1_1.3T2/fmri/
+100509_1_1.3T2/fmri/grid1/
+100509_1_1.3T2/fmri/grid1/behavioral/
+100509_1_1.3T2/fmri/grid2/
+100509_1_1.3T2/fmri/grid2/behavioral/
+100509_1_1.3T2/fmri/grid3/
+100509_1_1.3T2/fmri/grid3/behavioral/
+100509_1_1.3T2/fmri/grid4/
+100509_1_1.3T2/fmri/grid4/behavioral/
+100509_1_1.3T2/fmri/sym1/
+100509_1_1.3T2/fmri/sym1/behavioral/
+100509_1_1.3T2/fmri/sym2/
+100509_1_1.3T2/fmri/sym2/behavioral/
+100509_1_1.3T2/fmri/sym3/
+100509_1_1.3T2/fmri/sym3/behavioral/
+100509_1_1.3T2/fmri/sym4/
+100509_1_1.3T2/fmri/sym4/behavioral/
+100509_1_1.3T2/mock_scan/
+100509_1_1.3T2/mri/
+100509_1_1.3T2/mri/anatomy/
+100509_1_1.3T2/mri/dti/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/001/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/002/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/005/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/006/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/007/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/008/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/009/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/010/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/20002/
+356_3_2.3T3/
+356_3_2.3T3/fmri/
+356_3_2.3T3/fmri/addblock_1/
+356_3_2.3T3/fmri/addblock_1/behavioral/
+356_3_2.3T3/fmri/addevent_1/
+356_3_2.3T3/fmri/addevent_1/behavioral/
+356_3_2.3T3/fmri/addevent_2/
+356_3_2.3T3/fmri/addevent_2/behavioral/
+356_3_2.3T3/fmri/equation_2/
+356_3_2.3T3/fmri/equation_2/behavioral/
+356_3_2.3T3/fmri/letter_2/
+356_3_2.3T3/fmri/letter_2/behavioral/
+356_3_2.3T3/fmri/number_2/
+356_3_2.3T3/fmri/number_2/behavioral/
+356_3_2.3T3/fmri/resting_1/
+356_3_2.3T3/fmri/resting_2/
+356_3_2.3T3/fmri/subblock_1/
+356_3_2.3T3/fmri/subblock_1/behavioral/
+356_3_2.3T3/fmri/word_2/
+356_3_2.3T3/fmri/word_2/behavioral/
+7874_2_1.3T3/
+7874_2_1.3T3/fmri/
+7874_2_1.3T3/fmri/BART_1/
+7874_2_1.3T3/fmri/BART_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_match_1/
+7874_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_regulation_1/
+7874_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_regulation_2/
+7874_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7874_2_1.3T3/fmri/SST_1/
+7874_2_1.3T3/fmri/SST_1/behavioral/
+7874_2_1.3T3/fmri/SST_2/
+7874_2_1.3T3/fmri/SST_2/behavioral/
+7874_2_1.3T3/fmri/resting_state_1/
+7874_2_1.3T3/mri/
+7874_2_1.3T3/mri/anatomy/
+7874_2_1.3T3/mri/dti/
+7877_4_1.3T3/
+7877_4_1.3T3/fmri/
+7877_4_1.3T3/fmri/BART_1/
+7877_4_1.3T3/fmri/BART_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_match_1/
+7877_4_1.3T3/fmri/Emotion_match_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_regulation_1/
+7877_4_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_regulation_2/
+7877_4_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7877_4_1.3T3/fmri/SST_1/
+7877_4_1.3T3/fmri/SST_1/behavioral/
+7877_4_1.3T3/fmri/SST_1_redo/
+7877_4_1.3T3/fmri/SST_1_redo/behavioral/
+7877_4_1.3T3/fmri/SST_2/
+7877_4_1.3T3/fmri/SST_2/behavioral/
+7877_4_1.3T3/fmri/resting_state_1/
+7877_4_1.3T3/mri/
+7877_4_1.3T3/mri/anatomy/
+7877_4_1.3T3/mri/anatomy/001/
+7877_4_1.3T3/mri/anatomy/003/
+7877_4_1.3T3/mri/anatomy/004/
+7877_4_1.3T3/mri/anatomy/005/
+7877_4_1.3T3/mri/anatomy/006/
+7877_4_1.3T3/mri/anatomy/007/
+7877_4_1.3T3/mri/anatomy/008/
+7877_4_1.3T3/mri/anatomy/010/
+7877_4_1.3T3/mri/anatomy/012/
+7877_4_1.3T3/mri/anatomy/013/
+7877_4_1.3T3/mri/anatomy/014/
+7877_4_1.3T3/mri/anatomy/015/
+7877_4_1.3T3/mri/anatomy/016/
+7877_4_1.3T3/mri/anatomy/017/
+7877_4_1.3T3/mri/anatomy/019/
+7877_4_1.3T3/mri/anatomy/20003/
+7877_4_1.3T3/mri/anatomy/20004/
+7877_4_1.3T3/mri/anatomy/20007/
+7877_4_1.3T3/mri/anatomy/20012/
+7877_4_1.3T3/mri/anatomy/20016/
+7877_4_1.3T3/mri/anatomy/20017/
+7877_4_1.3T3/mri/anatomy/20018/
+7877_4_1.3T3/mri/dti/
+7877_4_1.3T3/mri/dti/018/
+8009_4_1.3T3/
+8009_4_1.3T3/fmri/
+8009_4_1.3T3/fmri/encoding_1/
+8009_4_1.3T3/fmri/encoding_1/behavioral/
+8009_4_1.3T3/fmri/encoding_1/physiological/
+8009_4_1.3T3/fmri/encoding_2/
+8009_4_1.3T3/fmri/encoding_2/behavioral/
+8009_4_1.3T3/fmri/encoding_2/physiological/
+8009_4_1.3T3/fmri/localizer/
+8009_4_1.3T3/fmri/localizer/behavioral/
+8009_4_1.3T3/fmri/localizer/physiological/
+8009_4_1.3T3/fmri/resting_1/
+8009_4_1.3T3/fmri/resting_1/physiological/
+8009_4_1.3T3/fmri/resting_2/
+8009_4_1.3T3/fmri/resting_2/physiological/
+8009_4_1.3T3/fmri/retrieval_1/
+8009_4_1.3T3/fmri/retrieval_1/behavioral/
+8009_4_1.3T3/fmri/retrieval_1/physiological/
+8009_4_1.3T3/fmri/retrieval_2/
+8009_4_1.3T3/fmri/retrieval_2/behavioral/
+8009_4_1.3T3/fmri/retrieval_2/physiological/
+8009_4_1.3T3/fmri/retrieval_3/
+8009_4_1.3T3/fmri/retrieval_3/behavioral/
+8009_4_1.3T3/fmri/retrieval_3/physiological/
+8009_4_1.3T3/fmri/retrieval_4/
+8009_4_1.3T3/fmri/retrieval_4/behavioral/
+8009_4_1.3T3/fmri/retrieval_4/physiological/
+8009_4_1.3T3/mri/
+8009_4_1.3T3/mri/anatomy/
+8009_4_1.3T3/mri/dti/
+8033_1_1.3T3/
+8033_1_1.3T3/behavioral/
+8033_1_1.3T3/fmri/
+8033_1_1.3T3/fmri/level1_run1/
+8033_1_1.3T3/fmri/level1_run1/behavioral/
+8033_1_1.3T3/fmri/level1_run1_blipdown/
+8033_1_1.3T3/fmri/level2_run1/
+8033_1_1.3T3/fmri/level2_run1/behavioral/
+8033_1_1.3T3/fmri/level2_run1_blipdown/
+8033_1_1.3T3/fmri/level2_run2/
+8033_1_1.3T3/fmri/level2_run2/behavioral/
+8033_1_1.3T3/fmri/level2_run2_blipdown/
+8033_1_1.3T3/fmri/level3_run1/
+8033_1_1.3T3/fmri/level3_run1/behavioral/
+8033_1_1.3T3/fmri/level3_run1_blipdown/
+8033_1_1.3T3/fmri/level3_run2/
+8033_1_1.3T3/fmri/level3_run2/behavioral/
+8033_1_1.3T3/fmri/level3_run2_blipdown/
+8033_1_1.3T3/fmri/level3_run2_redo/
+8033_1_1.3T3/fmri/level3_run2_redo/behavioral/
+8033_1_1.3T3/fmri/level3_run3/
+8033_1_1.3T3/fmri/level3_run3/behavioral/
+8033_1_1.3T3/fmri/level3_run3_blipdown/
+8033_1_1.3T3/fmri/resting_state_1/
+8033_1_1.3T3/fmri/resting_state_1_blipdown/
+8033_1_1.3T3/mri/
+8033_1_1.3T3/mri/anatomy/
+8033_1_1.3T3/mri/dti/
+8033_1_1.3T3/mri/multibandcoil/
+8033_1_1.3T3/mri/multibandcoil/001/
+8033_1_1.3T3/mri/multibandcoil/011/
+8033_1_1.3T3/mri/multibandcoil/019/
+8033_1_1.3T3/mri/multibandcoil/020/
+8033_1_1.3T3/mri/standardcoil/
+8033_1_1.3T3/mri/standardcoil/001/
+8033_1_1.3T3/mri/standardcoil/003/
+8033_1_1.3T3/mri/standardcoil/004/
+8033_1_1.3T3/mri/standardcoil/005/
+8033_1_1.3T3/mri/standardcoil/20003/
+8033_1_1.3T3/mri/standardcoil/20004/
+8033_1_1.3T3/mri/standardcoil/20005/
+8094_1_1.3T3/
+8094_1_1.3T3/behavioral/
+8094_1_1.3T3/fmri/
+8094_1_1.3T3/fmri/level1_run1/
+8094_1_1.3T3/fmri/level1_run1/behavioral/
+8094_1_1.3T3/fmri/level1_run1_blipdown/
+8094_1_1.3T3/fmri/level2_run1/
+8094_1_1.3T3/fmri/level2_run1/behavioral/
+8094_1_1.3T3/fmri/level2_run1_blipdown/
+8094_1_1.3T3/fmri/level2_run2/
+8094_1_1.3T3/fmri/level2_run2/behavioral/
+8094_1_1.3T3/fmri/level2_run2_blipdown/
+8094_1_1.3T3/fmri/level3_run1/
+8094_1_1.3T3/fmri/level3_run1/behavioral/
+8094_1_1.3T3/fmri/level3_run1_blipdown/
+8094_1_1.3T3/fmri/level3_run2/
+8094_1_1.3T3/fmri/level3_run2/behavioral/
+8094_1_1.3T3/fmri/level3_run2_blipdown/
+8094_1_1.3T3/fmri/level3_run3/
+8094_1_1.3T3/fmri/level3_run3/behavioral/
+8094_1_1.3T3/fmri/level3_run3_blipdown/
+8094_1_1.3T3/fmri/resting_state_1/
+8094_1_1.3T3/fmri/resting_state_1_blipdown/
+8094_1_1.3T3/mri/
+8094_1_1.3T3/mri/anatomy/
+8094_1_1.3T3/mri/anatomy/multibandcoil/
+8094_1_1.3T3/mri/anatomy/standardcoil/
+8094_1_1.3T3/mri/dti/
+8098_1_1.3T3/
+8098_1_1.3T3/behavioral/
+8098_1_1.3T3/fmri/
+8098_1_1.3T3/fmri/level1_run1/
+8098_1_1.3T3/fmri/level1_run1/behavioral/
+8098_1_1.3T3/fmri/level1_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run1/
+8098_1_1.3T3/fmri/level2_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run2/
+8098_1_1.3T3/fmri/level2_run2/behavioral/
+8098_1_1.3T3/fmri/level2_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run1/
+8098_1_1.3T3/fmri/level3_run1/behavioral/
+8098_1_1.3T3/fmri/level3_run1_blipdown/
+8098_1_1.3T3/fmri/level3_run2/
+8098_1_1.3T3/fmri/level3_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run3/
+8098_1_1.3T3/fmri/level3_run3/behavioral/
+8098_1_1.3T3/fmri/level3_run3_blipdown/
+8098_1_1.3T3/fmri/resting_state_1/
+8098_1_1.3T3/fmri/resting_state_1_blipdown/
+8098_1_1.3T3/mri/
+8098_1_1.3T3/mri/anatomy/
+8098_1_1.3T3/mri/anatomy/multibandcoil/
+8098_1_1.3T3/mri/anatomy/standardcoil/
+8098_1_1.3T3/mri/dti/
+8110_1_1.3T3/
+8110_1_1.3T3/behaviorial/
+8110_1_1.3T3/fmri/
+8110_1_1.3T3/fmri/level1_run1/
+8110_1_1.3T3/fmri/level1_run1/behavioral/
+8110_1_1.3T3/fmri/level1_run1_blipdown/
+8110_1_1.3T3/fmri/level2_run1/
+8110_1_1.3T3/fmri/level2_run1/behavioral/
+8110_1_1.3T3/fmri/level2_run1_blipdown/
+8110_1_1.3T3/fmri/level2_run2/
+8110_1_1.3T3/fmri/level2_run2/behavioral/
+8110_1_1.3T3/fmri/level2_run2_blipdown/
+8110_1_1.3T3/fmri/level3_run1/
+8110_1_1.3T3/fmri/level3_run1/behavioral/
+8110_1_1.3T3/fmri/level3_run1_blipdown/
+8110_1_1.3T3/fmri/level3_run2/
+8110_1_1.3T3/fmri/level3_run2/behavioral/
+8110_1_1.3T3/fmri/level3_run2_blipdown/
+8110_1_1.3T3/fmri/level3_run3/
+8110_1_1.3T3/fmri/level3_run3/behavioral/
+8110_1_1.3T3/fmri/level3_run3_blipdown/
+8110_1_1.3T3/fmri/resting_state_1/
+8110_1_1.3T3/fmri/resting_state_1_blipdown/
+8110_1_1.3T3/mri/
+8110_1_1.3T3/mri/anatomy/
+8110_1_1.3T3/mri/anatomy/multibandcoil/
+8110_1_1.3T3/mri/anatomy/standardcoil/
+8110_1_1.3T3/mri/dti/
+8114_1_1.3T3/
+8114_1_1.3T3/fmri/
+8114_1_1.3T3/fmri/encoding_1/
+8114_1_1.3T3/fmri/encoding_1/behavioral/
+8114_1_1.3T3/fmri/encoding_1/physiological/
+8114_1_1.3T3/fmri/encoding_2/
+8114_1_1.3T3/fmri/encoding_2/behavioral/
+8114_1_1.3T3/fmri/encoding_2/physiological/
+8114_1_1.3T3/fmri/localizer/
+8114_1_1.3T3/fmri/localizer/behavioral/
+8114_1_1.3T3/fmri/localizer/physiological/
+8114_1_1.3T3/fmri/resting_1/
+8114_1_1.3T3/fmri/resting_1/physiological/
+8114_1_1.3T3/fmri/resting_2/
+8114_1_1.3T3/fmri/resting_2/physiological/
+8114_1_1.3T3/fmri/retrieval_1/
+8114_1_1.3T3/fmri/retrieval_1/behavioral/
+8114_1_1.3T3/fmri/retrieval_1/physiological/
+8114_1_1.3T3/fmri/retrieval_2/
+8114_1_1.3T3/fmri/retrieval_2/behavioral/
+8114_1_1.3T3/fmri/retrieval_2/physiological/
+8114_1_1.3T3/fmri/retrieval_3/
+8114_1_1.3T3/fmri/retrieval_3/behavioral/
+8114_1_1.3T3/fmri/retrieval_3/physiological/
+8114_1_1.3T3/fmri/retrieval_4/
+8114_1_1.3T3/fmri/retrieval_4/behavioral/
+8114_1_1.3T3/fmri/retrieval_4/physiological/
+8114_1_1.3T3/mri/
+8114_1_1.3T3/mri/anatomy/
+8114_1_1.3T3/mri/dti/
+8119_1_1.3T3/
+8119_1_1.3T3/fmri/
+8119_1_1.3T3/fmri/encoding_1/
+8119_1_1.3T3/fmri/encoding_1/behavioral/
+8119_1_1.3T3/fmri/encoding_1/physiological/
+8119_1_1.3T3/fmri/encoding_2/
+8119_1_1.3T3/fmri/encoding_2/behavioral/
+8119_1_1.3T3/fmri/encoding_2/physiological/
+8119_1_1.3T3/fmri/localizer/
+8119_1_1.3T3/fmri/localizer/behavioral/
+8119_1_1.3T3/fmri/localizer/physiological/
+8119_1_1.3T3/fmri/resting_1/
+8119_1_1.3T3/fmri/resting_1/physiological/
+8119_1_1.3T3/fmri/resting_2/
+8119_1_1.3T3/fmri/resting_2/physiological/
+8119_1_1.3T3/fmri/retrieval_1/
+8119_1_1.3T3/fmri/retrieval_1/behavioral/
+8119_1_1.3T3/fmri/retrieval_1/physiological/
+8119_1_1.3T3/fmri/retrieval_2/
+8119_1_1.3T3/fmri/retrieval_2/behavioral/
+8119_1_1.3T3/fmri/retrieval_2/physiological/
+8119_1_1.3T3/fmri/retrieval_3/
+8119_1_1.3T3/fmri/retrieval_3/behavioral/
+8119_1_1.3T3/fmri/retrieval_3/physiological/
+8119_1_1.3T3/fmri/retrieval_4/
+8119_1_1.3T3/fmri/retrieval_4/behavioral/
+8119_1_1.3T3/fmri/retrieval_4/physiological/
+8119_1_1.3T3/mri/
+8119_1_1.3T3/mri/anatomy/
+8119_1_1.3T3/mri/dti/
+
+sent 2664 bytes  received 500924 bytes  335725.33 bytes/sec
+total size is 5600812238  speedup is 11121.81
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P20480.7
+imgfilename = P20480.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 186
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P20480.7.mag P20480.7.add 186 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P20480.7.add E13958S020P20480.7 I
+
+nslc = 31  nframes = 186  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0005
+  0.0000  -0.9761  -0.2173
+ -0.0007  -0.2170   0.9762
+Quaternion: -0.0003 -0.1092 0.9940
+Offset vector: 116.7 128.1 3.4
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:24:27 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P07680.7
+imgfilename = P07680.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 182
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P07680.7.mag P07680.7.add 182 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P07680.7.add E13958S004P07680.7 I
+
+nslc = 31  nframes = 182  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0000  -0.0009
+  0.0000  -0.9696  -0.2446
+ -0.0007  -0.2445   0.9697
+Quaternion: -0.0004 -0.1232 0.9924
+Offset vector: 112.6 127.7 1.8
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:25:12 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P16384.7
+imgfilename = P16384.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 182
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P16384.7.mag P16384.7.add 182 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P16384.7.add E13958S014P16384.7 I
+
+nslc = 31  nframes = 182  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0055   0.0059
+ -0.0068  -0.9720  -0.2350
+  0.0037  -0.2356   0.9719
+Quaternion: 0.0024 -0.1185 0.9929
+Offset vector: 115.6 125.7 6.6
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:25:54 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P15360.7
+imgfilename = P15360.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 188
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P15360.7.mag P15360.7.add 188 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P15360.7.add E13958S012P15360.7 I
+
+nslc = 31  nframes = 188  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0055   0.0059
+ -0.0068  -0.9720  -0.2350
+  0.0037  -0.2356   0.9719
+Quaternion: 0.0024 -0.1185 0.9929
+Offset vector: 115.6 125.7 6.6
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:26:32 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P15872.7
+imgfilename = P15872.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 188
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P15872.7.mag P15872.7.add 188 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P15872.7.add E13958S013P15872.7 I
+
+nslc = 31  nframes = 188  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0055   0.0059
+ -0.0068  -0.9720  -0.2350
+  0.0037  -0.2356   0.9719
+Quaternion: 0.0024 -0.1185 0.9929
+Offset vector: 115.6 125.7 6.6
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:27:18 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P19968.7
+imgfilename = P19968.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 186
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P19968.7.mag P19968.7.add 186 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P19968.7.add E13958S019P19968.7 I
+
+nslc = 31  nframes = 186  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0005
+  0.0000  -0.9761  -0.2173
+ -0.0007  -0.2170   0.9762
+Quaternion: -0.0003 -0.1092 0.9940
+Offset vector: 116.7 128.1 3.4
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:28:03 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P33792.7
+imgfilename = P33792.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 186
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P33792.7.mag P33792.7.add 186 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P33792.7.add E13959S019P33792.7 I
+
+nslc = 31  nframes = 186  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0000  -0.0005
+  0.0000  -0.9707  -0.2404
+ -0.0007  -0.2406   0.9706
+Quaternion: -0.0003 -0.1211 0.9926
+Offset vector: 114.6 133.7 -8.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:28:43 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P24064.7
+imgfilename = P24064.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 182
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P24064.7.mag P24064.7.add 182 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P24064.7.add E13959S004P24064.7 I
+
+nslc = 31  nframes = 182  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0005
+  0.0000  -0.9543  -0.2987
+ -0.0007  -0.2986   0.9544
+Quaternion: -0.0003 -0.1511 0.9885
+Offset vector: 111.6 133.2 -18.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:29:18 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P28672.7
+imgfilename = P28672.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 182
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P28672.7.mag P28672.7.add 182 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P28672.7.add E13959S011P28672.7 I
+
+nslc = 31  nframes = 182  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0009
+  0.0000  -0.9812  -0.1932
+ -0.0007  -0.1927   0.9813
+Quaternion: -0.0004 -0.0969 0.9953
+Offset vector: 113.1 127.0 -25.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:29:57 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P34304.7
+imgfilename = P34304.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 186
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P34304.7.mag P34304.7.add 186 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P34304.7.add E13959S020P34304.7 I
+
+nslc = 31  nframes = 186  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0000  -0.0005
+  0.0000  -0.9707  -0.2404
+ -0.0007  -0.2406   0.9706
+Quaternion: -0.0003 -0.1211 0.9926
+Offset vector: 114.6 133.7 -8.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:30:39 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P24576.7
+imgfilename = P24576.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 188
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P24576.7.mag P24576.7.add 188 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P24576.7.add E13959S005P24576.7 I
+
+nslc = 31  nframes = 188  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0005
+  0.0000  -0.9543  -0.2987
+ -0.0007  -0.2986   0.9544
+Quaternion: -0.0003 -0.1511 0.9885
+Offset vector: 111.6 133.2 -18.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:31:16 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P28160.7
+imgfilename = P28160.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 188
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P28160.7.mag P28160.7.add 188 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P28160.7.add E13959S010P28160.7 I
+
+nslc = 31  nframes = 188  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0009
+  0.0000  -0.9812  -0.1932
+ -0.0007  -0.1927   0.9813
+Quaternion: -0.0004 -0.0969 0.9953
+Offset vector: 113.1 127.0 -25.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:32:01 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P34816.7
+imgfilename = P34816.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 186
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P34816.7.mag P34816.7.add 186 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P34816.7.add E13959S021P34816.7 I
+
+nslc = 31  nframes = 186  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0000  -0.0005
+  0.0000  -0.9707  -0.2404
+ -0.0007  -0.2406   0.9706
+Quaternion: -0.0003 -0.1211 0.9926
+Offset vector: 114.6 133.7 -8.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:32:38 PDT 2018
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P33280.7
+imgfilename = P33280.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 186
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P33280.7.mag P33280.7.add 186 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P33280.7.add E13959S018P33280.7 I
+
+nslc = 31  nframes = 186  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0000  -0.0005
+  0.0000  -0.9707  -0.2404
+ -0.0007  -0.2406   0.9706
+Quaternion: -0.0003 -0.1211 0.9926
+Offset vector: 114.6 133.7 -8.2
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:33:14 PDT 2018
+Archive:  1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom.zip
+{"group": {"_id": "menon"}, "project": {"label": "memory"}, "session": {"uid": "1.2.840.113619.6.408.271414407071075811776861938681002691395", "timestamp": "2018-04-29T14:54:01-07:00", "label": "8009_4_1.3T3", "operator": "A^A", "timezone": "America/Los_Angeles", "subject": {"code": "8009_4_1.3T3"}}, "acquisition": {"files": [{"type": "dicom", "name": "1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom.zip"}], "timezone": "America/Los_Angeles", "uid": "1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1", "timestamp": "2018-04-29T15:47:33-07:00", "label": "3D_volume_structural"}}
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.458.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.403.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.413.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.449.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.425.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.428.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.416.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.464.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.410.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.448.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.454.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.463.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.471.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.439.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.499.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.480.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.441.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.401.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.486.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.435.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.489.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.409.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.496.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.455.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.407.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.483.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.477.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.473.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.490.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.451.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.467.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.433.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.415.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.495.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.492.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.462.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.404.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.417.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.406.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.457.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.402.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.420.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.434.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.479.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.491.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.405.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.443.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.421.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.431.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.466.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.478.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.426.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.475.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.470.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.474.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.408.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.437.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.418.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.450.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.469.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.422.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.482.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.487.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.484.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.481.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.456.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.414.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.442.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.461.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.497.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.452.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.472.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.427.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.419.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.424.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.459.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.445.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.453.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.436.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.494.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.488.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.444.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.438.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.430.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.440.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.493.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.423.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.446.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.468.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.460.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.485.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.429.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.447.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.465.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.432.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.412.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.411.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.498.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.551.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.539.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.544.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.503.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.519.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.520.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.542.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.557.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.543.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.514.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.552.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.563.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.506.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.501.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.540.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.509.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.504.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.560.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.562.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.554.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.529.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.545.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.505.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.512.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.518.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.536.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.564.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.548.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.524.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.532.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.508.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.502.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.549.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.565.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.558.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.510.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.527.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.528.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.538.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.556.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.561.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.500.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.537.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.513.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.553.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.511.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.515.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.522.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.547.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.566.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.550.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.531.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.521.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.534.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.533.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.555.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.526.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.541.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.507.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.559.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.546.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.523.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.517.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.516.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.530.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.525.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.535.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.476.dcm  
+Archive:  1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom.zip
+{"group": {"_id": "menon"}, "project": {"label": "memory"}, "session": {"uid": "1.2.840.113619.6.408.271414407071075811776861938681002691395", "timestamp": "2018-04-29T14:54:01-07:00", "label": "8009_4_1.3T3", "operator": "A^A", "timezone": "America/Los_Angeles", "subject": {"code": "8009_4_1.3T3"}}, "acquisition": {"files": [{"type": "dicom", "name": "1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom.zip"}], "timezone": "America/Los_Angeles", "uid": "1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1", "timestamp": "2018-04-29T15:42:12-07:00", "label": "3D_volume_structural"}}
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.178.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.180.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.182.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.186.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.179.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.185.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.183.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.181.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.184.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.154.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.132.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.141.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.111.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.102.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.140.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.106.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.192.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.109.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.143.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.128.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.139.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.171.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.125.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.163.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.142.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.113.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.173.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.199.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.115.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.114.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.137.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.148.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.138.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.117.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.147.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.175.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.129.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.188.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.158.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.193.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.161.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.105.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.174.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.133.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.164.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.195.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.112.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.130.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.126.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.196.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.131.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.165.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.104.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.156.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.135.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.155.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.159.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.110.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.153.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.160.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.136.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.103.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.162.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.149.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.191.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.150.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.187.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.198.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.120.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.157.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.169.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.107.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.170.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.166.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.123.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.172.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.108.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.122.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.194.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.119.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.189.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.200.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.190.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.134.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.152.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.144.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.124.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.197.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.121.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.118.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.145.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.168.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.167.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.116.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.151.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.127.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.146.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.228.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.219.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.202.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.246.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.208.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.207.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.201.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.245.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.260.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.262.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.221.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.237.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.264.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.232.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.265.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.230.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.216.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.240.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.243.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.266.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.205.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.227.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.256.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.203.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.236.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.258.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.244.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.206.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.217.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.238.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.235.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.248.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.215.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.239.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.241.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.261.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.267.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.222.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.212.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.253.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.204.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.255.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.213.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.224.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.225.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.242.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.218.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.214.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.259.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.220.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.257.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.251.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.231.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.247.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.223.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.233.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.229.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.210.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.249.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.177.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.226.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.250.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.209.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.254.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.252.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.211.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.263.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.234.dcm  
+  inflating: 1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom/MR.1.2.840.113619.2.408.14196467.1641386.23392.1524759895.176.dcm  
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.556344) 64-bit (glnxa64)
+                               March 27, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+==================================================================
+DICOM conversion starts at 2018/05/04 17:34:28
+==================================================================
+Current directory is: /oak/stanford/groups/menon/scsnlscripts/utilities/dataOrganization/pre_preprocessing/utils
+------------------------------------------------------------------
+DICOM to SPGR conversion is successful!
+DICOM to SPGR conversion is successful!
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P43008.7
+imgfilename = P43008.7.mag
+output file name = I
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 195
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P43008.7.mag P43008.7.add 195 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P43008.7.add E13960S006P43008.7 I
+
+nslc = 31  nframes = 195  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0005  -0.0005
+  0.0000  -0.8946  -0.4468
+ -0.0007  -0.4466   0.8947
+Quaternion: -0.0003 -0.2295 0.9733
+Offset vector: 119.7 132.1 3.0
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Fri May  4 17:35:02 PDT 2018
+rsyncing behavioral data
+ex12102 poorly formatted
+ex12261 poorly formatted
+ex12512 poorly formatted
+ex12225 poorly formatted
+ex12181 poorly formatted
+ex12443 poorly formatted
+ex12394 poorly formatted
+ex12352 poorly formatted
+ex12319 poorly formatted
+ex12318 poorly formatted
+ex12398 poorly formatted
+ex12450 poorly formatted
+ex12354 poorly formatted
+ex12444 poorly formatted
+ex12262 poorly formatted
+ex12085 poorly formatted
+ex12097 poorly formatted
+ex12264 poorly formatted
+ex12503 poorly formatted
+ex12395 poorly formatted
+ex12125 poorly formatted
+ex12221 poorly formatted
+ex12220 poorly formatted
+ex12202 poorly formatted
+ex12180 poorly formatted
+ex12451 poorly formatted
+ex12263 poorly formatted
+ex12179 poorly formatted
+ex12353 poorly formatted
+ex12584 poorly formatted
+ex12585 poorly formatted
+ex12587 poorly formatted
+ex12589 poorly formatted
+ex12590 poorly formatted
+ex12626 poorly formatted
+ex12627 poorly formatted
+ex12644 poorly formatted
+ex12650 poorly formatted
+ex12651 poorly formatted
+ex12652 poorly formatted
+ex12661 poorly formatted
+ex12662 poorly formatted
+ex12663 poorly formatted
+ex12664 poorly formatted
+ex12673 poorly formatted
+ex12674 poorly formatted
+ex12675 poorly formatted
+ex12709 poorly formatted
+ex12766 poorly formatted
+ex12775 poorly formatted
+ex12789 poorly formatted
+ex12796 poorly formatted
+ex12819 poorly formatted
+ex12824 poorly formatted
+ex12879 poorly formatted
+ex12873 poorly formatted
+ex12934 poorly formatted
+ex12935 poorly formatted
+ex12939 poorly formatted
+ex12940 poorly formatted
+ex12941 poorly formatted
+ex12942 poorly formatted
+ex12943 poorly formatted
+ex12944 poorly formatted
+ex12945 poorly formatted
+ex12980 poorly formatted
+ex12982 poorly formatted
+ex12983 poorly formatted
+ex13011 poorly formatted
+ex13013 poorly formatted
+ex13014 poorly formatted
+ex13015 poorly formatted
+ex13016 poorly formatted
+ex13017 poorly formatted
+ex13027 poorly formatted
+ex13042 poorly formatted
+ex13043 poorly formatted
+ex13081 poorly formatted
+ex13082 poorly formatted
+ex13119 poorly formatted
+ex13120 poorly formatted
+ex13125 poorly formatted
+ex13153 poorly formatted
+ex13154 poorly formatted
+ex13259 poorly formatted
+ex13260 poorly formatted
+ex13283 poorly formatted
+ex13298 poorly formatted
+ex13359 poorly formatted
+ex13363 poorly formatted
+ex13410 poorly formatted
+ex13412 poorly formatted
+ex13453 poorly formatted
+ex13490 poorly formatted
+ex13493 poorly formatted
+ex13495 poorly formatted
+ex13258 poorly formatted
+ex3028 poorly formatted
+ex13496 poorly formatted
+ex13357 poorly formatted
+ex13356 poorly formatted
+ex13361 poorly formatted
+ex13401 poorly formatted
+ex13402 poorly formatted
+ex13403 poorly formatted
+ex2945 poorly formatted
+ex13407 poorly formatted
+ex13408 poorly formatted
+ex13411 poorly formatted
+ex13469 poorly formatted
+ex13542 poorly formatted
+ex13815 poorly formatted
+test poorly formatted
+new smp scan found: 0224_2_2
+new asdmemory scan found: 8119_1_1
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/E13958S004P07680.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.mag.zits
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles/P07680.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/E13958S012P15360.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.mag.zits
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles/P15360.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/E13958S013P15872.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.mag.zits
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles/P15872.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/E13958S014P16384.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles/P16384.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/E13958S019P19968.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.mag.zits
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles/P19968.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/E13958S020P20480.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles/P20480.7.gz
+new asdmemory scan found: 8009_4_1
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/E13959S004P24064.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles/P24064.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/E13959S005P24576.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles/P24576.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/E13959S010P28160.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles/P28160.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/E13959S011P28672.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles/P28672.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/E13959S018P33280.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles/P33280.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/E13959S019P33792.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles/P33792.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/E13959S020P34304.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles/P34304.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/E13959S021P34816.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles/P34816.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/anatomical/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.668_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/anatomical/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.671_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/dwi/dwi_raw_hardi_150.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/dwi/dwi_raw_hardi_150.bvec
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/dwi/dwi_raw_hardi_150.bval
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/dwi/dwi_raw_hardi_PE.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/dwi/dwi_raw_hardi_PE.bvec
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/dwi/dwi_raw_hardi_PE.bval
+new smp scan found: 0356_3_2
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/E13960S007P43520.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/P43520.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.736_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.736_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addblock_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.736_1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/E13960S005P42496.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.mag.zits
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/P42496.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.734_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.734_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.734_1_e1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/E13960S006P43008.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/P43008.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.735_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.735_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.735_1_e1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/E13960S016P49152.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/P49152.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.766_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.766_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/equation_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.766_1_e1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/E13960S017P49664.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/P49664.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.767_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.767_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/letter_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.767_1_e1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/E13960S015P48640.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/P48640.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.765_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.765_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/number_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.765_1_e1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/E13960S008P44032.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/P44032.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.737_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.737_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/subblock_1/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.737_1.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/E13960S014P48128.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/P48128.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.764_1.dicom.zip
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.764_1_e2.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/word_2/Pfiles/1.2.840.113619.2.408.14196467.1641386.25562.1524759532.764_1.nii.gz
+downloaded scanids:
+[['8119', 'visit1', 'session1', 'asdmemory'], ['8009', 'visit4', 'session1', 'asdmemory'], ['0356', 'visit3', 'session2', 'smp']]
+failed downloads:
+[['0224', 'visit2', 'session2', 'smp']]
+processing 8119_1_1 behavioral
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_2/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8119_ss2_290418_1141.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_2/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8119_ss2_290418_1141.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_3/behavioral
+run retrieval_3 not found, creating acquisition behavioral under flywheel exam id 5ae5f63e2c35980017792541
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/encoding_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/encoding_1/behavioral/EncodingTask_2runs_FINAL_updated__sub8119_ss1_290418_1049.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/encoding_1/behavioral/EncodingTask_2runs_FINAL_updated__sub8119_ss1_290418_1049.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/encoding_2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/encoding_2/behavioral/EncodingTask_2runs_FINAL_updated__sub8119_ss2_290418_1059.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/encoding_2/behavioral/EncodingTask_2runs_FINAL_updated__sub8119_ss2_290418_1059.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/localizer/behavioral
+run localizer not found, creating acquisition behavioral under flywheel exam id 5ae5f63e2c35980017792541
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_4/behavioral
+run retrieval_4 not found, creating acquisition behavioral under flywheel exam id 5ae5f63e2c35980017792541
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_1/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8119_ss1_290418_1130.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8119_1_1.3T3/fmri/retrieval_1/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8119_ss1_290418_1130.txt
+pconverting 8119_1_1
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_2/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_1/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/resting_2/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_1/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/encoding_2/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8119/visit1/session1/fmri/retrieval_1/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+anatomical dicom convert 8119_1_1
+no anatomical folder :(
+processing 8009_4_1 behavioral
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_2/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss2_290418_1624.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_2/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss2_290418_1624.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_3/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_3/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss3_290418_1632.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_3/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss3_290418_1632.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/encoding_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/encoding_1/behavioral/EncodingTask_2runs_FINAL_updated__sub8009_ss1_290418_1507.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/encoding_1/behavioral/EncodingTask_2runs_FINAL_updated__sub8009_ss1_290418_1507.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/encoding_2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/encoding_2/behavioral/EncodingTask_2runs_FINAL_updated__sub8009_ss2_290418_1518.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/encoding_2/behavioral/EncodingTask_2runs_FINAL_updated__sub8009_ss2_290418_1518.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/localizer/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/localizer/behavioral/Localizer_Task_FINAL_updated__sub8009_ss1_290418_1715.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/localizer/behavioral/Localizer_Task_FINAL_updated__sub8009_ss1_290418_1715.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_4/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_4/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss4_290418_1641.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_4/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss4_290418_1641.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_1/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss1_290418_1612.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/8009_4_1.3T3/fmri/retrieval_1/behavioral/RetrievalTask_4Runs_FINAL_updated_sub8009_ss1_290418_1612.edat2
+pconverting 8009_4_1
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_2/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_1/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/resting_2/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_3/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_1/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/encoding_2/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_4/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/8009/visit4/session1/fmri/retrieval_1/Pfiles
+moving first 2 images to unused
+P Conversion successful.
+deleting pfiles . . .
+anatomical dicom convert 8009_4_1
+2 spgr files made!
+processing 0356_3_2 behavioral
+scanid not found in .fromlucas folder!
+pconverting 0356_3_2
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/0356/visit3/session2/fmri/addevent_2/Pfiles

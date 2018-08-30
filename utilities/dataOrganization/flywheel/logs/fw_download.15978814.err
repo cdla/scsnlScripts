@@ -1,0 +1,5 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 137, in <module>
+    study_template = studies_template[exam['study']]
+KeyError: 'memory'

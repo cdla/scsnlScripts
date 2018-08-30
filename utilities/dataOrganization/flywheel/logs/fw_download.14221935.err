@@ -1,0 +1,9 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/addevent_2’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/addevent_1’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/subblock_1’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/word_2’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/letter_2’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/number_2’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/addblock_1’: No such file or directory
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/equation_2’: No such file or directory

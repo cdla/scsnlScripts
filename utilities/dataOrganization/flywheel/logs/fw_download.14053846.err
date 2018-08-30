@@ -1,0 +1,5 @@
+cp: cannot create directory ‘/oak/stanford/groups/menon/rawdata/scsnl/0224/visit2/session2/fmri/addevent_2’: No such file or directory
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 195, in <module>
+    run = folderlist[i+1]
+NameError: name 'folderlist' is not defined

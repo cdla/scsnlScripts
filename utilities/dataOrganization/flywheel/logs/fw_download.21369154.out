@@ -1,0 +1,1307 @@
+receiving incremental file list
+./
+100509_1_1.3T2/
+100509_1_1.3T2/fmri/
+100509_1_1.3T2/fmri/grid1/
+100509_1_1.3T2/fmri/grid1/behavioral/
+100509_1_1.3T2/fmri/grid2/
+100509_1_1.3T2/fmri/grid2/behavioral/
+100509_1_1.3T2/fmri/grid3/
+100509_1_1.3T2/fmri/grid3/behavioral/
+100509_1_1.3T2/fmri/grid4/
+100509_1_1.3T2/fmri/grid4/behavioral/
+100509_1_1.3T2/fmri/sym1/
+100509_1_1.3T2/fmri/sym1/behavioral/
+100509_1_1.3T2/fmri/sym2/
+100509_1_1.3T2/fmri/sym2/behavioral/
+100509_1_1.3T2/fmri/sym3/
+100509_1_1.3T2/fmri/sym3/behavioral/
+100509_1_1.3T2/fmri/sym4/
+100509_1_1.3T2/fmri/sym4/behavioral/
+100509_1_1.3T2/mock_scan/
+100509_1_1.3T2/mri/
+100509_1_1.3T2/mri/anatomy/
+100509_1_1.3T2/mri/dti/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/001/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/002/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/005/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/006/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/007/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/008/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/009/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/010/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/20002/
+100510_1_1.3T2/
+100510_1_1.3T2/fmri/
+100510_1_1.3T2/fmri/dicoms/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/001/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/003/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/004/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/005/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/006/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/007/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/009/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/011/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/012/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/013/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/014/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/015/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/016/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/20003/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/20011/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/40006/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/40007/
+100510_1_1.3T2/fmri/grid1/
+100510_1_1.3T2/fmri/grid1/behavioral/
+100510_1_1.3T2/fmri/grid2/
+100510_1_1.3T2/fmri/grid2/behavioral/
+100510_1_1.3T2/fmri/grid3/
+100510_1_1.3T2/fmri/grid3/behavioral/
+100510_1_1.3T2/fmri/grid4/
+100510_1_1.3T2/fmri/grid4/behavioral/
+100510_1_1.3T2/fmri/sym1/
+100510_1_1.3T2/fmri/sym1/behavioral/
+100510_1_1.3T2/fmri/sym2/
+100510_1_1.3T2/fmri/sym2/behavioral/
+100510_1_1.3T2/fmri/sym3/
+100510_1_1.3T2/fmri/sym3/behavioral/
+100510_1_1.3T2/fmri/sym4/
+100510_1_1.3T2/fmri/sym4/behavioral/
+100510_1_1.3T2/mock_scan/
+100510_1_1.3T2/mri/
+100510_1_1.3T2/mri/anatomy/
+100510_1_1.3T2/mri/anatomy/001/
+100510_1_1.3T2/mri/anatomy/003/
+100510_1_1.3T2/mri/anatomy/004/
+100510_1_1.3T2/mri/anatomy/005/
+100510_1_1.3T2/mri/anatomy/006/
+100510_1_1.3T2/mri/anatomy/007/
+100510_1_1.3T2/mri/anatomy/009/
+100510_1_1.3T2/mri/anatomy/011/
+100510_1_1.3T2/mri/anatomy/012/
+100510_1_1.3T2/mri/anatomy/013/
+100510_1_1.3T2/mri/anatomy/014/
+100510_1_1.3T2/mri/anatomy/015/
+100510_1_1.3T2/mri/anatomy/016/
+100510_1_1.3T2/mri/anatomy/20003/
+100510_1_1.3T2/mri/anatomy/20011/
+100510_1_1.3T2/mri/anatomy/40006/
+100510_1_1.3T2/mri/anatomy/40007/
+100510_1_1.3T2/mri/dti/
+100511_1_1.3T2/
+100511_1_1.3T2/fmri/
+100511_1_1.3T2/fmri/dicoms/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/001/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/003/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/004/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/006/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/007/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/008/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/009/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/010/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/011/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/012/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/013/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/014/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/20006/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/40013/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/40014/
+100511_1_1.3T2/fmri/grid1/
+100511_1_1.3T2/fmri/grid1/behavioral/
+100511_1_1.3T2/fmri/grid2/
+100511_1_1.3T2/fmri/grid2/behavioral/
+100511_1_1.3T2/fmri/grid3/
+100511_1_1.3T2/fmri/grid3/behavioral/
+100511_1_1.3T2/fmri/grid4/
+100511_1_1.3T2/fmri/grid4/behavioral/
+100511_1_1.3T2/fmri/sym1/
+100511_1_1.3T2/fmri/sym1/behavioral/
+100511_1_1.3T2/fmri/sym2/
+100511_1_1.3T2/fmri/sym2/behavioral/
+100511_1_1.3T2/fmri/sym3/
+100511_1_1.3T2/fmri/sym3/behavioral/
+100511_1_1.3T2/fmri/sym4/
+100511_1_1.3T2/fmri/sym4/behavioral/
+100511_1_1.3T2/mock_scan/
+100511_1_1.3T2/mri/
+100511_1_1.3T2/mri/anatomy/
+100511_1_1.3T2/mri/anatomy/001/
+100511_1_1.3T2/mri/anatomy/003/
+100511_1_1.3T2/mri/anatomy/004/
+100511_1_1.3T2/mri/anatomy/006/
+100511_1_1.3T2/mri/anatomy/007/
+100511_1_1.3T2/mri/anatomy/008/
+100511_1_1.3T2/mri/anatomy/009/
+100511_1_1.3T2/mri/anatomy/010/
+100511_1_1.3T2/mri/anatomy/011/
+100511_1_1.3T2/mri/anatomy/012/
+100511_1_1.3T2/mri/anatomy/013/
+100511_1_1.3T2/mri/anatomy/014/
+100511_1_1.3T2/mri/anatomy/20006/
+100511_1_1.3T2/mri/anatomy/40013/
+100511_1_1.3T2/mri/anatomy/40014/
+100511_1_1.3T2/mri/dti/
+100512_1_1.3T2/
+100512_1_1.3T2/fmri/
+100512_1_1.3T2/fmri/dicoms/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/001/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/003/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/004/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/005/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/006/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/007/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/008/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/009/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/010/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/011/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/20003/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/40010/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/40011/
+100512_1_1.3T2/fmri/grid1/
+100512_1_1.3T2/fmri/grid1/behavioral/
+100512_1_1.3T2/fmri/grid2/
+100512_1_1.3T2/fmri/grid2/behavioral/
+100512_1_1.3T2/fmri/grid3/
+100512_1_1.3T2/fmri/grid3/behavioral/
+100512_1_1.3T2/fmri/grid4/
+100512_1_1.3T2/fmri/grid4/behavioral/
+100512_1_1.3T2/fmri/sym1/
+100512_1_1.3T2/fmri/sym1/behavioral/
+100512_1_1.3T2/fmri/sym2/
+100512_1_1.3T2/fmri/sym2/behavioral/
+100512_1_1.3T2/fmri/sym3/
+100512_1_1.3T2/fmri/sym3/behavioral/
+100512_1_1.3T2/fmri/sym4/
+100512_1_1.3T2/fmri/sym4/behavioral/
+100512_1_1.3T2/mock_scan/
+100512_1_1.3T2/mri/
+100512_1_1.3T2/mri/anatomy/
+100512_1_1.3T2/mri/anatomy/001/
+100512_1_1.3T2/mri/anatomy/003/
+100512_1_1.3T2/mri/anatomy/004/
+100512_1_1.3T2/mri/anatomy/005/
+100512_1_1.3T2/mri/anatomy/006/
+100512_1_1.3T2/mri/anatomy/007/
+100512_1_1.3T2/mri/anatomy/008/
+100512_1_1.3T2/mri/anatomy/009/
+100512_1_1.3T2/mri/anatomy/010/
+100512_1_1.3T2/mri/anatomy/011/
+100512_1_1.3T2/mri/anatomy/20003/
+100512_1_1.3T2/mri/anatomy/40010/
+100512_1_1.3T2/mri/anatomy/40011/
+100512_1_1.3T2/mri/dti/
+100513_1_1.3T2/
+100514_1_1.3T2/
+100514_1_1.3T2/fmri/
+100514_1_1.3T2/fmri/grid1/
+100514_1_1.3T2/fmri/grid1/behavioral/
+100514_1_1.3T2/fmri/grid2/
+100514_1_1.3T2/fmri/grid2/behavioral/
+100514_1_1.3T2/fmri/grid3/
+100514_1_1.3T2/fmri/grid3/behavioral/
+100514_1_1.3T2/fmri/grid4/
+100514_1_1.3T2/fmri/grid4/behavioral/
+100514_1_1.3T2/fmri/sym1/
+100514_1_1.3T2/fmri/sym1/behavioral/
+100514_1_1.3T2/fmri/sym2/
+100514_1_1.3T2/fmri/sym2/behavioral/
+100514_1_1.3T2/fmri/sym3/
+100514_1_1.3T2/fmri/sym3/behavioral/
+100514_1_1.3T2/fmri/sym4/
+100514_1_1.3T2/fmri/sym4/behavioral/
+100514_1_1.3T2/mock_scan/
+100514_1_1.3T2/mri/
+100514_1_1.3T2/mri/anatomy/
+100514_1_1.3T2/mri/dti/
+281_2_2.3T3/
+281_2_2.3T3/fmri/
+281_2_2.3T3/fmri/addblock_1/
+281_2_2.3T3/fmri/addblock_1/behavioral/
+281_2_2.3T3/fmri/addevent_1/
+281_2_2.3T3/fmri/addevent_1/behavioral/
+281_2_2.3T3/fmri/addevent_2/
+281_2_2.3T3/fmri/addevent_2/behavioral/
+281_2_2.3T3/fmri/equation_2/
+281_2_2.3T3/fmri/equation_2/behavioral/
+281_2_2.3T3/fmri/letter_2/
+281_2_2.3T3/fmri/letter_2/behavioral/
+281_2_2.3T3/fmri/number_2/
+281_2_2.3T3/fmri/number_2/behavioral/
+281_2_2.3T3/fmri/subblock_1/
+281_2_2.3T3/fmri/subblock_1/behavioral/
+281_2_2.3T3/fmri/word_2/
+281_2_2.3T3/fmri/word_2/behavioral/
+281_2_2.3T3/mri/
+356_3_2.3T3/
+356_3_2.3T3/fmri/
+356_3_2.3T3/fmri/addblock_1/
+356_3_2.3T3/fmri/addblock_1/behavioral/
+356_3_2.3T3/fmri/addevent_1/
+356_3_2.3T3/fmri/addevent_1/behavioral/
+356_3_2.3T3/fmri/addevent_2/
+356_3_2.3T3/fmri/addevent_2/behavioral/
+356_3_2.3T3/fmri/equation_2/
+356_3_2.3T3/fmri/equation_2/behavioral/
+356_3_2.3T3/fmri/letter_2/
+356_3_2.3T3/fmri/letter_2/behavioral/
+356_3_2.3T3/fmri/number_2/
+356_3_2.3T3/fmri/number_2/behavioral/
+356_3_2.3T3/fmri/subblock_1/
+356_3_2.3T3/fmri/subblock_1/behavioral/
+356_3_2.3T3/fmri/word_2/
+356_3_2.3T3/fmri/word_2/behavioral/
+59_2_2.3T3/
+59_2_2.3T3/fmri/
+59_2_2.3T3/fmri/addblock_1/
+59_2_2.3T3/fmri/addblock_1/behavioral/
+59_2_2.3T3/fmri/addevent_1/
+59_2_2.3T3/fmri/addevent_1/behavioral/
+59_2_2.3T3/fmri/addevent_2/
+59_2_2.3T3/fmri/addevent_2/behavioral/
+59_2_2.3T3/fmri/equation_2/
+59_2_2.3T3/fmri/equation_2/behavioral/
+59_2_2.3T3/fmri/letter_2/
+59_2_2.3T3/fmri/letter_2/behavioral/
+59_2_2.3T3/fmri/number_2/
+59_2_2.3T3/fmri/number_2/behavioral/
+59_2_2.3T3/fmri/subblock_1/
+59_2_2.3T3/fmri/subblock_1/behavioral/
+59_2_2.3T3/fmri/word_2/
+59_2_2.3T3/fmri/word_2/behavioral/
+7419_5_1.3T3/
+7419_5_1.3T3/fmri/
+7419_5_1.3T3/fmri/encoding_1/
+7419_5_1.3T3/fmri/encoding_1/behavioral/
+7419_5_1.3T3/fmri/encoding_2/
+7419_5_1.3T3/fmri/encoding_2/behavioral/
+7419_5_1.3T3/fmri/localizer/
+7419_5_1.3T3/fmri/localizer/behavioral/
+7419_5_1.3T3/fmri/resting_1/
+7419_5_1.3T3/fmri/resting_2/
+7419_5_1.3T3/fmri/retrieval_1/
+7419_5_1.3T3/fmri/retrieval_1/behavioral/
+7419_5_1.3T3/fmri/retrieval_2/
+7419_5_1.3T3/fmri/retrieval_2/behavioral/
+7419_5_1.3T3/fmri/retrieval_3/
+7419_5_1.3T3/fmri/retrieval_3/behavioral/
+7419_5_1.3T3/fmri/retrieval_4/
+7419_5_1.3T3/fmri/retrieval_4/behavioral/
+7419_5_1.3T3/mri/
+7720_2_1.3T3/
+7720_2_1.3T3/fmri/
+7720_2_1.3T3/fmri/encoding_1/
+7720_2_1.3T3/fmri/encoding_1/behavioral/
+7720_2_1.3T3/fmri/encoding_2/
+7720_2_1.3T3/fmri/encoding_2/behavioral/
+7720_2_1.3T3/fmri/localizer/
+7720_2_1.3T3/fmri/localizer/behavioral/
+7720_2_1.3T3/fmri/resting_1/
+7720_2_1.3T3/fmri/resting_2/
+7720_2_1.3T3/fmri/retrieval_1/
+7720_2_1.3T3/fmri/retrieval_1/behavioral/
+7720_2_1.3T3/fmri/retrieval_2/
+7720_2_1.3T3/fmri/retrieval_2/behavioral/
+7720_2_1.3T3/fmri/retrieval_3/
+7720_2_1.3T3/fmri/retrieval_3/behavioral/
+7720_2_1.3T3/fmri/retrieval_4/
+7720_2_1.3T3/fmri/retrieval_4/behavioral/
+7720_2_1.3T3/mri/
+7780_1_1.3T3/
+7780_1_1.3T3/behavioral/
+7780_1_1.3T3/fmri/
+7780_1_1.3T3/fmri/level1_run1/
+7780_1_1.3T3/fmri/level1_run1/behavioral/
+7780_1_1.3T3/fmri/level2_run1/
+7780_1_1.3T3/fmri/level2_run1/behavioral/
+7780_1_1.3T3/fmri/level2_run2/
+7780_1_1.3T3/fmri/level2_run2/behavioral/
+7780_1_1.3T3/fmri/level3_run1/
+7780_1_1.3T3/fmri/level3_run1/behavioral/
+7780_1_1.3T3/fmri/level3_run2/
+7780_1_1.3T3/fmri/level3_run2/behavioral/
+7780_1_1.3T3/fmri/level3_run3/
+7780_1_1.3T3/fmri/level3_run3/behavioral/
+7780_1_1.3T3/mri/
+7780_1_1.3T3/mri/anatomy/
+7780_1_1.3T3/mri/anatomy/multibandcoil/
+7860_3_1.3T3/
+7860_3_1.3T3/fmri/
+7860_3_1.3T3/fmri/BART_1/
+7860_3_1.3T3/fmri/BART_1/behavioral/
+7860_3_1.3T3/fmri/Emotion_match_1/
+7860_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7860_3_1.3T3/fmri/Emotion_regulation_1/
+7860_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7860_3_1.3T3/fmri/Emotion_regulation_2/
+7860_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7860_3_1.3T3/fmri/SST_1/
+7860_3_1.3T3/fmri/SST_1/behavioral/
+7860_3_1.3T3/fmri/SST_2/
+7860_3_1.3T3/fmri/SST_2/behavioral/
+7860_3_1.3T3/fmri/resting_state_1/
+7860_3_1.3T3/mri/
+7870_3_1.3T3/
+7870_3_1.3T3/fmri/
+7870_3_1.3T3/fmri/BART_1/
+7870_3_1.3T3/fmri/BART_1/behavioral/
+7870_3_1.3T3/fmri/Emotion_match_1/
+7870_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7870_3_1.3T3/fmri/Emotion_regulation_1/
+7870_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7870_3_1.3T3/fmri/Emotion_regulation_2/
+7870_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7870_3_1.3T3/fmri/SST_1/
+7870_3_1.3T3/fmri/SST_1/behavioral/
+7870_3_1.3T3/fmri/SST_1_redo/
+7870_3_1.3T3/fmri/SST_1_redo/behavioral/
+7870_3_1.3T3/fmri/SST_2/
+7870_3_1.3T3/fmri/SST_2/behavioral/
+7870_3_1.3T3/fmri/resting_state_1/
+7870_3_1.3T3/mri/
+7870_3_1.3T3/mri/anatomy/
+7870_3_1.3T3/mri/anatomy/001/
+7870_3_1.3T3/mri/anatomy/003/
+7870_3_1.3T3/mri/anatomy/004/
+7870_3_1.3T3/mri/anatomy/005/
+7870_3_1.3T3/mri/anatomy/006/
+7870_3_1.3T3/mri/anatomy/007/
+7870_3_1.3T3/mri/anatomy/009/
+7870_3_1.3T3/mri/anatomy/011/
+7870_3_1.3T3/mri/anatomy/012/
+7870_3_1.3T3/mri/anatomy/013/
+7870_3_1.3T3/mri/anatomy/014/
+7870_3_1.3T3/mri/anatomy/015/
+7870_3_1.3T3/mri/anatomy/016/
+7870_3_1.3T3/mri/anatomy/018/
+7870_3_1.3T3/mri/anatomy/20003/
+7870_3_1.3T3/mri/anatomy/20004/
+7870_3_1.3T3/mri/anatomy/20006/
+7870_3_1.3T3/mri/anatomy/20011/
+7870_3_1.3T3/mri/anatomy/20016/
+7870_3_1.3T3/mri/anatomy/20017/
+7870_3_1.3T3/mri/dti/
+7870_3_1.3T3/mri/dti/017/
+7874_2_1.3T3/
+7874_2_1.3T3/fmri/
+7874_2_1.3T3/fmri/BART_1/
+7874_2_1.3T3/fmri/BART_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_match_1/
+7874_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_regulation_1/
+7874_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_regulation_2/
+7874_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7874_2_1.3T3/fmri/SST_1/
+7874_2_1.3T3/fmri/SST_1/behavioral/
+7874_2_1.3T3/fmri/SST_2/
+7874_2_1.3T3/fmri/SST_2/behavioral/
+7874_2_1.3T3/mri/
+7876_2_1.3T3/
+7876_2_1.3T3/fmri/
+7876_2_1.3T3/fmri/BART_1/
+7876_2_1.3T3/fmri/BART_1/behavioral/
+7876_2_1.3T3/fmri/Emotion_match_1/
+7876_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7876_2_1.3T3/fmri/Emotion_regulation_1/
+7876_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7876_2_1.3T3/fmri/Emotion_regulation_2/
+7876_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7876_2_1.3T3/fmri/SST_1/
+7876_2_1.3T3/fmri/SST_1/behavioral/
+7876_2_1.3T3/fmri/SST_2/
+7876_2_1.3T3/fmri/SST_2/behavioral/
+7876_2_1.3T3/mri/
+7877_4_1.3T3/
+7877_4_1.3T3/fmri/
+7877_4_1.3T3/fmri/BART_1/
+7877_4_1.3T3/fmri/BART_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_match_1/
+7877_4_1.3T3/fmri/Emotion_match_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_regulation_1/
+7877_4_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_regulation_2/
+7877_4_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7877_4_1.3T3/fmri/SST_1/
+7877_4_1.3T3/fmri/SST_1/behavioral/
+7877_4_1.3T3/fmri/SST_1_redo/
+7877_4_1.3T3/fmri/SST_1_redo/behavioral/
+7877_4_1.3T3/fmri/SST_2/
+7877_4_1.3T3/fmri/SST_2/behavioral/
+7877_4_1.3T3/fmri/resting_state_1/
+7877_4_1.3T3/mri/
+7877_4_1.3T3/mri/anatomy/
+7877_4_1.3T3/mri/anatomy/001/
+7877_4_1.3T3/mri/anatomy/003/
+7877_4_1.3T3/mri/anatomy/004/
+7877_4_1.3T3/mri/anatomy/005/
+7877_4_1.3T3/mri/anatomy/006/
+7877_4_1.3T3/mri/anatomy/007/
+7877_4_1.3T3/mri/anatomy/008/
+7877_4_1.3T3/mri/anatomy/010/
+7877_4_1.3T3/mri/anatomy/012/
+7877_4_1.3T3/mri/anatomy/013/
+7877_4_1.3T3/mri/anatomy/014/
+7877_4_1.3T3/mri/anatomy/015/
+7877_4_1.3T3/mri/anatomy/016/
+7877_4_1.3T3/mri/anatomy/017/
+7877_4_1.3T3/mri/anatomy/019/
+7877_4_1.3T3/mri/anatomy/20003/
+7877_4_1.3T3/mri/anatomy/20004/
+7877_4_1.3T3/mri/anatomy/20007/
+7877_4_1.3T3/mri/anatomy/20012/
+7877_4_1.3T3/mri/anatomy/20016/
+7877_4_1.3T3/mri/anatomy/20017/
+7877_4_1.3T3/mri/anatomy/20018/
+7877_4_1.3T3/mri/dti/
+7877_4_1.3T3/mri/dti/018/
+7938_3_1.3T3/
+7938_3_1.3T3/fmri/
+7938_3_1.3T3/fmri/BART_1/
+7938_3_1.3T3/fmri/BART_1/behavioral/
+7938_3_1.3T3/fmri/Emotion_match_1/
+7938_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7938_3_1.3T3/fmri/Emotion_regulation_1/
+7938_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7938_3_1.3T3/fmri/Emotion_regulation_2/
+7938_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7938_3_1.3T3/fmri/SST_1/
+7938_3_1.3T3/fmri/SST_1/behavioral/
+7938_3_1.3T3/fmri/SST_2/
+7938_3_1.3T3/fmri/SST_2/behavioral/
+7938_3_1.3T3/mri/
+7942_3_1.3T3/
+7942_3_1.3T3/fmri/
+7942_3_1.3T3/fmri/BART_1/
+7942_3_1.3T3/fmri/BART_1/behavioral/
+7942_3_1.3T3/fmri/Emotion_match_1/
+7942_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7942_3_1.3T3/fmri/Emotion_match_1_redo/
+7942_3_1.3T3/fmri/Emotion_match_1_redo/behavioral/
+7942_3_1.3T3/fmri/Emotion_match_1_redo2/
+7942_3_1.3T3/fmri/Emotion_match_1_redo2/behavioral/
+7942_3_1.3T3/fmri/Emotion_regulation_1/
+7942_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7942_3_1.3T3/fmri/Emotion_regulation_2/
+7942_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7942_3_1.3T3/fmri/SST_1/
+7942_3_1.3T3/fmri/SST_1/behavioral/
+7942_3_1.3T3/fmri/SST_2/
+7942_3_1.3T3/fmri/SST_2/behavioral/
+7942_3_1.3T3/mri/
+7947_3_1.3T3/
+7947_3_1.3T3/fmri/
+7947_3_1.3T3/fmri/BART_1/
+7947_3_1.3T3/fmri/BART_1/behavioral/
+7947_3_1.3T3/fmri/Emotion_match_1/
+7947_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7947_3_1.3T3/fmri/Emotion_regulation_1/
+7947_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7947_3_1.3T3/fmri/Emotion_regulation_2/
+7947_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7947_3_1.3T3/fmri/SST_1/
+7947_3_1.3T3/fmri/SST_1/behavioral/
+7947_3_1.3T3/fmri/SST_2/
+7947_3_1.3T3/fmri/SST_2/behavioral/
+7947_3_1.3T3/mri/
+7969_2_1.3T3/
+7969_2_1.3T3/fmri/
+7969_2_1.3T3/fmri/BART_1/
+7969_2_1.3T3/fmri/BART_1/behavioral/
+7969_2_1.3T3/fmri/BART_1_redo/
+7969_2_1.3T3/fmri/BART_1_redo/behavioral/
+7969_2_1.3T3/fmri/Emotion_match_1/
+7969_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7969_2_1.3T3/fmri/Emotion_regulation_1/
+7969_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7969_2_1.3T3/fmri/Emotion_regulation_2/
+7969_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7969_2_1.3T3/fmri/SST_1/
+7969_2_1.3T3/fmri/SST_1/behavioral/
+7969_2_1.3T3/fmri/SST_2/
+7969_2_1.3T3/fmri/SST_2/behavioral/
+7969_2_1.3T3/mri/
+7977_2_1.3T3/
+7977_2_1.3T3/fmri/
+7977_2_1.3T3/fmri/BART_1/
+7977_2_1.3T3/fmri/BART_1/behavioral/
+7977_2_1.3T3/fmri/Emotion_match_1/
+7977_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7977_2_1.3T3/fmri/Emotion_regulation_1/
+7977_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7977_2_1.3T3/fmri/Emotion_regulation_2/
+7977_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7977_2_1.3T3/fmri/SST_1/
+7977_2_1.3T3/fmri/SST_1/behavioral/
+7977_2_1.3T3/fmri/SST_2/
+7977_2_1.3T3/fmri/SST_2/behavioral/
+7977_2_1.3T3/mri/
+7980_2_1.3T3/
+7980_2_1.3T3/fmri/
+7980_2_1.3T3/fmri/BART_1/
+7980_2_1.3T3/fmri/BART_1/behavioral/
+7980_2_1.3T3/fmri/Emotion_match_1/
+7980_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7980_2_1.3T3/fmri/Emotion_regulation_1/
+7980_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7980_2_1.3T3/fmri/Emotion_regulation_2/
+7980_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7980_2_1.3T3/fmri/SST_1/
+7980_2_1.3T3/fmri/SST_1/behavioral/
+7980_2_1.3T3/fmri/SST_2/
+7980_2_1.3T3/fmri/SST_2/behavioral/
+7980_2_1.3T3/mri/
+7982_2_1.3T3/
+7982_2_1.3T3/fmri/
+7982_2_1.3T3/fmri/BART_1/
+7982_2_1.3T3/fmri/BART_1/behavioral/
+7982_2_1.3T3/fmri/Emotion_match_1/
+7982_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7982_2_1.3T3/fmri/Emotion_regulation_1/
+7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7982_2_1.3T3/fmri/Emotion_regulation_2/
+7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7982_2_1.3T3/fmri/SST_1/
+7982_2_1.3T3/fmri/SST_1/behavioral/
+7982_2_1.3T3/fmri/SST_1_redo/
+7982_2_1.3T3/fmri/SST_1_redo/behavioral/
+7982_2_1.3T3/fmri/SST_2/
+7982_2_1.3T3/fmri/SST_2/behavioral/
+7982_2_1.3T3/fmri/resting_state_1/
+7982_2_1.3T3/mri/
+7982_2_1.3T3/mri/anatomy/
+7982_2_1.3T3/mri/dti/
+8009_4_1.3T3/
+8009_4_1.3T3/fmri/
+8009_4_1.3T3/fmri/encoding_1/
+8009_4_1.3T3/fmri/encoding_1/behavioral/
+8009_4_1.3T3/fmri/encoding_2/
+8009_4_1.3T3/fmri/encoding_2/behavioral/
+8009_4_1.3T3/fmri/localizer/
+8009_4_1.3T3/fmri/localizer/behavioral/
+8009_4_1.3T3/fmri/resting_1/
+8009_4_1.3T3/fmri/resting_2/
+8009_4_1.3T3/fmri/retrieval_1/
+8009_4_1.3T3/fmri/retrieval_1/behavioral/
+8009_4_1.3T3/fmri/retrieval_2/
+8009_4_1.3T3/fmri/retrieval_2/behavioral/
+8009_4_1.3T3/fmri/retrieval_3/
+8009_4_1.3T3/fmri/retrieval_3/behavioral/
+8009_4_1.3T3/fmri/retrieval_4/
+8009_4_1.3T3/fmri/retrieval_4/behavioral/
+8009_4_1.3T3/mri/
+8022_1_1.3T3/
+8022_1_1.3T3/behavioral/
+8022_1_1.3T3/fmri/
+8022_1_1.3T3/fmri/level1_run1/
+8022_1_1.3T3/fmri/level1_run1/behavioral/
+8022_1_1.3T3/fmri/level2_run1/
+8022_1_1.3T3/fmri/level2_run1/behavioral/
+8022_1_1.3T3/fmri/level2_run2/
+8022_1_1.3T3/fmri/level2_run2/behavioral/
+8022_1_1.3T3/fmri/level3_run1/
+8022_1_1.3T3/fmri/level3_run1/behavioral/
+8022_1_1.3T3/fmri/level3_run2/
+8022_1_1.3T3/fmri/level3_run2/behavioral/
+8022_1_1.3T3/fmri/level3_run3/
+8022_1_1.3T3/fmri/level3_run3/behavioral/
+8022_1_1.3T3/mri/
+8022_1_1.3T3/mri/anatomy/
+8033_1_1.3T3/
+8033_1_1.3T3/behavioral/
+8033_1_1.3T3/fmri/
+8033_1_1.3T3/fmri/level1_run1/
+8033_1_1.3T3/fmri/level1_run1/behavioral/
+8033_1_1.3T3/fmri/level2_run1/
+8033_1_1.3T3/fmri/level2_run1/behavioral/
+8033_1_1.3T3/fmri/level2_run2/
+8033_1_1.3T3/fmri/level2_run2/behavioral/
+8033_1_1.3T3/fmri/level3_run1/
+8033_1_1.3T3/fmri/level3_run1/behavioral/
+8033_1_1.3T3/fmri/level3_run2/
+8033_1_1.3T3/fmri/level3_run2/behavioral/
+8033_1_1.3T3/fmri/level3_run2_redo/
+8033_1_1.3T3/fmri/level3_run2_redo/behavioral/
+8033_1_1.3T3/fmri/level3_run3/
+8033_1_1.3T3/fmri/level3_run3/behavioral/
+8033_1_1.3T3/mri/
+8033_1_1.3T3/mri/multibandcoil/
+8033_1_1.3T3/mri/multibandcoil/001/
+8033_1_1.3T3/mri/multibandcoil/011/
+8033_1_1.3T3/mri/multibandcoil/019/
+8033_1_1.3T3/mri/multibandcoil/020/
+8033_1_1.3T3/mri/standardcoil/
+8033_1_1.3T3/mri/standardcoil/001/
+8033_1_1.3T3/mri/standardcoil/003/
+8033_1_1.3T3/mri/standardcoil/004/
+8033_1_1.3T3/mri/standardcoil/005/
+8033_1_1.3T3/mri/standardcoil/20003/
+8033_1_1.3T3/mri/standardcoil/20004/
+8033_1_1.3T3/mri/standardcoil/20005/
+8035_2_1.3T3/
+8035_2_1.3T3/fmri/
+8035_2_1.3T3/fmri/BART_1/
+8035_2_1.3T3/fmri/BART_1/behavioral/
+8035_2_1.3T3/fmri/Emotion_match_1/
+8035_2_1.3T3/fmri/Emotion_match_1/behavioral/
+8035_2_1.3T3/fmri/Emotion_regulation_1/
+8035_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+8035_2_1.3T3/fmri/Emotion_regulation_2/
+8035_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+8035_2_1.3T3/fmri/SST_1/
+8035_2_1.3T3/fmri/SST_1/behavioral/
+8035_2_1.3T3/fmri/SST_2/
+8035_2_1.3T3/fmri/SST_2/behavioral/
+8035_2_1.3T3/fmri/resting_state_1/
+8035_2_1.3T3/mri/
+8035_2_1.3T3/mri/anatomy/
+8035_2_1.3T3/mri/anatomy/001/
+8035_2_1.3T3/mri/anatomy/003/
+8035_2_1.3T3/mri/anatomy/004/
+8035_2_1.3T3/mri/anatomy/005/
+8035_2_1.3T3/mri/anatomy/006/
+8035_2_1.3T3/mri/anatomy/007/
+8035_2_1.3T3/mri/anatomy/009/
+8035_2_1.3T3/mri/anatomy/011/
+8035_2_1.3T3/mri/anatomy/012/
+8035_2_1.3T3/mri/anatomy/013/
+8035_2_1.3T3/mri/anatomy/014/
+8035_2_1.3T3/mri/anatomy/015/
+8035_2_1.3T3/mri/anatomy/016/
+8035_2_1.3T3/mri/anatomy/018/
+8035_2_1.3T3/mri/anatomy/20003/
+8035_2_1.3T3/mri/anatomy/20004/
+8035_2_1.3T3/mri/anatomy/20006/
+8035_2_1.3T3/mri/anatomy/20011/
+8035_2_1.3T3/mri/anatomy/20015/
+8035_2_1.3T3/mri/anatomy/20016/
+8035_2_1.3T3/mri/anatomy/20017/
+8035_2_1.3T3/mri/dti/
+8035_2_1.3T3/mri/dti/017/
+8065_3_1.3T3/
+8065_3_1.3T3/fmri/
+8065_3_1.3T3/fmri/encoding_1/
+8065_3_1.3T3/fmri/encoding_1/behavioral/
+8065_3_1.3T3/fmri/encoding_2/
+8065_3_1.3T3/fmri/encoding_2/behavioral/
+8065_3_1.3T3/fmri/localizer/
+8065_3_1.3T3/fmri/localizer/behavioral/
+8065_3_1.3T3/fmri/resting_1/
+8065_3_1.3T3/fmri/resting_2/
+8065_3_1.3T3/fmri/retrieval_1/
+8065_3_1.3T3/fmri/retrieval_1/behavioral/
+8065_3_1.3T3/fmri/retrieval_2/
+8065_3_1.3T3/fmri/retrieval_2/behavioral/
+8065_3_1.3T3/fmri/retrieval_3/
+8065_3_1.3T3/fmri/retrieval_3/behavioral/
+8065_3_1.3T3/fmri/retrieval_4/
+8065_3_1.3T3/fmri/retrieval_4/behavioral/
+8065_3_1.3T3/mri/
+8092_1_1.3T3/
+8092_1_1.3T3/behavioral/
+8092_1_1.3T3/behavioral/training/
+8092_1_1.3T3/fmri/
+8092_1_1.3T3/fmri/level1_run1/
+8092_1_1.3T3/fmri/level1_run1/behavioral/
+8092_1_1.3T3/fmri/level2_run1/
+8092_1_1.3T3/fmri/level2_run1/behavioral/
+8092_1_1.3T3/fmri/level2_run2/
+8092_1_1.3T3/fmri/level2_run2/behavioral/
+8092_1_1.3T3/fmri/level3_run1/
+8092_1_1.3T3/fmri/level3_run1/behavioral/
+8092_1_1.3T3/fmri/level3_run2/
+8092_1_1.3T3/fmri/level3_run2/behavioral/
+8092_1_1.3T3/fmri/level3_run3/
+8092_1_1.3T3/fmri/level3_run3/behavioral/
+8092_1_1.3T3/mri/
+8092_1_1.3T3/mri/anatomy/
+8092_1_1.3T3/mri/anatomy/multibandcoil/
+8092_1_1.3T3/mri/anatomy/multibandcoil/001/
+8092_1_1.3T3/mri/anatomy/multibandcoil/002/
+8092_1_1.3T3/mri/anatomy/multibandcoil/014/
+8092_1_1.3T3/mri/anatomy/multibandcoil/015/
+8092_1_1.3T3/mri/anatomy/multibandcoil/023/
+8092_1_1.3T3/mri/anatomy/multibandcoil/20002/
+8092_1_1.3T3/mri/anatomy/multibandcoil/20015/
+8092_1_1.3T3/mri/anatomy/standardcoil/
+8092_1_1.3T3/mri/anatomy/standardcoil/001/
+8092_1_1.3T3/mri/anatomy/standardcoil/002/
+8092_1_1.3T3/mri/anatomy/standardcoil/20002/
+8092_1_1.3T3/mri/anatomy/standardcoil/20004/
+8092_1_1.3T3/mri/dti/
+8092_1_1.3T3/mri/dti/004/
+8092_1_1.3T3/mri/dti/005/
+8094_1_1.3T3/
+8094_1_1.3T3/behavioral/
+8094_1_1.3T3/fmri/
+8094_1_1.3T3/fmri/level1_run1/
+8094_1_1.3T3/fmri/level1_run1/behavioral/
+8094_1_1.3T3/fmri/level2_run1/
+8094_1_1.3T3/fmri/level2_run1/behavioral/
+8094_1_1.3T3/fmri/level2_run2/
+8094_1_1.3T3/fmri/level2_run2/behavioral/
+8094_1_1.3T3/fmri/level3_run1/
+8094_1_1.3T3/fmri/level3_run1/behavioral/
+8094_1_1.3T3/fmri/level3_run2/
+8094_1_1.3T3/fmri/level3_run2/behavioral/
+8094_1_1.3T3/fmri/level3_run3/
+8094_1_1.3T3/fmri/level3_run3/behavioral/
+8094_1_1.3T3/mri/
+8094_1_1.3T3/mri/anatomy/
+8096_1_1.3T3/
+8096_1_1.3T3/behavioral/
+8096_1_1.3T3/fmri/
+8096_1_1.3T3/fmri/level1_run1/
+8096_1_1.3T3/fmri/level1_run1/behavioral/
+8096_1_1.3T3/fmri/level2_run1/
+8096_1_1.3T3/fmri/level2_run1/behavioral/
+8096_1_1.3T3/fmri/level2_run2/
+8096_1_1.3T3/fmri/level2_run2/behavioral/
+8096_1_1.3T3/fmri/level2_run3/
+8096_1_1.3T3/fmri/level2_run3/behavioral/
+8096_1_1.3T3/fmri/level3_run1/
+8096_1_1.3T3/fmri/level3_run1/behavioral/
+8096_1_1.3T3/fmri/level3_run2/
+8096_1_1.3T3/fmri/level3_run2/behavioral/
+8096_1_1.3T3/fmri/level3_run3/
+8096_1_1.3T3/fmri/level3_run3/behavioral/
+8096_1_1.3T3/mri/
+8096_1_1.3T3/mri/anatomy/
+8098_1_1.3T3/
+8098_1_1.3T3/behavioral/
+8098_1_1.3T3/fmri/
+8098_1_1.3T3/fmri/level1_run1/
+8098_1_1.3T3/fmri/level1_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run1/
+8098_1_1.3T3/fmri/level2_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run2/
+8098_1_1.3T3/fmri/level2_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run1/
+8098_1_1.3T3/fmri/level3_run1/behavioral/
+8098_1_1.3T3/fmri/level3_run2/
+8098_1_1.3T3/fmri/level3_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run3/
+8098_1_1.3T3/fmri/level3_run3/behavioral/
+8098_1_1.3T3/mri/
+8098_1_1.3T3/mri/anatomy/
+8106_1_1.3T3/
+8106_1_1.3T3/fmri/
+8106_1_1.3T3/fmri/addition_1/
+8106_1_1.3T3/fmri/addition_1/behavioral/
+8106_1_1.3T3/fmri/addition_2/
+8106_1_1.3T3/fmri/addition_2/behavioral/
+8106_1_1.3T3/fmri/addition_3/
+8106_1_1.3T3/fmri/addition_3/behaviroal/
+8106_1_1.3T3/fmri/addition_4/
+8106_1_1.3T3/fmri/addition_4/behavioral/
+8106_1_1.3T3/fmri/resting_state_1/
+8106_1_1.3T3/mri/
+8106_1_1.3T3/mri/anatomy/
+8106_1_1.3T3/mri/dti/
+8106_1_1.3T3/strategy_assessment/
+8110_1_1.3T3/
+8110_1_1.3T3/behaviorial/
+8110_1_1.3T3/fmri/
+8110_1_1.3T3/fmri/level1_run1/
+8110_1_1.3T3/fmri/level1_run1/behavioral/
+8110_1_1.3T3/fmri/level2_run1/
+8110_1_1.3T3/fmri/level2_run1/behavioral/
+8110_1_1.3T3/fmri/level2_run2/
+8110_1_1.3T3/fmri/level2_run2/behavioral/
+8110_1_1.3T3/fmri/level3_run1/
+8110_1_1.3T3/fmri/level3_run1/behavioral/
+8110_1_1.3T3/fmri/level3_run2/
+8110_1_1.3T3/fmri/level3_run2/behavioral/
+8110_1_1.3T3/fmri/level3_run3/
+8110_1_1.3T3/fmri/level3_run3/behavioral/
+8110_1_1.3T3/mri/
+8110_1_1.3T3/mri/anatomy/
+8113_1_1.3T3/
+8113_1_1.3T3/behavioral/
+8113_1_1.3T3/fmri/
+8113_1_1.3T3/fmri/level1_run1/
+8113_1_1.3T3/fmri/level1_run1/behavioral/
+8113_1_1.3T3/fmri/level2_run1/
+8113_1_1.3T3/fmri/level2_run1/behavioral/
+8113_1_1.3T3/fmri/level2_run2/
+8113_1_1.3T3/fmri/level2_run2/behavioral/
+8113_1_1.3T3/fmri/level3_run1/
+8113_1_1.3T3/fmri/level3_run1/behavioral/
+8113_1_1.3T3/fmri/level3_run2/
+8113_1_1.3T3/fmri/level3_run2/behavioral/
+8113_1_1.3T3/fmri/level3_run3/
+8113_1_1.3T3/fmri/level3_run3/behavioral/
+8113_1_1.3T3/mri/
+8113_1_1.3T3/mri/anatomy/
+8114_1_1.3T3/
+8114_1_1.3T3/fmri/
+8114_1_1.3T3/fmri/encoding_1/
+8114_1_1.3T3/fmri/encoding_1/behavioral/
+8114_1_1.3T3/fmri/encoding_2/
+8114_1_1.3T3/fmri/encoding_2/behavioral/
+8114_1_1.3T3/fmri/localizer/
+8114_1_1.3T3/fmri/localizer/behavioral/
+8114_1_1.3T3/fmri/resting_1/
+8114_1_1.3T3/fmri/resting_2/
+8114_1_1.3T3/fmri/retrieval_1/
+8114_1_1.3T3/fmri/retrieval_1/behavioral/
+8114_1_1.3T3/fmri/retrieval_2/
+8114_1_1.3T3/fmri/retrieval_2/behavioral/
+8114_1_1.3T3/fmri/retrieval_3/
+8114_1_1.3T3/fmri/retrieval_3/behavioral/
+8114_1_1.3T3/fmri/retrieval_4/
+8114_1_1.3T3/fmri/retrieval_4/behavioral/
+8114_1_1.3T3/mri/
+8114_1_1.3T3/mri/anatomy/
+8114_1_1.3T3/mri/dti/
+8115_1_1.3T3/
+8115_1_1.3T3/behavioral/
+8115_1_1.3T3/fmri/
+8115_1_1.3T3/fmri/level1_run1/
+8115_1_1.3T3/fmri/level1_run1/behavioral/
+8115_1_1.3T3/fmri/level1_run1_blipdown/
+8115_1_1.3T3/fmri/level2_run1/
+8115_1_1.3T3/fmri/level2_run1/behavioral/
+8115_1_1.3T3/fmri/level2_run1_blipdown/
+8115_1_1.3T3/fmri/level2_run2/
+8115_1_1.3T3/fmri/level2_run2/behavioral/
+8115_1_1.3T3/fmri/level2_run2_blipdown/
+8115_1_1.3T3/fmri/level2_run3/
+8115_1_1.3T3/fmri/level2_run3/behavioral/
+8115_1_1.3T3/fmri/level2_run3_blipdown/
+8115_1_1.3T3/fmri/level3_run1/
+8115_1_1.3T3/fmri/level3_run1/behavioral/
+8115_1_1.3T3/fmri/level3_run1_blipdown/
+8115_1_1.3T3/fmri/level3_run2/
+8115_1_1.3T3/fmri/level3_run2/behavioral/
+8115_1_1.3T3/fmri/level3_run2_blipdown/
+8115_1_1.3T3/fmri/level3_run3/
+8115_1_1.3T3/fmri/level3_run3/behavioral/
+8115_1_1.3T3/fmri/level3_run3_blipdown/
+8115_1_1.3T3/fmri/resting_state_1/
+8115_1_1.3T3/fmri/resting_state_1_blipdown/
+8115_1_1.3T3/mri/
+8115_1_1.3T3/mri/anatomy/
+8115_1_1.3T3/mri/anatomy/multibandcoil/
+8116_1_1.3T3/
+8116_1_1.3T3/behavioral/
+8116_1_1.3T3/fmri/
+8116_1_1.3T3/fmri/level1_run1/
+8116_1_1.3T3/fmri/level1_run1/007/
+8116_1_1.3T3/fmri/level1_run1/behavioral/
+8116_1_1.3T3/fmri/level1_run1_blipdown/
+8116_1_1.3T3/fmri/level1_run1_blipdown/006/
+8116_1_1.3T3/fmri/level2_run1/
+8116_1_1.3T3/fmri/level2_run1/009/
+8116_1_1.3T3/fmri/level2_run1/behavioral/
+8116_1_1.3T3/fmri/level2_run1_blipdown/
+8116_1_1.3T3/fmri/level2_run1_blipdown/008/
+8116_1_1.3T3/fmri/level2_run2/
+8116_1_1.3T3/fmri/level2_run2/011/
+8116_1_1.3T3/fmri/level2_run2/behavioral/
+8116_1_1.3T3/fmri/level2_run2_blipdown/
+8116_1_1.3T3/fmri/level2_run2_blipdown/010/
+8116_1_1.3T3/fmri/level3_run1/
+8116_1_1.3T3/fmri/level3_run1/018/
+8116_1_1.3T3/fmri/level3_run1/behavioral/
+8116_1_1.3T3/fmri/level3_run1_blipdown/
+8116_1_1.3T3/fmri/level3_run1_blipdown/017/
+8116_1_1.3T3/fmri/level3_run2/
+8116_1_1.3T3/fmri/level3_run2/020/
+8116_1_1.3T3/fmri/level3_run2/behavioral/
+8116_1_1.3T3/fmri/level3_run2_blipdown/
+8116_1_1.3T3/fmri/level3_run2_blipdown/019/
+8116_1_1.3T3/fmri/level3_run3/
+8116_1_1.3T3/fmri/level3_run3/022/
+8116_1_1.3T3/fmri/level3_run3/behavioral/
+8116_1_1.3T3/fmri/level3_run3_blipdown/
+8116_1_1.3T3/fmri/level3_run3_blipdown/021/
+8116_1_1.3T3/fmri/resting_state_1/
+8116_1_1.3T3/fmri/resting_state_1/005/
+8116_1_1.3T3/fmri/resting_state_1_blipdown/
+8116_1_1.3T3/fmri/resting_state_1_blipdown/004/
+8116_1_1.3T3/mri/
+8116_1_1.3T3/mri/anatomy/
+8116_1_1.3T3/mri/anatomy/multibandcoil/
+8116_1_1.3T3/mri/anatomy/multibandcoil/001/
+8116_1_1.3T3/mri/anatomy/multibandcoil/002/
+8116_1_1.3T3/mri/anatomy/multibandcoil/014/
+8116_1_1.3T3/mri/anatomy/multibandcoil/015/
+8116_1_1.3T3/mri/anatomy/multibandcoil/023/
+8116_1_1.3T3/mri/anatomy/multibandcoil/20002/
+8116_1_1.3T3/mri/anatomy/multibandcoil/20015/
+8116_1_1.3T3/mri/anatomy/standardcoil/
+8116_1_1.3T3/mri/anatomy/standardcoil/004/
+8116_1_1.3T3/mri/anatomy/standardcoil/005/
+8116_1_1.3T3/mri/dti/
+8116_1_1.3T3/mri/dti/001/
+8116_1_1.3T3/mri/dti/002/
+8116_1_1.3T3/mri/dti/20002/
+8116_1_1.3T3/mri/dti/20004/
+8118_1_1.3T3/
+8118_1_1.3T3/behavioral/
+8118_1_1.3T3/fmri/
+8118_1_1.3T3/fmri/level1_run1/
+8118_1_1.3T3/fmri/level1_run1/behavioral/
+8118_1_1.3T3/fmri/level2_run1/
+8118_1_1.3T3/fmri/level2_run1/behavioral/
+8118_1_1.3T3/fmri/level2_run2/
+8118_1_1.3T3/fmri/level2_run2/behavioral/
+8118_1_1.3T3/fmri/level2_run2_redo/
+8118_1_1.3T3/fmri/level2_run2_redo/behavioral/
+8118_1_1.3T3/fmri/level3_run1/
+8118_1_1.3T3/fmri/level3_run1/behavioral/
+8118_1_1.3T3/fmri/level3_run2/
+8118_1_1.3T3/fmri/level3_run2/behavioral/
+8118_1_1.3T3/fmri/level3_run3/
+8118_1_1.3T3/fmri/level3_run3/behavioral/
+8118_1_1.3T3/mri/
+8118_1_1.3T3/mri/anatomy/
+8119_1_1.3T3/
+8119_1_1.3T3/fmri/
+8119_1_1.3T3/fmri/encoding_1/
+8119_1_1.3T3/fmri/encoding_1/behavioral/
+8119_1_1.3T3/fmri/encoding_2/
+8119_1_1.3T3/fmri/encoding_2/behavioral/
+8119_1_1.3T3/fmri/localizer/
+8119_1_1.3T3/fmri/resting_1/
+8119_1_1.3T3/fmri/resting_2/
+8119_1_1.3T3/fmri/retrieval_1/
+8119_1_1.3T3/fmri/retrieval_1/behavioral/
+8119_1_1.3T3/fmri/retrieval_2/
+8119_1_1.3T3/fmri/retrieval_2/behavioral/
+8119_1_1.3T3/fmri/retrieval_3/
+8119_1_1.3T3/fmri/retrieval_4/
+8119_1_1.3T3/mri/
+8119_1_2.3T3/
+8119_1_2.3T3/fmri/
+8119_1_2.3T3/fmri/encoding_1/
+8119_1_2.3T3/fmri/encoding_2/
+8119_1_2.3T3/fmri/localizer/
+8119_1_2.3T3/fmri/localizer/behavioral/
+8119_1_2.3T3/fmri/resting_1/
+8119_1_2.3T3/fmri/resting_2/
+8119_1_2.3T3/fmri/retrieval_1/
+8119_1_2.3T3/fmri/retrieval_2/
+8119_1_2.3T3/fmri/retrieval_3/
+8119_1_2.3T3/fmri/retrieval_4/
+8119_1_2.3T3/mri/
+8119_1_3.3T3/
+8119_1_3.3T3/fmri/
+8119_1_3.3T3/fmri/encoding_1/
+8119_1_3.3T3/fmri/encoding_2/
+8119_1_3.3T3/fmri/localizer/
+8119_1_3.3T3/fmri/resting_1/
+8119_1_3.3T3/fmri/resting_2/
+8119_1_3.3T3/fmri/retrieval_1/
+8119_1_3.3T3/fmri/retrieval_2/
+8119_1_3.3T3/fmri/retrieval_3/
+8119_1_3.3T3/fmri/retrieval_4/
+8119_1_3.3T3/mri/
+8119_1_3.3T3/mri/anatomy/
+8119_1_3.3T3/mri/anatomy/001/
+8119_1_3.3T3/mri/anatomy/003/
+8119_1_3.3T3/mri/anatomy/004/
+8119_1_3.3T3/mri/anatomy/006/
+8119_1_3.3T3/mri/anatomy/008/
+8119_1_3.3T3/mri/anatomy/010/
+8119_1_3.3T3/mri/anatomy/011/
+8119_1_3.3T3/mri/anatomy/013/
+8119_1_3.3T3/mri/anatomy/014/
+8119_1_3.3T3/mri/anatomy/20003/
+8119_1_3.3T3/mri/anatomy/20010/
+8119_1_3.3T3/mri/anatomy/20012/
+8119_1_3.3T3/mri/dti/
+8119_1_3.3T3/mri/dti/012/
+8120_1_1.3T3/
+8120_1_1.3T3/behavioral/
+8120_1_1.3T3/fmri/
+8120_1_1.3T3/fmri/level1_run1/
+8120_1_1.3T3/fmri/level1_run1/behavioral/
+8120_1_1.3T3/fmri/level1_run2/
+8120_1_1.3T3/fmri/level1_run2/behavioral/
+8120_1_1.3T3/fmri/level1_run3/
+8120_1_1.3T3/fmri/level1_run3/behavioral/
+8120_1_1.3T3/fmri/level1_run4/
+8120_1_1.3T3/fmri/level1_run4/behavioral/
+8120_1_1.3T3/fmri/level2_run1/
+8120_1_1.3T3/fmri/level2_run1/behavioral/
+8120_1_1.3T3/fmri/level2_run2/
+8120_1_1.3T3/fmri/level2_run2/behavioral/
+8120_1_1.3T3/fmri/level3_run1/
+8120_1_1.3T3/fmri/level3_run1/behavioral/
+8120_1_1.3T3/fmri/level3_run2/
+8120_1_1.3T3/fmri/level3_run2/behavioral/
+8120_1_1.3T3/fmri/level3_run3/
+8120_1_1.3T3/fmri/level3_run3/behavioral/
+8120_1_1.3T3/fmri/level3_run4/
+8120_1_1.3T3/fmri/level3_run4/behavioral/
+8120_1_1.3T3/mri/
+8120_1_1.3T3/mri/anatomy/
+8121_1_1.3T3/
+8121_1_1.3T3/behavioral/
+8121_1_1.3T3/fmri/
+8121_1_1.3T3/fmri/level1_run1/
+8121_1_1.3T3/fmri/level1_run1/behavioral/
+8121_1_1.3T3/fmri/level2_run1/
+8121_1_1.3T3/fmri/level2_run1/behavioral/
+8121_1_1.3T3/fmri/level2_run2/
+8121_1_1.3T3/fmri/level2_run2/behavioral/
+8121_1_1.3T3/fmri/level3_run1/
+8121_1_1.3T3/fmri/level3_run1/behavioral/
+8121_1_1.3T3/fmri/level3_run2/
+8121_1_1.3T3/fmri/level3_run2/behavioral/
+8121_1_1.3T3/fmri/level3_run3/
+8121_1_1.3T3/fmri/level3_run3/behavioral/
+8121_1_1.3T3/mri/
+8121_1_1.3T3/mri/anatomy/
+8122_1_1.3T3/
+8122_1_1.3T3/behavioral/
+8122_1_1.3T3/fmri/
+8122_1_1.3T3/fmri/level1_run1/
+8122_1_1.3T3/fmri/level1_run1/behavioral/
+8122_1_1.3T3/fmri/level2_run1/
+8122_1_1.3T3/fmri/level2_run1/behavioral/
+8122_1_1.3T3/fmri/level2_run2/
+8122_1_1.3T3/fmri/level3_run1/
+8122_1_1.3T3/fmri/level3_run2/
+8122_1_1.3T3/fmri/level3_run3/
+8122_1_1.3T3/mri/
+8122_1_1.3T3/mri/anatomy/
+8123_1_1.3T3/
+8123_1_1.3T3/behavioral/
+8123_1_1.3T3/fmri/
+8123_1_1.3T3/fmri/level1_run1/
+8123_1_1.3T3/fmri/level1_run1/behavioral/
+8123_1_1.3T3/fmri/level1_run1_redo/
+8123_1_1.3T3/fmri/level1_run1_redo/behavioral/
+8123_1_1.3T3/fmri/level2_run1/
+8123_1_1.3T3/fmri/level2_run1/behavioral/
+8123_1_1.3T3/fmri/level2_run2/
+8123_1_1.3T3/fmri/level2_run2/behavioral/
+8123_1_1.3T3/fmri/level3_run1/
+8123_1_1.3T3/fmri/level3_run1/behavioral/
+8123_1_1.3T3/fmri/level3_run2/
+8123_1_1.3T3/fmri/level3_run2/behavioral/
+8123_1_1.3T3/fmri/level3_run3/
+8123_1_1.3T3/fmri/level3_run3/behavioral/
+8123_1_1.3T3/mri/
+8123_1_1.3T3/mri/anatomy/
+8125_1_1.3T3/
+8125_1_1.3T3/behavioral/
+8125_1_1.3T3/fmri/
+8125_1_1.3T3/fmri/level1_run1/
+8125_1_1.3T3/fmri/level1_run1/behavioral/
+8125_1_1.3T3/fmri/level2_run1/
+8125_1_1.3T3/fmri/level2_run1/behavioral/
+8125_1_1.3T3/fmri/level2_run2/
+8125_1_1.3T3/fmri/level2_run2/behavioral/
+8125_1_1.3T3/fmri/level2_run3/
+8125_1_1.3T3/fmri/level2_run3/behavioral/
+8125_1_1.3T3/fmri/level3_run1/
+8125_1_1.3T3/fmri/level3_run1/behavioral/
+8125_1_1.3T3/fmri/level3_run2/
+8125_1_1.3T3/fmri/level3_run2/behavioral/
+8125_1_1.3T3/fmri/level3_run3/
+8125_1_1.3T3/fmri/level3_run3/behavioral/
+8125_1_1.3T3/fmri/level3_run4/
+8125_1_1.3T3/fmri/level3_run4/behavioral/
+8125_1_1.3T3/fmri/level3_run5/
+8125_1_1.3T3/fmri/level3_run5/behavioral/
+8125_1_1.3T3/mri/
+8125_1_1.3T3/mri/anatomy/
+8126_1_1.3T3/
+8126_1_1.3T3/fmri/
+8126_1_1.3T3/fmri/encoding_1/
+8126_1_1.3T3/fmri/encoding_1/behavioral/
+8126_1_1.3T3/fmri/encoding_2/
+8126_1_1.3T3/fmri/encoding_2/behavioral/
+8126_1_1.3T3/fmri/localizer/
+8126_1_1.3T3/fmri/localizer/behavioral/
+8126_1_1.3T3/fmri/resting_1/
+8126_1_1.3T3/fmri/resting_2/
+8126_1_1.3T3/fmri/retrieval_1/
+8126_1_1.3T3/fmri/retrieval_1/behavioral/
+8126_1_1.3T3/fmri/retrieval_2/
+8126_1_1.3T3/fmri/retrieval_2/behavioral/
+8126_1_1.3T3/fmri/retrieval_3/
+8126_1_1.3T3/fmri/retrieval_3/behavioral/
+8126_1_1.3T3/fmri/retrieval_4/
+8126_1_1.3T3/fmri/retrieval_4/behavioral/
+8126_1_1.3T3/mri/
+8126_1_1.3T3/mri/anatomy/
+8126_1_1.3T3/mri/dti/
+8127_1_1.3T3/
+8127_1_1.3T3/behavioral/
+8127_1_1.3T3/fmri/
+8127_1_1.3T3/fmri/level1_run1/
+8127_1_1.3T3/fmri/level1_run1/behavioral/
+8127_1_1.3T3/fmri/level2_run1/
+8127_1_1.3T3/fmri/level2_run1/behavioral/
+8127_1_1.3T3/fmri/level2_run2/
+8127_1_1.3T3/fmri/level2_run2/behavioral/
+8127_1_1.3T3/fmri/level2_run3/
+8127_1_1.3T3/fmri/level2_run3/behavioral/
+8127_1_1.3T3/fmri/level2_run4/
+8127_1_1.3T3/fmri/level2_run4/behavioral/
+8127_1_1.3T3/fmri/level2_run5/
+8127_1_1.3T3/fmri/level2_run5/behavioral/
+8127_1_1.3T3/fmri/level2_run6/
+8127_1_1.3T3/fmri/level2_run6/behavioral/
+8127_1_1.3T3/fmri/level3_run1/
+8127_1_1.3T3/fmri/level3_run1/behavioral/
+8127_1_1.3T3/fmri/level3_run2/
+8127_1_1.3T3/fmri/level3_run2/behavioral/
+8127_1_1.3T3/fmri/level3_run3/
+8127_1_1.3T3/fmri/level3_run3/behavioral/
+8127_1_1.3T3/mri/
+8127_1_1.3T3/mri/anatomy/
+8128_1_1.3T3/
+8128_1_1.3T3/behavioral/
+8128_1_1.3T3/fmri/
+8128_1_1.3T3/fmri/level1_run1/
+8128_1_1.3T3/fmri/level1_run1/behavioral/
+8128_1_1.3T3/fmri/level2_run1/
+8128_1_1.3T3/fmri/level2_run1/behavioral/
+8128_1_1.3T3/fmri/level2_run2/
+8128_1_1.3T3/fmri/level3_run1/
+8128_1_1.3T3/fmri/level3_run2/
+8128_1_1.3T3/fmri/level3_run3/
+8128_1_1.3T3/mri/
+8128_1_1.3T3/mri/anatomy/
+8128_1_1.3T3/mri/anatomy/multibandcoil/
+8128_1_1.3T3/mri/anatomy/standardcoil/
+8128_1_1.3T3/mri/anatomy/standardcoil/001/
+8128_1_1.3T3/mri/anatomy/standardcoil/002/
+
+sent 5,592 bytes  received 9,551,067 bytes  3,699.11 bytes/sec
+total size is 35,546,641,336  speedup is 3,719.57
+rsyncing behavioral data
+ex12102 poorly formatted
+ex12261 poorly formatted
+ex12512 poorly formatted
+ex12225 poorly formatted
+ex12181 poorly formatted
+ex12443 poorly formatted
+ex12394 poorly formatted
+ex12352 poorly formatted
+ex12319 poorly formatted
+ex12318 poorly formatted
+ex12398 poorly formatted
+ex12450 poorly formatted
+ex12354 poorly formatted
+ex12444 poorly formatted
+ex12262 poorly formatted
+ex12085 poorly formatted
+ex12097 poorly formatted
+ex12264 poorly formatted
+ex12503 poorly formatted
+ex12395 poorly formatted
+ex12125 poorly formatted
+ex12221 poorly formatted
+ex12220 poorly formatted
+ex12202 poorly formatted
+ex12180 poorly formatted
+ex12451 poorly formatted
+ex12263 poorly formatted
+ex12179 poorly formatted
+ex12353 poorly formatted
+ex12584 poorly formatted
+ex12585 poorly formatted
+ex12587 poorly formatted
+ex12589 poorly formatted
+ex12590 poorly formatted
+ex12626 poorly formatted
+ex12627 poorly formatted
+ex12644 poorly formatted
+ex12650 poorly formatted
+ex12651 poorly formatted
+ex12652 poorly formatted
+ex12661 poorly formatted
+ex12662 poorly formatted
+ex12663 poorly formatted
+ex12664 poorly formatted
+ex12673 poorly formatted
+ex12674 poorly formatted
+ex12675 poorly formatted
+ex12709 poorly formatted
+ex12766 poorly formatted
+ex12775 poorly formatted
+ex12789 poorly formatted
+ex12796 poorly formatted
+ex12819 poorly formatted
+ex12824 poorly formatted
+ex12879 poorly formatted
+ex12873 poorly formatted
+ex12934 poorly formatted
+ex12935 poorly formatted
+ex12939 poorly formatted
+ex12940 poorly formatted
+ex12941 poorly formatted
+ex12942 poorly formatted
+ex12943 poorly formatted
+ex12944 poorly formatted
+ex12945 poorly formatted
+ex12980 poorly formatted
+ex12982 poorly formatted
+ex12983 poorly formatted
+ex13011 poorly formatted
+ex13013 poorly formatted
+ex13014 poorly formatted
+ex13015 poorly formatted
+ex13016 poorly formatted
+ex13017 poorly formatted
+ex13027 poorly formatted
+ex13042 poorly formatted
+ex13043 poorly formatted
+ex13081 poorly formatted
+ex13082 poorly formatted
+ex13119 poorly formatted
+ex13120 poorly formatted
+ex13125 poorly formatted
+ex13153 poorly formatted
+ex13154 poorly formatted
+ex13259 poorly formatted
+ex13260 poorly formatted
+ex13283 poorly formatted
+ex13298 poorly formatted
+ex13359 poorly formatted
+ex13363 poorly formatted
+ex13410 poorly formatted
+ex13412 poorly formatted
+ex13453 poorly formatted
+ex13490 poorly formatted
+ex13493 poorly formatted
+ex13495 poorly formatted
+ex13258 poorly formatted
+ex3028 poorly formatted
+ex13496 poorly formatted
+ex13357 poorly formatted
+ex13356 poorly formatted
+ex13361 poorly formatted
+ex13401 poorly formatted
+ex13402 poorly formatted
+ex13403 poorly formatted
+ex2945 poorly formatted
+ex13407 poorly formatted
+ex13408 poorly formatted
+ex13411 poorly formatted
+ex13469 poorly formatted
+ex13542 poorly formatted
+ex13815 poorly formatted
+16-03-20.1 poorly formatted
+16-11-06.2 poorly formatted
+new met scan found: 9033_1_1
+new met scan found: 9033_1_1
+downloaded scanids:
+[['9033', 'visit1', 'session1', 'met']]
+failed downloads:
+[['9033', 'visit1', 'session1', 'met']]
+processing 9033_1_1 behavioral
+scanid not found in .fromlucas folder!
+pconverting 9033_1_1
+anatomical dicom convert 9033_1_1
+no anatomical folder :(
