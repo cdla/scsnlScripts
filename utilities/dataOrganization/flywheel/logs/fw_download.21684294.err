@@ -1,0 +1,4 @@
+  File "download_from_flywheel.py", line 354
+    for anatroot, folders, files in os.walk(anatomicalpath);
+                                                           ^
+SyntaxError: invalid syntax

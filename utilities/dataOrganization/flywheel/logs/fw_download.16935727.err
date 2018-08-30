@@ -1,0 +1,7 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+rsync: opendir "/hd1/scsnl/datafromlucas/100513_1_1.3T2" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1518) [generator=3.0.9]
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 212, in <module>
+    for folder in os.listdir(lucas_scanid_path):
+PermissionError: [Errno 13] Permission denied: '/oak/stanford/groups/menon/rawdata/.fromlucas/100513_1_1.3T2'
