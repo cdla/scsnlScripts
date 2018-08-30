@@ -1,0 +1,19 @@
+{Error using VBHMMforward (line 33)
+logalpha1= NaN
+
+Error in vbhmmEstep (line 4)
+parfor ns=1:nSubjs
+
+Error in vbhafa (line 98)
+[loglik,QnsCell,Qnss] = vbhmmEstep(Ycell,stran', sprior,logOutProbs);
+
+Error in BayesianSwitchingDynamicalSystems (line 56)
+      net = vbhafa(data, max_nstates, max_ldim, opt.n_init_iter, opt.tol,
+      opt.noise, 1);
+} 
+{Undefined function or variable 'group_model'.
+} 
+{Undefined function or variable 'group_model'.
+} 
+{Undefined function or variable 'group_model'.
+} 
