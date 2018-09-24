@@ -15,14 +15,14 @@ import sys
 #from studies_template import studies_template, studies_rules
 
 #PARAMETERS
-SUBLIST = 'mathwhiz_subjects.txt'
+SUBLIST = 'hwc_subjects.txt'
 
 #Get flywheel credentials
 fw = Flywheel('lucascenter.flywheel.io:oglHDMF0DnDeKPmDnl')
 me = fw.get_current_user()
 
 #listify file of scanids
-study = SUBLIST.split('_subjects.txt')[0]
+study = SUBLIST.split('smp_subjects.txt')[0]
 file = open(pjoin('/oak/stanford/groups/menon/scsnlscripts/utilities/dataOrganization/study_sublists',SUBLIST),'r')
 scans= file.readlines()
 scans = [x.strip() for x in scans]	
@@ -88,7 +88,7 @@ def upload_fmri(session_id,scanid):
 			continue
 		print('uploading %s to acquisition %s'%(path,runs[run]))
 		fw.upload_file_to_acquisition(runs[run], path)
-		fw.modify_acquisition_file(runs[run], path.split('/')[-1],body={'measurements':['functional']})
+		fw.modify_acquisition_file_classification(runs[run], path.split('/')[-1],{'modality':'MR','replace':{'Intent':['Functional'],'Measurement':['T2*']}})
 	return runs
 
 def upload_behavioral(session_id,scanid,runs):
@@ -123,11 +123,11 @@ def upload_behavioral(session_id,scanid,runs):
 						for root2, folders, files2 in os.walk(pjoin(behav_path,behav_file)):
 							for file2 in files2:
 								fw.upload_file_to_acquisition(upload_acq2, pjoin(root2,file2))
-								fw.modify_acquisition_file(upload_acq2, file2,body={'measurements':['behavioral']})	
+								#fw.modify_acquisition_file_classification(upload_acq2, file2,{'modality':'Behavioral','replace':{'Measurement':['Behavioral']}})	
 						continue
 					print('uploading %s to acq %s'%(pjoin(behav_path,behav_file),upload_acq))
 					fw.upload_file_to_acquisition(upload_acq, pjoin(behav_path,behav_file))
-					fw.modify_acquisition_file(upload_acq, behav_file,body={'measurements':['behavioral']})					
+					#fw.modify_acquisition_file_classification(upload_acq, behav_file,{'modality':'Behavioral','replace':{'Measurement':['Behavioral']}})					
 
 
 
@@ -147,7 +147,7 @@ def upload_anatomical(session_id,scanid):
 			if 'spgr' in file and 'old' not in root:
 				print('uploading %s to acq %s'%(pjoin(root,file),str(anatomical_acq)))
 				fw.upload_file_to_acquisition(anatomical_acq, pjoin(root,file))
-				fw.modify_acquisition_file(anatomical_acq, file,body={'measurements':['anatomy_t1w']})
+				fw.modify_acquisition_file_classification(anatomical_acq, file,{'modality':'MR','replace':{'Intent':['Structural'],'Measurement':['T1']}})
 
 
 def upload_dwi(session_id,scanid):
@@ -166,7 +166,7 @@ def upload_dwi(session_id,scanid):
 			if 'dwi' in file and ('.nii' in file or '.json' in file):
 				print('uploading %s to acq %s'%(pjoin(root,file),str(dwi_acq)))
 				fw.upload_file_to_acquisition(dwi_acq, pjoin(root,file))
-				fw.modify_acquisition_file(dwi_acq, file,body={'measurements':['diffusion']})
+				fw.modify_acquisition_file_classification(dwi_acq, file,{'modality':'MR','replace':{'Intent':['Structural'],'Measurement':['Diffusion']}})
 	return True
 
 
@@ -190,6 +190,9 @@ def upload_extra(session_id,scanid):
 		print('no extra folders found')
 		return
 	for folder in extra_folders:
+		if not os.path.isdir(pjoin(top_level,folder)):
+			print('skipping file %s'%folder)
+			continue
 		acqs = fw.get_session_acquisitions(session_id)
 		upload_id = False
 		for acq in acqs:
@@ -200,15 +203,15 @@ def upload_extra(session_id,scanid):
 			upload_id=fw.add_acquisition(flywheel.Acquisition(session=session_id, label=folder))
 		extra_files = os.listdir(pjoin(top_level,folder))
 		for extra_file in extra_files:
-			if not os.path.isfile(pjoin(top_level,extra_file)):
-				print('taring folder %s and uploading to %s'%(pjoin(top_level,extra_file),folder))
-				call('tar zcvf %s.tar.gz %s'%(pjoin(top_level,extra_file),pjoin(top_level,extra_file)),shell=True)
-				tarball = '%s.tar.gz'%pjoin(top_level,extra_file)
+			if not os.path.isfile(pjoin(top_level,folder,extra_file)):
+				print('taring folder %s and uploading to %s'%(pjoin(top_level,folder,extra_file),folder))
+				call('tar zcvf %s.tar.gz %s'%(pjoin(top_level,folder,extra_file),pjoin(top_level,folder,extra_file)),shell=True)
+				tarball = '%s.tar.gz'%pjoin(top_level,folder,extra_file)
 				fw.upload_file_to_acquisition(upload_id, tarball)
 				call('/bin/rm %s'%tarball,shell=True)
 			else:
-				print('taring folder %s and uploading to %s'%(pjoin(top_level,extra_file),folder))
-				fw.upload_file_to_acquisition(upload_id, pjoin(top_level,extra_file))
+				print('taring folder %s and uploading to %s'%(pjoin(top_level,folder,extra_file),folder))
+				fw.upload_file_to_acquisition(upload_id, pjoin(top_level,folder,extra_file))
 	return True
 
 #iterate through sublist scanids and identity and upload those that aren't present

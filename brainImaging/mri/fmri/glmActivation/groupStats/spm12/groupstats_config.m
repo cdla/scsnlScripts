@@ -12,23 +12,25 @@
 %-for groupstats, set to 0 (nonparallel)
 paralist.parallel = '0';
 
-%-Please specify file name holding subjects to be analyzed
-% For two group stats, specify two subject list files. For eg.,
+%-Please specify the full file path to the csv holding subjects to be analyzed
+% For two group stats, specify two subject list file paths. I.e.
 % {'group1.csv', 'group2.csv'}.
 paralist.subjlist_file = {'/oak/stanford/groups/menon/projects/ruiyuan/rui/shelbyka/2017_TD_MD_mathfun/scripts/fmrisubjectlist.csv'};  
+%---- csv file example ----
+%- PID, visit, session
+%- 7014, 1 ,1
 
-%-Please specify project directo
+%-Please specify project directory
 paralist.projectdir = '/oak/stanford/groups/menon/projects/ruiyuan/rui/shelbyka/2017_TD_MD_mathfun';
 
-%-Please specify the individualstats folder path
+%-Please specify the folder name containing individualstats results 
 paralist.stats_folder  = 'comparisondot_swar';
 
-% Plese specify the folder path to put analysis results
+% Plese specify the folder name to put the groupstats analysis results
 paralist.output_folder = 'groupstats_stats_spm12';
 
 % Please specify the file holding regressors
-% If there is no regressor, comment the first line and uncomment the second
-% line
+% If there is no regressor, comment the first line and uncomment the second line
 %paralist.reg_file = {'Anxiety.txt','Age.txt','Gender.txt'};
 paralist.reg_file = [''];
 
@@ -36,12 +38,14 @@ paralist.reg_file = [''];
 % Yuan added
 %-Analysis type (e.g., glm, seedfc etc.)
 paralist.analysis_type = 'glm';
+
 %-Data type (i.e., restfmri or taskfmri)
 paralist.fmri_type = 'taskfmri';
 
 % fMRI parameters
 %-spm8 batch templates location
 paralist.template_path = '/oak/stanford/groups/menon/scsnlscripts/brainImaging/mri/fmri/glmActivation/groupStats/spm12/batchtemplates/'; %'/oak/stanford/groups/menon/scsnlscripts_vsochat/fmri/spm/spm8/analysis/batchtemplates';
+
 %-SPM version
 paralist.spmversion = 'spm12';
 

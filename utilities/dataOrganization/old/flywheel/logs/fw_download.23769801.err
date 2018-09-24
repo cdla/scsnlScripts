@@ -1,0 +1,12 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+rsync: opendir "/hd1/scsnl/datafromlucas/100513_1_1.3T2" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1650) [generator=3.1.2]
+mv: cannot stat ‘I*’: No such file or directory
+Cannot open volume I for reading!
+mv: cannot stat ‘I_0000*’: No such file or directory
+mv: cannot stat ‘I_0001*’: No such file or directory
+Cannot open volume * for reading!
+setfacl: Option -m: Invalid argument near character 3
+setfacl: Option -m: Invalid argument near character 3
+setfacl: Option -m: Invalid argument near character 3
+setfacl: Option -m: Invalid argument near character 3

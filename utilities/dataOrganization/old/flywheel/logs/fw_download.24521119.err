@@ -1,0 +1,27 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+rsync: opendir "/hd1/scsnl/datafromlucas/100513_1_1.3T2" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1650) [generator=3.1.2]
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 159, in <module>
+    fw.modify_acquisition_file(fw_acq['_id'], file['name'],body={'type':'pfile'})	
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/flywheel.py", line 151, in modify_acquisition_file
+    return self.acquisitions_api.modify_acquisition_file(*args, **kwargs)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api/acquisitions_api.py", line 2872, in modify_acquisition_file
+    (data) = self.modify_acquisition_file_with_http_info(acquisition_id, file_name, body, **kwargs)  # noqa: E501
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api/acquisitions_api.py", line 2968, in modify_acquisition_file_with_http_info
+    collection_formats=collection_formats)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api_client.py", line 338, in call_api
+    _preload_content, _request_timeout, _request_out)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api_client.py", line 175, in __call_api
+    return_data = self.deserialize(response_data, response_type)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api_client.py", line 249, in deserialize
+    return self.__deserialize(data, response_type)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api_client.py", line 288, in __deserialize
+    return self.__deserialize_model(data, klass)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/api_client.py", line 628, in __deserialize_model
+    instance = klass(**kwargs)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/models/inline_response_200_3.py", line 58, in __init__
+    self.jobs_triggered = jobs_triggered
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw/lib/python3.6/site-packages/flywheel/models/inline_response_200_3.py", line 102, in jobs_triggered
+    raise ValueError("Invalid value for `jobs_triggered`, must not be `None`")  # noqa: E501
+ValueError: Invalid value for `jobs_triggered`, must not be `None`

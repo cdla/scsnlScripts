@@ -1,0 +1,7 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 120, in <module>
+    if has_pending_jobs(fw, other_exam['fw_id']):
+  File "download_from_flywheel.py", line 45, in has_pending_jobs
+    jobs = fw.get_session_jobs(session_id)
+AttributeError: Flywheel instance has no attribute 'get_session_jobs'

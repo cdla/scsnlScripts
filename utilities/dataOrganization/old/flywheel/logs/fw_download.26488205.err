@@ -1,0 +1,32 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 162, in <module>
+    modify_file_class_by_template(fw_acq['_id'],file['name'],download_pair[1])
+  File "download_from_flywheel.py", line 79, in modify_file_class_by_template
+    fw.modify_acquisition_file(acq_id, file_name,body={'measurements':[label]})	
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/flywheel.py", line 492, in modify_acquisition_file
+    return self.acquisitions_api.modify_acquisition_file(acquisition_id, file_name, body, **kwargs)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/api/acquisitions_api.py", line 2843, in modify_acquisition_file
+    (data) = self.modify_acquisition_file_with_http_info(acquisition_id, file_name, body, **kwargs)  # noqa: E501
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/api/acquisitions_api.py", line 2935, in modify_acquisition_file_with_http_info
+    collection_formats=collection_formats)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/api_client.py", line 346, in call_api
+    _preload_content, _request_timeout, _request_out)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/api_client.py", line 176, in __call_api
+    _request_timeout=_request_timeout)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/api_client.py", line 397, in request
+    body=body)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/rest.py", line 230, in PUT
+    body=body)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/rest.py", line 123, in request
+    headers=headers)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/requests/sessions.py", line 512, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/requests/sessions.py", line 629, in send
+    r = dispatch_hook('response', hooks, r, **kwargs)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/requests/hooks.py", line 31, in dispatch_hook
+    _hook_data = hook(hook_data, **kwargs)
+  File "/oak/stanford/groups/menon/software/python/miniconda2/envs/fw2/lib/python3.6/site-packages/flywheel/rest.py", line 73, in response_hook
+    raise ApiException(http_resp=resp)
+flywheel.rest.ApiException: (400) Reason: Bad Request
+Detail: Object does not match schema on key 'none': Additional properties are not allowed ('measurements' was unexpected).

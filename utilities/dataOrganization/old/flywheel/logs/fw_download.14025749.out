@@ -1,0 +1,74 @@
+receiving incremental file list
+./
+8098_1_1.3T3/
+8098_1_1.3T3/behavioral/
+8098_1_1.3T3/behavioral/CRT_training_gr_LongVersion-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/behavioral/CRT_training_gr_LongVersion-8098-1.edat2
+8098_1_1.3T3/behavioral/CRT_training_gr_LongVersion-8098-1.txt
+8098_1_1.3T3/behavioral/CRT_training_gr_ShortVersion-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/behavioral/CRT_training_gr_ShortVersion-8098-1.edat2
+8098_1_1.3T3/behavioral/CRT_training_gr_ShortVersion-8098-1.txt
+8098_1_1.3T3/behavioral/CSST_training_gr_LongVersion-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/behavioral/CSST_training_gr_LongVersion-8098-1.edat2
+8098_1_1.3T3/behavioral/CSST_training_gr_LongVersion-8098-1.txt
+8098_1_1.3T3/behavioral/CSST_training_gr_ShortVersion-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/behavioral/CSST_training_gr_ShortVersion-8098-1.edat2
+8098_1_1.3T3/behavioral/CSST_training_gr_ShortVersion-8098-1.txt
+8098_1_1.3T3/behavioral/SST_train_gr_LongVersion-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/behavioral/SST_train_gr_LongVersion-8098-1.edat2
+8098_1_1.3T3/behavioral/SST_train_gr_LongVersion-8098-1.txt
+8098_1_1.3T3/behavioral/SST_train_gr_ShortVersion-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/behavioral/SST_train_gr_ShortVersion-8098-1.edat2
+8098_1_1.3T3/behavioral/SST_train_gr_ShortVersion-8098-1.txt
+8098_1_1.3T3/fmri/
+8098_1_1.3T3/fmri/level1_run1/
+8098_1_1.3T3/fmri/level1_run1/behavioral/
+8098_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8098-1.edat2
+8098_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8098-1.txt
+8098_1_1.3T3/fmri/level1_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run1/
+8098_1_1.3T3/fmri/level2_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run1/behavioral/SST_main_gr-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/fmri/level2_run1/behavioral/SST_main_gr-8098-1.edat2
+8098_1_1.3T3/fmri/level2_run1/behavioral/SST_main_gr-8098-1.txt
+8098_1_1.3T3/fmri/level2_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run2/
+8098_1_1.3T3/fmri/level2_run2/behavioral/
+8098_1_1.3T3/fmri/level2_run2/behavioral/SST_main_gr-8098-2-ExperimentAdvisorReport.xml
+8098_1_1.3T3/fmri/level2_run2/behavioral/SST_main_gr-8098-2.edat2
+8098_1_1.3T3/fmri/level2_run2/behavioral/SST_main_gr-8098-2.txt
+8098_1_1.3T3/fmri/level2_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run1/
+8098_1_1.3T3/fmri/level3_run1/behavioral/
+8098_1_1.3T3/fmri/level3_run1/behavioral/CSST_main_gr-8098-1-ExperimentAdvisorReport.xml
+8098_1_1.3T3/fmri/level3_run1/behavioral/CSST_main_gr-8098-1.edat2
+8098_1_1.3T3/fmri/level3_run1/behavioral/CSST_main_gr-8098-1.txt
+8098_1_1.3T3/fmri/level3_run1_blipdown/
+8098_1_1.3T3/fmri/level3_run2/
+8098_1_1.3T3/fmri/level3_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run2/behavioral/CSST_main_gr-8098-2-ExperimentAdvisorReport.xml
+8098_1_1.3T3/fmri/level3_run2/behavioral/CSST_main_gr-8098-2.edat2
+8098_1_1.3T3/fmri/level3_run2/behavioral/CSST_main_gr-8098-2.txt
+8098_1_1.3T3/fmri/level3_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run3/
+8098_1_1.3T3/fmri/level3_run3/behavioral/
+8098_1_1.3T3/fmri/level3_run3/behavioral/CSST_main_gr-8098-3-ExperimentAdvisorReport.xml
+8098_1_1.3T3/fmri/level3_run3/behavioral/CSST_main_gr-8098-3.edat2
+8098_1_1.3T3/fmri/level3_run3/behavioral/CSST_main_gr-8098-3.txt
+8098_1_1.3T3/fmri/level3_run3_blipdown/
+8098_1_1.3T3/fmri/resting_state_1/
+8098_1_1.3T3/fmri/resting_state_1_blipdown/
+8098_1_1.3T3/mri/
+8098_1_1.3T3/mri/anatomy/
+8098_1_1.3T3/mri/anatomy/multibandcoil/
+8098_1_1.3T3/mri/anatomy/standardcoil/
+8098_1_1.3T3/mri/dti/
+
+sent 1042 bytes  received 2856358 bytes  1904933.33 bytes/sec
+total size is 2851846  speedup is 1.00
+rsyncing behavioral data
+new adhd scan found: 8088_1_1
+new smpsmp scan found: 0224_2_2
+new adhd scan found: 8098_1_1
+new adhd scan found: 8098_1_1

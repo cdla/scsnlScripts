@@ -1,0 +1,8 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+rsync: opendir "/hd1/scsnl/datafromlucas/100513_1_1.3T2" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1650) [generator=3.1.2]
+unzip:  cannot find or open /oak/stanford/groups/menon/rawdata/scsnl/9347/visit1/session1/anatomical/ORIG, /oak/stanford/groups/menon/rawdata/scsnl/9347/visit1/session1/anatomical/ORIG.zip or /oak/stanford/groups/menon/rawdata/scsnl/9347/visit1/session1/anatomical/ORIG.ZIP.
+mv: target ‘3D_Volume_redo/006’ is not a directory
+/bin/rm: cannot remove ‘/oak/stanford/groups/menon/rawdata/scsnl/9347/visit1/session1/anatomical/ORIG’: No such file or directory
+/bin/rm: cannot remove ‘3D_Volume_redo/1.2.840.113619.2.440.1599194.3214630.22207.1532623361.258_1.dicom.zip’: No such file or directory
+setfacl: Option -m: Invalid argument near character 3

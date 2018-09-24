@@ -1,0 +1,2 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+setfacl: Option -m: Invalid argument near character 3

@@ -66,17 +66,23 @@ def checkpath(path):
 	return newpath
 
 def modify_file_class_by_template(acq_id,file_name,download_path,fw = fw):
+	found = True
 	if 'dwi' in download_path:
-		label = 'dwi'
+		measurement = 'Diffusion'
+		intent = 'Structural'
 	elif 'fmri' in download_path:
-		label = 'functional'
+		measurement = 'T2*'
+		intent = 'Functional'
 	elif 'anatomical' in download_path and 't2' not in file_name and 'T2' not in file_name:
-		label = 'anatomy_t1w'
+		measurement = 'T1'
+		intent = 'Structural'
 	elif 'anatomical' in download_path:
-		label = 'anatomy_t2w'
+		measurement = 'T2'
+		intent = 'Structural'
 	else:
-		label = 'unknown'
-	fw.modify_acquisition_file(acq_id, file_name,body={'measurements':[label]})	
+		found = False
+	if found:
+		fw.modify_acquisition_file_classification(acq_id, file_name,{'modality':'MR','replace':{'Intent':[intent],'Measurement':[measurement]}})	
 
 
 #rsync behavioral data folder on scsnlpc with sherlock .fromlucas folder
@@ -342,7 +348,7 @@ for scanid_list in downloaded_scanids:
 							#upload pconverted nifti file
 							print('uploading pconverted, dummy-stripped %s to acq %s %s'%(pjoin(this_dir,'I.nii.gz'),sess_acq['label'],sess_acq['_id']))
 							fw.upload_file_to_acquisition(sess_acq['_id'], pjoin(this_dir,'I.nii.gz'))
-							fw.modify_acquisition_file(sess_acq['_id'], 'I.nii.gz',body={'measurements':['functional']})
+							fw.modify_acquisition_file_classification(sess_acq['_id'], 'I.nii.gz',{'modality':'MR','replace':{'Intent':['Functional'],'Measurement':['T2*']}})
 							current_dicom = False
 							current_nifti = False
 							current_nifti_name = 'none'

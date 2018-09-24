@@ -1,0 +1,1493 @@
+receiving incremental file list
+./
+100509_1_1.3T2/
+100509_1_1.3T2/fmri/
+100509_1_1.3T2/fmri/grid1/
+100509_1_1.3T2/fmri/grid1/behavioral/
+100509_1_1.3T2/fmri/grid2/
+100509_1_1.3T2/fmri/grid2/behavioral/
+100509_1_1.3T2/fmri/grid3/
+100509_1_1.3T2/fmri/grid3/behavioral/
+100509_1_1.3T2/fmri/grid4/
+100509_1_1.3T2/fmri/grid4/behavioral/
+100509_1_1.3T2/fmri/sym1/
+100509_1_1.3T2/fmri/sym1/behavioral/
+100509_1_1.3T2/fmri/sym2/
+100509_1_1.3T2/fmri/sym2/behavioral/
+100509_1_1.3T2/fmri/sym3/
+100509_1_1.3T2/fmri/sym3/behavioral/
+100509_1_1.3T2/fmri/sym4/
+100509_1_1.3T2/fmri/sym4/behavioral/
+100509_1_1.3T2/mock_scan/
+100509_1_1.3T2/mri/
+100509_1_1.3T2/mri/anatomy/
+100509_1_1.3T2/mri/dti/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/001/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/002/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/005/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/006/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/007/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/008/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/009/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/010/
+100509_1_1.3T2/mri/dti/100509_1_1.3T2/20002/
+100510_1_1.3T2/
+100510_1_1.3T2/fmri/
+100510_1_1.3T2/fmri/dicoms/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/001/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/003/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/004/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/005/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/006/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/007/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/009/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/011/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/012/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/013/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/014/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/015/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/016/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/20003/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/20011/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/40006/
+100510_1_1.3T2/fmri/dicoms/3731_05082018/40007/
+100510_1_1.3T2/fmri/grid1/
+100510_1_1.3T2/fmri/grid1/behavioral/
+100510_1_1.3T2/fmri/grid2/
+100510_1_1.3T2/fmri/grid2/behavioral/
+100510_1_1.3T2/fmri/grid3/
+100510_1_1.3T2/fmri/grid3/behavioral/
+100510_1_1.3T2/fmri/grid4/
+100510_1_1.3T2/fmri/grid4/behavioral/
+100510_1_1.3T2/fmri/sym1/
+100510_1_1.3T2/fmri/sym1/behavioral/
+100510_1_1.3T2/fmri/sym2/
+100510_1_1.3T2/fmri/sym2/behavioral/
+100510_1_1.3T2/fmri/sym3/
+100510_1_1.3T2/fmri/sym3/behavioral/
+100510_1_1.3T2/fmri/sym4/
+100510_1_1.3T2/fmri/sym4/behavioral/
+100510_1_1.3T2/mock_scan/
+100510_1_1.3T2/mri/
+100510_1_1.3T2/mri/anatomy/
+100510_1_1.3T2/mri/anatomy/001/
+100510_1_1.3T2/mri/anatomy/003/
+100510_1_1.3T2/mri/anatomy/004/
+100510_1_1.3T2/mri/anatomy/005/
+100510_1_1.3T2/mri/anatomy/006/
+100510_1_1.3T2/mri/anatomy/007/
+100510_1_1.3T2/mri/anatomy/009/
+100510_1_1.3T2/mri/anatomy/011/
+100510_1_1.3T2/mri/anatomy/012/
+100510_1_1.3T2/mri/anatomy/013/
+100510_1_1.3T2/mri/anatomy/014/
+100510_1_1.3T2/mri/anatomy/015/
+100510_1_1.3T2/mri/anatomy/016/
+100510_1_1.3T2/mri/anatomy/20003/
+100510_1_1.3T2/mri/anatomy/20011/
+100510_1_1.3T2/mri/anatomy/40006/
+100510_1_1.3T2/mri/anatomy/40007/
+100510_1_1.3T2/mri/dti/
+100511_1_1.3T2/
+100511_1_1.3T2/fmri/
+100511_1_1.3T2/fmri/dicoms/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/001/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/003/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/004/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/006/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/007/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/008/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/009/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/010/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/011/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/012/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/013/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/014/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/20006/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/40013/
+100511_1_1.3T2/fmri/dicoms/3743_05082018/40014/
+100511_1_1.3T2/fmri/grid1/
+100511_1_1.3T2/fmri/grid1/behavioral/
+100511_1_1.3T2/fmri/grid2/
+100511_1_1.3T2/fmri/grid2/behavioral/
+100511_1_1.3T2/fmri/grid3/
+100511_1_1.3T2/fmri/grid3/behavioral/
+100511_1_1.3T2/fmri/grid4/
+100511_1_1.3T2/fmri/grid4/behavioral/
+100511_1_1.3T2/fmri/sym1/
+100511_1_1.3T2/fmri/sym1/behavioral/
+100511_1_1.3T2/fmri/sym2/
+100511_1_1.3T2/fmri/sym2/behavioral/
+100511_1_1.3T2/fmri/sym3/
+100511_1_1.3T2/fmri/sym3/behavioral/
+100511_1_1.3T2/fmri/sym4/
+100511_1_1.3T2/fmri/sym4/behavioral/
+100511_1_1.3T2/mock_scan/
+100511_1_1.3T2/mri/
+100511_1_1.3T2/mri/anatomy/
+100511_1_1.3T2/mri/anatomy/001/
+100511_1_1.3T2/mri/anatomy/003/
+100511_1_1.3T2/mri/anatomy/004/
+100511_1_1.3T2/mri/anatomy/006/
+100511_1_1.3T2/mri/anatomy/007/
+100511_1_1.3T2/mri/anatomy/008/
+100511_1_1.3T2/mri/anatomy/009/
+100511_1_1.3T2/mri/anatomy/010/
+100511_1_1.3T2/mri/anatomy/011/
+100511_1_1.3T2/mri/anatomy/012/
+100511_1_1.3T2/mri/anatomy/013/
+100511_1_1.3T2/mri/anatomy/014/
+100511_1_1.3T2/mri/anatomy/20006/
+100511_1_1.3T2/mri/anatomy/40013/
+100511_1_1.3T2/mri/anatomy/40014/
+100511_1_1.3T2/mri/dti/
+100512_1_1.3T2/
+100512_1_1.3T2/fmri/
+100512_1_1.3T2/fmri/dicoms/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/001/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/003/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/004/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/005/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/006/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/007/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/008/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/009/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/010/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/011/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/20003/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/40010/
+100512_1_1.3T2/fmri/dicoms/3744_05082018/40011/
+100512_1_1.3T2/fmri/grid1/
+100512_1_1.3T2/fmri/grid1/behavioral/
+100512_1_1.3T2/fmri/grid2/
+100512_1_1.3T2/fmri/grid2/behavioral/
+100512_1_1.3T2/fmri/grid3/
+100512_1_1.3T2/fmri/grid3/behavioral/
+100512_1_1.3T2/fmri/grid4/
+100512_1_1.3T2/fmri/grid4/behavioral/
+100512_1_1.3T2/fmri/sym1/
+100512_1_1.3T2/fmri/sym1/behavioral/
+100512_1_1.3T2/fmri/sym2/
+100512_1_1.3T2/fmri/sym2/behavioral/
+100512_1_1.3T2/fmri/sym3/
+100512_1_1.3T2/fmri/sym3/behavioral/
+100512_1_1.3T2/fmri/sym4/
+100512_1_1.3T2/fmri/sym4/behavioral/
+100512_1_1.3T2/mock_scan/
+100512_1_1.3T2/mri/
+100512_1_1.3T2/mri/anatomy/
+100512_1_1.3T2/mri/anatomy/001/
+100512_1_1.3T2/mri/anatomy/003/
+100512_1_1.3T2/mri/anatomy/004/
+100512_1_1.3T2/mri/anatomy/005/
+100512_1_1.3T2/mri/anatomy/006/
+100512_1_1.3T2/mri/anatomy/007/
+100512_1_1.3T2/mri/anatomy/008/
+100512_1_1.3T2/mri/anatomy/009/
+100512_1_1.3T2/mri/anatomy/010/
+100512_1_1.3T2/mri/anatomy/011/
+100512_1_1.3T2/mri/anatomy/20003/
+100512_1_1.3T2/mri/anatomy/40010/
+100512_1_1.3T2/mri/anatomy/40011/
+100512_1_1.3T2/mri/dti/
+100513_1_1.3T2/
+100514_1_1.3T2/
+100514_1_1.3T2/fmri/
+100514_1_1.3T2/fmri/grid1/
+100514_1_1.3T2/fmri/grid1/behavioral/
+100514_1_1.3T2/fmri/grid2/
+100514_1_1.3T2/fmri/grid2/behavioral/
+100514_1_1.3T2/fmri/grid3/
+100514_1_1.3T2/fmri/grid3/behavioral/
+100514_1_1.3T2/fmri/grid4/
+100514_1_1.3T2/fmri/grid4/behavioral/
+100514_1_1.3T2/fmri/sym1/
+100514_1_1.3T2/fmri/sym1/behavioral/
+100514_1_1.3T2/fmri/sym1/behavioral/sym_run1_20_19_10.csv
+100514_1_1.3T2/fmri/sym2/
+100514_1_1.3T2/fmri/sym2/behavioral/
+100514_1_1.3T2/fmri/sym2/behavioral/sym_run2_20_24_57.csv
+100514_1_1.3T2/fmri/sym3/
+100514_1_1.3T2/fmri/sym3/behavioral/
+100514_1_1.3T2/fmri/sym3/behavioral/sym_run3_20_30_23.csv
+100514_1_1.3T2/fmri/sym4/
+100514_1_1.3T2/fmri/sym4/behavioral/
+100514_1_1.3T2/fmri/sym4/behavioral/sym_run4_20_36_00.csv
+100514_1_1.3T2/mock_scan/
+100514_1_1.3T2/mri/
+100514_1_1.3T2/mri/anatomy/
+100514_1_1.3T2/mri/dti/
+356_3_2.3T3/
+356_3_2.3T3/fmri/
+356_3_2.3T3/fmri/addblock_1/
+356_3_2.3T3/fmri/addblock_1/behavioral/
+356_3_2.3T3/fmri/addevent_1/
+356_3_2.3T3/fmri/addevent_1/behavioral/
+356_3_2.3T3/fmri/addevent_2/
+356_3_2.3T3/fmri/addevent_2/behavioral/
+356_3_2.3T3/fmri/equation_2/
+356_3_2.3T3/fmri/equation_2/behavioral/
+356_3_2.3T3/fmri/letter_2/
+356_3_2.3T3/fmri/letter_2/behavioral/
+356_3_2.3T3/fmri/number_2/
+356_3_2.3T3/fmri/number_2/behavioral/
+356_3_2.3T3/fmri/resting_1/
+356_3_2.3T3/fmri/resting_2/
+356_3_2.3T3/fmri/subblock_1/
+356_3_2.3T3/fmri/subblock_1/behavioral/
+356_3_2.3T3/fmri/word_2/
+356_3_2.3T3/fmri/word_2/behavioral/
+7874_2_1.3T3/
+7874_2_1.3T3/fmri/
+7874_2_1.3T3/fmri/BART_1/
+7874_2_1.3T3/fmri/BART_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_match_1/
+7874_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_regulation_1/
+7874_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7874_2_1.3T3/fmri/Emotion_regulation_2/
+7874_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7874_2_1.3T3/fmri/SST_1/
+7874_2_1.3T3/fmri/SST_1/behavioral/
+7874_2_1.3T3/fmri/SST_2/
+7874_2_1.3T3/fmri/SST_2/behavioral/
+7874_2_1.3T3/fmri/resting_state_1/
+7874_2_1.3T3/mri/
+7874_2_1.3T3/mri/anatomy/
+7874_2_1.3T3/mri/dti/
+7877_4_1.3T3/
+7877_4_1.3T3/fmri/
+7877_4_1.3T3/fmri/BART_1/
+7877_4_1.3T3/fmri/BART_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_match_1/
+7877_4_1.3T3/fmri/Emotion_match_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_regulation_1/
+7877_4_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7877_4_1.3T3/fmri/Emotion_regulation_2/
+7877_4_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7877_4_1.3T3/fmri/SST_1/
+7877_4_1.3T3/fmri/SST_1/behavioral/
+7877_4_1.3T3/fmri/SST_1_redo/
+7877_4_1.3T3/fmri/SST_1_redo/behavioral/
+7877_4_1.3T3/fmri/SST_2/
+7877_4_1.3T3/fmri/SST_2/behavioral/
+7877_4_1.3T3/fmri/resting_state_1/
+7877_4_1.3T3/mri/
+7877_4_1.3T3/mri/anatomy/
+7877_4_1.3T3/mri/anatomy/001/
+7877_4_1.3T3/mri/anatomy/003/
+7877_4_1.3T3/mri/anatomy/004/
+7877_4_1.3T3/mri/anatomy/005/
+7877_4_1.3T3/mri/anatomy/006/
+7877_4_1.3T3/mri/anatomy/007/
+7877_4_1.3T3/mri/anatomy/008/
+7877_4_1.3T3/mri/anatomy/010/
+7877_4_1.3T3/mri/anatomy/012/
+7877_4_1.3T3/mri/anatomy/013/
+7877_4_1.3T3/mri/anatomy/014/
+7877_4_1.3T3/mri/anatomy/015/
+7877_4_1.3T3/mri/anatomy/016/
+7877_4_1.3T3/mri/anatomy/017/
+7877_4_1.3T3/mri/anatomy/019/
+7877_4_1.3T3/mri/anatomy/20003/
+7877_4_1.3T3/mri/anatomy/20004/
+7877_4_1.3T3/mri/anatomy/20007/
+7877_4_1.3T3/mri/anatomy/20012/
+7877_4_1.3T3/mri/anatomy/20016/
+7877_4_1.3T3/mri/anatomy/20017/
+7877_4_1.3T3/mri/anatomy/20018/
+7877_4_1.3T3/mri/dti/
+7877_4_1.3T3/mri/dti/018/
+7969_2_1.3T3/
+7969_2_1.3T3/fmri/
+7969_2_1.3T3/fmri/BART_1/
+7969_2_1.3T3/fmri/BART_1/behavioral/
+7969_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1468-31-ExperimentAdvisorReport.xml
+7969_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1468-31.edat2
+7969_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1468-31.txt
+7969_2_1.3T3/fmri/BART_1_redo/
+7969_2_1.3T3/fmri/BART_1_redo/behavioral/
+7969_2_1.3T3/fmri/BART_1_redo/behavioral/BART_maintask_rewardOnly-1468-32-ExperimentAdvisorReport.xml
+7969_2_1.3T3/fmri/BART_1_redo/behavioral/BART_maintask_rewardOnly-1468-32.edat2
+7969_2_1.3T3/fmri/BART_1_redo/behavioral/BART_maintask_rewardOnly-1468-32.txt
+7969_2_1.3T3/fmri/Emotion_match_1/
+7969_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7969_2_1.3T3/fmri/Emotion_match_1/behavioral/Real_EmotionMatch_sub1468_ss1_190518_1003.edat2
+7969_2_1.3T3/fmri/Emotion_match_1/behavioral/Real_EmotionMatch_sub1468_ss1_190518_1003.txt
+7969_2_1.3T3/fmri/Emotion_regulation_1/
+7969_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7969_2_1.3T3/fmri/Emotion_regulation_1/behavioral/Real_EmotionRegulation_2runs_sub1468_ss31_190518_1033.edat2
+7969_2_1.3T3/fmri/Emotion_regulation_1/behavioral/Real_EmotionRegulation_2runs_sub1468_ss31_190518_1033.txt
+7969_2_1.3T3/fmri/Emotion_regulation_2/
+7969_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7969_2_1.3T3/fmri/Emotion_regulation_2/behavioral/Real_EmotionRegulation_2runs_sub1468_ss32_190518_1049.edat2
+7969_2_1.3T3/fmri/Emotion_regulation_2/behavioral/Real_EmotionRegulation_2runs_sub1468_ss32_190518_1049.txt
+7969_2_1.3T3/fmri/SST_1/
+7969_2_1.3T3/fmri/SST_1/behavioral/
+7969_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1468-31-ExperimentAdvisorReport.xml
+7969_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1468-31.edat2
+7969_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1468-31.txt
+7969_2_1.3T3/fmri/SST_2/
+7969_2_1.3T3/fmri/SST_2/behavioral/
+7969_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1468-32-ExperimentAdvisorReport.xml
+7969_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1468-32.edat2
+7969_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1468-32.txt
+7969_2_1.3T3/fmri/resting_state_1/
+7969_2_1.3T3/mri/
+7969_2_1.3T3/mri/anatomy/
+7969_2_1.3T3/mri/dti/
+7977_2_1.3T3/
+7977_2_1.3T3/fmri/
+7977_2_1.3T3/fmri/BART_1/
+7977_2_1.3T3/fmri/BART_1/behavioral/
+7977_2_1.3T3/fmri/Emotion_match_1/
+7977_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7977_2_1.3T3/fmri/Emotion_regulation_1/
+7977_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7977_2_1.3T3/fmri/Emotion_regulation_2/
+7977_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7977_2_1.3T3/fmri/SST_1/
+7977_2_1.3T3/fmri/SST_1/behavioral/
+7977_2_1.3T3/fmri/SST_2/
+7977_2_1.3T3/fmri/SST_2/behavioral/
+7977_2_1.3T3/fmri/resting_state_1/
+7977_2_1.3T3/mri/
+7977_2_1.3T3/mri/anatomy/
+7977_2_1.3T3/mri/dti/
+7980_2_1.3T3/
+7980_2_1.3T3/fmri/
+7980_2_1.3T3/fmri/BART_1/
+7980_2_1.3T3/fmri/BART_1/behavioral/
+7980_2_1.3T3/fmri/Emotion_match_1/
+7980_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7980_2_1.3T3/fmri/Emotion_regulation_1/
+7980_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7980_2_1.3T3/fmri/Emotion_regulation_2/
+7980_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7980_2_1.3T3/fmri/SST_1/
+7980_2_1.3T3/fmri/SST_1/behavioral/
+7980_2_1.3T3/fmri/SST_2/
+7980_2_1.3T3/fmri/SST_2/behavioral/
+7980_2_1.3T3/fmri/resting_state_1/
+7980_2_1.3T3/mri/
+7980_2_1.3T3/mri/anatomy/
+7980_2_1.3T3/mri/dti/
+7982_2_1.3T3/
+7982_2_1.3T3/fmri/
+7982_2_1.3T3/fmri/BART_1/
+7982_2_1.3T3/fmri/BART_1/behavioral/
+7982_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1475-31-ExperimentAdvisorReport.xml
+7982_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1475-31.edat2
+7982_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1475-31.txt
+7982_2_1.3T3/fmri/Emotion_match_1/
+7982_2_1.3T3/fmri/Emotion_match_1/behavioral/
+7982_2_1.3T3/fmri/Emotion_match_1/behavioral/Real_EmotionMatch_sub1475_ss1_200518_1558.edat2
+7982_2_1.3T3/fmri/Emotion_match_1/behavioral/Real_EmotionMatch_sub1475_ss1_200518_1558.txt
+7982_2_1.3T3/fmri/Emotion_regulation_1/
+7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral/Real_EmotionRegulation_2runs_sub1475_ss31_200518_1619.edat2
+7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral/Real_EmotionRegulation_2runs_sub1475_ss31_200518_1619.txt
+7982_2_1.3T3/fmri/Emotion_regulation_2/
+7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral/Real_EmotionRegulation_2runs_sub1475_ss32_200518_1645.edat2
+7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral/Real_EmotionRegulation_2runs_sub1475_ss32_200518_1645.txt
+7982_2_1.3T3/fmri/SST_1/
+7982_2_1.3T3/fmri/SST_1/behavioral/
+7982_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1475-31-ExperimentAdvisorReport.xml
+7982_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1475-31.edat2
+7982_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1475-31.txt
+7982_2_1.3T3/fmri/SST_1_redo/
+7982_2_1.3T3/fmri/SST_1_redo/behavioral/
+7982_2_1.3T3/fmri/SST_1_redo/behavioral/SST_main_gr-1475-33-ExperimentAdvisorReport.xml
+7982_2_1.3T3/fmri/SST_1_redo/behavioral/SST_main_gr-1475-33.edat2
+7982_2_1.3T3/fmri/SST_1_redo/behavioral/SST_main_gr-1475-33.txt
+7982_2_1.3T3/fmri/SST_2/
+7982_2_1.3T3/fmri/SST_2/behavioral/
+7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32-ExperimentAdvisorReport.xml
+7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32.edat2
+7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32.txt
+7982_2_1.3T3/fmri/resting_state_1/
+7982_2_1.3T3/mri/
+7982_2_1.3T3/mri/anatomy/
+7982_2_1.3T3/mri/dti/
+8009_4_1.3T3/
+8009_4_1.3T3/fmri/
+8009_4_1.3T3/fmri/encoding_1/
+8009_4_1.3T3/fmri/encoding_1/behavioral/
+8009_4_1.3T3/fmri/encoding_1/physiological/
+8009_4_1.3T3/fmri/encoding_2/
+8009_4_1.3T3/fmri/encoding_2/behavioral/
+8009_4_1.3T3/fmri/encoding_2/physiological/
+8009_4_1.3T3/fmri/localizer/
+8009_4_1.3T3/fmri/localizer/behavioral/
+8009_4_1.3T3/fmri/localizer/physiological/
+8009_4_1.3T3/fmri/resting_1/
+8009_4_1.3T3/fmri/resting_1/physiological/
+8009_4_1.3T3/fmri/resting_2/
+8009_4_1.3T3/fmri/resting_2/physiological/
+8009_4_1.3T3/fmri/retrieval_1/
+8009_4_1.3T3/fmri/retrieval_1/behavioral/
+8009_4_1.3T3/fmri/retrieval_1/physiological/
+8009_4_1.3T3/fmri/retrieval_2/
+8009_4_1.3T3/fmri/retrieval_2/behavioral/
+8009_4_1.3T3/fmri/retrieval_2/physiological/
+8009_4_1.3T3/fmri/retrieval_3/
+8009_4_1.3T3/fmri/retrieval_3/behavioral/
+8009_4_1.3T3/fmri/retrieval_3/physiological/
+8009_4_1.3T3/fmri/retrieval_4/
+8009_4_1.3T3/fmri/retrieval_4/behavioral/
+8009_4_1.3T3/fmri/retrieval_4/physiological/
+8009_4_1.3T3/mri/
+8009_4_1.3T3/mri/anatomy/
+8009_4_1.3T3/mri/dti/
+8033_1_1.3T3/
+8033_1_1.3T3/behavioral/
+8033_1_1.3T3/fmri/
+8033_1_1.3T3/fmri/level1_run1/
+8033_1_1.3T3/fmri/level1_run1/behavioral/
+8033_1_1.3T3/fmri/level1_run1_blipdown/
+8033_1_1.3T3/fmri/level2_run1/
+8033_1_1.3T3/fmri/level2_run1/behavioral/
+8033_1_1.3T3/fmri/level2_run1_blipdown/
+8033_1_1.3T3/fmri/level2_run2/
+8033_1_1.3T3/fmri/level2_run2/behavioral/
+8033_1_1.3T3/fmri/level2_run2_blipdown/
+8033_1_1.3T3/fmri/level3_run1/
+8033_1_1.3T3/fmri/level3_run1/behavioral/
+8033_1_1.3T3/fmri/level3_run1_blipdown/
+8033_1_1.3T3/fmri/level3_run2/
+8033_1_1.3T3/fmri/level3_run2/behavioral/
+8033_1_1.3T3/fmri/level3_run2_blipdown/
+8033_1_1.3T3/fmri/level3_run2_redo/
+8033_1_1.3T3/fmri/level3_run2_redo/behavioral/
+8033_1_1.3T3/fmri/level3_run3/
+8033_1_1.3T3/fmri/level3_run3/behavioral/
+8033_1_1.3T3/fmri/level3_run3_blipdown/
+8033_1_1.3T3/fmri/resting_state_1/
+8033_1_1.3T3/fmri/resting_state_1_blipdown/
+8033_1_1.3T3/mri/
+8033_1_1.3T3/mri/anatomy/
+8033_1_1.3T3/mri/dti/
+8033_1_1.3T3/mri/multibandcoil/
+8033_1_1.3T3/mri/multibandcoil/001/
+8033_1_1.3T3/mri/multibandcoil/011/
+8033_1_1.3T3/mri/multibandcoil/019/
+8033_1_1.3T3/mri/multibandcoil/020/
+8033_1_1.3T3/mri/standardcoil/
+8033_1_1.3T3/mri/standardcoil/001/
+8033_1_1.3T3/mri/standardcoil/003/
+8033_1_1.3T3/mri/standardcoil/004/
+8033_1_1.3T3/mri/standardcoil/005/
+8033_1_1.3T3/mri/standardcoil/20003/
+8033_1_1.3T3/mri/standardcoil/20004/
+8033_1_1.3T3/mri/standardcoil/20005/
+8035_2_1.3T3/
+8035_2_1.3T3/fmri/
+8035_2_1.3T3/fmri/BART_1/
+8035_2_1.3T3/fmri/BART_1/behavioral/
+8035_2_1.3T3/fmri/Emotion_match_1/
+8035_2_1.3T3/fmri/Emotion_match_1/behavioral/
+8035_2_1.3T3/fmri/Emotion_regulation_1/
+8035_2_1.3T3/fmri/Emotion_regulation_1/behavioral/
+8035_2_1.3T3/fmri/Emotion_regulation_2/
+8035_2_1.3T3/fmri/Emotion_regulation_2/behavioral/
+8035_2_1.3T3/fmri/SST_1/
+8035_2_1.3T3/fmri/SST_1/behavioral/
+8035_2_1.3T3/fmri/SST_2/
+8035_2_1.3T3/fmri/SST_2/behavioral/
+8035_2_1.3T3/fmri/resting_state_1/
+8035_2_1.3T3/mri/
+8035_2_1.3T3/mri/anatomy/
+8035_2_1.3T3/mri/anatomy/001/
+8035_2_1.3T3/mri/anatomy/003/
+8035_2_1.3T3/mri/anatomy/004/
+8035_2_1.3T3/mri/anatomy/005/
+8035_2_1.3T3/mri/anatomy/006/
+8035_2_1.3T3/mri/anatomy/007/
+8035_2_1.3T3/mri/anatomy/009/
+8035_2_1.3T3/mri/anatomy/011/
+8035_2_1.3T3/mri/anatomy/012/
+8035_2_1.3T3/mri/anatomy/013/
+8035_2_1.3T3/mri/anatomy/014/
+8035_2_1.3T3/mri/anatomy/015/
+8035_2_1.3T3/mri/anatomy/016/
+8035_2_1.3T3/mri/anatomy/018/
+8035_2_1.3T3/mri/anatomy/20003/
+8035_2_1.3T3/mri/anatomy/20004/
+8035_2_1.3T3/mri/anatomy/20006/
+8035_2_1.3T3/mri/anatomy/20011/
+8035_2_1.3T3/mri/anatomy/20015/
+8035_2_1.3T3/mri/anatomy/20016/
+8035_2_1.3T3/mri/anatomy/20017/
+8035_2_1.3T3/mri/dti/
+8035_2_1.3T3/mri/dti/017/
+8094_1_1.3T3/
+8094_1_1.3T3/behavioral/
+8094_1_1.3T3/fmri/
+8094_1_1.3T3/fmri/level1_run1/
+8094_1_1.3T3/fmri/level1_run1/behavioral/
+8094_1_1.3T3/fmri/level1_run1_blipdown/
+8094_1_1.3T3/fmri/level2_run1/
+8094_1_1.3T3/fmri/level2_run1/behavioral/
+8094_1_1.3T3/fmri/level2_run1_blipdown/
+8094_1_1.3T3/fmri/level2_run2/
+8094_1_1.3T3/fmri/level2_run2/behavioral/
+8094_1_1.3T3/fmri/level2_run2_blipdown/
+8094_1_1.3T3/fmri/level3_run1/
+8094_1_1.3T3/fmri/level3_run1/behavioral/
+8094_1_1.3T3/fmri/level3_run1_blipdown/
+8094_1_1.3T3/fmri/level3_run2/
+8094_1_1.3T3/fmri/level3_run2/behavioral/
+8094_1_1.3T3/fmri/level3_run2_blipdown/
+8094_1_1.3T3/fmri/level3_run3/
+8094_1_1.3T3/fmri/level3_run3/behavioral/
+8094_1_1.3T3/fmri/level3_run3_blipdown/
+8094_1_1.3T3/fmri/resting_state_1/
+8094_1_1.3T3/fmri/resting_state_1_blipdown/
+8094_1_1.3T3/mri/
+8094_1_1.3T3/mri/anatomy/
+8094_1_1.3T3/mri/anatomy/multibandcoil/
+8094_1_1.3T3/mri/anatomy/standardcoil/
+8094_1_1.3T3/mri/dti/
+8096_1_1.3T3/
+8096_1_1.3T3/behavioral/
+8096_1_1.3T3/fmri/
+8096_1_1.3T3/fmri/level1_run1/
+8096_1_1.3T3/fmri/level1_run1/behavioral/
+8096_1_1.3T3/fmri/level1_run1_blipdown/
+8096_1_1.3T3/fmri/level2_run1/
+8096_1_1.3T3/fmri/level2_run1/behavioral/
+8096_1_1.3T3/fmri/level2_run1_blipdown/
+8096_1_1.3T3/fmri/level2_run2/
+8096_1_1.3T3/fmri/level2_run2/behavioral/
+8096_1_1.3T3/fmri/level2_run2_blipdown/
+8096_1_1.3T3/fmri/level2_run3/
+8096_1_1.3T3/fmri/level2_run3/behavioral/
+8096_1_1.3T3/fmri/level2_run3_blipdown /
+8096_1_1.3T3/fmri/level3_run1/
+8096_1_1.3T3/fmri/level3_run1/behavioral/
+8096_1_1.3T3/fmri/level3_run1_blipdown/
+8096_1_1.3T3/fmri/level3_run2/
+8096_1_1.3T3/fmri/level3_run2/behavioral/
+8096_1_1.3T3/fmri/level3_run2_blipdown/
+8096_1_1.3T3/fmri/level3_run3/
+8096_1_1.3T3/fmri/level3_run3/behavioral/
+8096_1_1.3T3/fmri/level3_run3_blipdown/
+8096_1_1.3T3/fmri/resting_state_1/
+8096_1_1.3T3/fmri/resting_state_1_blipdown/
+8096_1_1.3T3/mri/
+8096_1_1.3T3/mri/anatomy/
+8096_1_1.3T3/mri/anatomy/multibandcoil/
+8096_1_1.3T3/mri/anatomy/standardcoil/
+8096_1_1.3T3/mri/dti/
+8098_1_1.3T3/
+8098_1_1.3T3/behavioral/
+8098_1_1.3T3/fmri/
+8098_1_1.3T3/fmri/level1_run1/
+8098_1_1.3T3/fmri/level1_run1/behavioral/
+8098_1_1.3T3/fmri/level1_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run1/
+8098_1_1.3T3/fmri/level2_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run2/
+8098_1_1.3T3/fmri/level2_run2/behavioral/
+8098_1_1.3T3/fmri/level2_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run1/
+8098_1_1.3T3/fmri/level3_run1/behavioral/
+8098_1_1.3T3/fmri/level3_run1_blipdown/
+8098_1_1.3T3/fmri/level3_run2/
+8098_1_1.3T3/fmri/level3_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run3/
+8098_1_1.3T3/fmri/level3_run3/behavioral/
+8098_1_1.3T3/fmri/level3_run3_blipdown/
+8098_1_1.3T3/fmri/resting_state_1/
+8098_1_1.3T3/fmri/resting_state_1_blipdown/
+8098_1_1.3T3/mri/
+8098_1_1.3T3/mri/anatomy/
+8098_1_1.3T3/mri/anatomy/multibandcoil/
+8098_1_1.3T3/mri/anatomy/standardcoil/
+8098_1_1.3T3/mri/dti/
+8106_1_1.3T3/
+8106_1_1.3T3/fmri/
+8106_1_1.3T3/fmri/addition_1/
+8106_1_1.3T3/fmri/addition_1/behavioral/
+8106_1_1.3T3/fmri/addition_2/
+8106_1_1.3T3/fmri/addition_2/behavioral/
+8106_1_1.3T3/fmri/addition_3/
+8106_1_1.3T3/fmri/addition_3/behaviroal/
+8106_1_1.3T3/fmri/addition_4/
+8106_1_1.3T3/fmri/addition_4/behavioral/
+8106_1_1.3T3/fmri/resting_state_1/
+8106_1_1.3T3/mri/
+8106_1_1.3T3/mri/anatomy/
+8106_1_1.3T3/mri/dti/
+8106_1_1.3T3/strategy_assessment/
+8110_1_1.3T3/
+8110_1_1.3T3/behaviorial/
+8110_1_1.3T3/fmri/
+8110_1_1.3T3/fmri/level1_run1/
+8110_1_1.3T3/fmri/level1_run1/behavioral/
+8110_1_1.3T3/fmri/level1_run1_blipdown/
+8110_1_1.3T3/fmri/level2_run1/
+8110_1_1.3T3/fmri/level2_run1/behavioral/
+8110_1_1.3T3/fmri/level2_run1_blipdown/
+8110_1_1.3T3/fmri/level2_run2/
+8110_1_1.3T3/fmri/level2_run2/behavioral/
+8110_1_1.3T3/fmri/level2_run2_blipdown/
+8110_1_1.3T3/fmri/level3_run1/
+8110_1_1.3T3/fmri/level3_run1/behavioral/
+8110_1_1.3T3/fmri/level3_run1_blipdown/
+8110_1_1.3T3/fmri/level3_run2/
+8110_1_1.3T3/fmri/level3_run2/behavioral/
+8110_1_1.3T3/fmri/level3_run2_blipdown/
+8110_1_1.3T3/fmri/level3_run3/
+8110_1_1.3T3/fmri/level3_run3/behavioral/
+8110_1_1.3T3/fmri/level3_run3_blipdown/
+8110_1_1.3T3/fmri/resting_state_1/
+8110_1_1.3T3/fmri/resting_state_1_blipdown/
+8110_1_1.3T3/mri/
+8110_1_1.3T3/mri/anatomy/
+8110_1_1.3T3/mri/anatomy/multibandcoil/
+8110_1_1.3T3/mri/anatomy/standardcoil/
+8110_1_1.3T3/mri/dti/
+8113_1_1.3T3/
+8113_1_1.3T3/behavioral/
+8113_1_1.3T3/fmri/
+8113_1_1.3T3/fmri/level1_run1/
+8113_1_1.3T3/fmri/level1_run1/behavioral/
+8113_1_1.3T3/fmri/level1_run1_blipdown/
+8113_1_1.3T3/fmri/level2_run1/
+8113_1_1.3T3/fmri/level2_run1/behavioral/
+8113_1_1.3T3/fmri/level2_run1_blipdown/
+8113_1_1.3T3/fmri/level2_run2/
+8113_1_1.3T3/fmri/level2_run2/behavioral/
+8113_1_1.3T3/fmri/level2_run2_blipdown/
+8113_1_1.3T3/fmri/level3_run1/
+8113_1_1.3T3/fmri/level3_run1/behavioral/
+8113_1_1.3T3/fmri/level3_run1_blipdown/
+8113_1_1.3T3/fmri/level3_run2/
+8113_1_1.3T3/fmri/level3_run2/behavioral/
+8113_1_1.3T3/fmri/level3_run2_blipdown/
+8113_1_1.3T3/fmri/level3_run3/
+8113_1_1.3T3/fmri/level3_run3/behavioral/
+8113_1_1.3T3/fmri/level3_run3_blipdown/
+8113_1_1.3T3/fmri/resting_state_1/
+8113_1_1.3T3/fmri/resting_state_1_blipdown/
+8113_1_1.3T3/mri/
+8113_1_1.3T3/mri/anatomy/
+8113_1_1.3T3/mri/anatomy/multibandcoil/
+8113_1_1.3T3/mri/anatomy/standardcoil/
+8113_1_1.3T3/mri/dti/
+8114_1_1.3T3/
+8114_1_1.3T3/fmri/
+8114_1_1.3T3/fmri/encoding_1/
+8114_1_1.3T3/fmri/encoding_1/behavioral/
+8114_1_1.3T3/fmri/encoding_1/physiological/
+8114_1_1.3T3/fmri/encoding_2/
+8114_1_1.3T3/fmri/encoding_2/behavioral/
+8114_1_1.3T3/fmri/encoding_2/physiological/
+8114_1_1.3T3/fmri/localizer/
+8114_1_1.3T3/fmri/localizer/behavioral/
+8114_1_1.3T3/fmri/localizer/physiological/
+8114_1_1.3T3/fmri/resting_1/
+8114_1_1.3T3/fmri/resting_1/physiological/
+8114_1_1.3T3/fmri/resting_2/
+8114_1_1.3T3/fmri/resting_2/physiological/
+8114_1_1.3T3/fmri/retrieval_1/
+8114_1_1.3T3/fmri/retrieval_1/behavioral/
+8114_1_1.3T3/fmri/retrieval_1/physiological/
+8114_1_1.3T3/fmri/retrieval_2/
+8114_1_1.3T3/fmri/retrieval_2/behavioral/
+8114_1_1.3T3/fmri/retrieval_2/physiological/
+8114_1_1.3T3/fmri/retrieval_3/
+8114_1_1.3T3/fmri/retrieval_3/behavioral/
+8114_1_1.3T3/fmri/retrieval_3/physiological/
+8114_1_1.3T3/fmri/retrieval_4/
+8114_1_1.3T3/fmri/retrieval_4/behavioral/
+8114_1_1.3T3/fmri/retrieval_4/physiological/
+8114_1_1.3T3/mri/
+8114_1_1.3T3/mri/anatomy/
+8114_1_1.3T3/mri/dti/
+8115_1_1.3T3/
+8115_1_1.3T3/behavioral/
+8115_1_1.3T3/fmri/
+8115_1_1.3T3/fmri/level1_run1/
+8115_1_1.3T3/fmri/level1_run1/behavioral/
+8115_1_1.3T3/fmri/level1_run1_blipdown/
+8115_1_1.3T3/fmri/level2_run1/
+8115_1_1.3T3/fmri/level2_run1/behavioral/
+8115_1_1.3T3/fmri/level2_run1_blipdown/
+8115_1_1.3T3/fmri/level2_run2/
+8115_1_1.3T3/fmri/level2_run2/behavioral/
+8115_1_1.3T3/fmri/level2_run2_blipdown/
+8115_1_1.3T3/fmri/level2_run3/
+8115_1_1.3T3/fmri/level2_run3/behavioral/
+8115_1_1.3T3/fmri/level2_run3_blipdown/
+8115_1_1.3T3/fmri/level3_run1/
+8115_1_1.3T3/fmri/level3_run1/behavioral/
+8115_1_1.3T3/fmri/level3_run1_blipdown/
+8115_1_1.3T3/fmri/level3_run2/
+8115_1_1.3T3/fmri/level3_run2/behavioral/
+8115_1_1.3T3/fmri/level3_run2_blipdown/
+8115_1_1.3T3/fmri/level3_run3/
+8115_1_1.3T3/fmri/level3_run3/behavioral/
+8115_1_1.3T3/fmri/level3_run3_blipdown/
+8115_1_1.3T3/fmri/resting_state_1/
+8115_1_1.3T3/fmri/resting_state_1_blipdown/
+8115_1_1.3T3/mri/
+8115_1_1.3T3/mri/anatomy/
+8115_1_1.3T3/mri/anatomy/multibandcoil/
+8115_1_1.3T3/mri/anatomy/standardcoil/
+8115_1_1.3T3/mri/dti/
+8118_1_1.3T3/
+8118_1_1.3T3/behavioral/
+8118_1_1.3T3/fmri/
+8118_1_1.3T3/fmri/level1_run1/
+8118_1_1.3T3/fmri/level1_run1/behavioral/
+8118_1_1.3T3/fmri/level1_run1_blipdown/
+8118_1_1.3T3/fmri/level2_run1/
+8118_1_1.3T3/fmri/level2_run1/behavioral/
+8118_1_1.3T3/fmri/level2_run1_blipdown/
+8118_1_1.3T3/fmri/level2_run2/
+8118_1_1.3T3/fmri/level2_run2/behavioral/
+8118_1_1.3T3/fmri/level2_run2_blipdown/
+8118_1_1.3T3/fmri/level2_run2_blipdown_redo/
+8118_1_1.3T3/fmri/level2_run2_redo/
+8118_1_1.3T3/fmri/level2_run2_redo/behavioral/
+8118_1_1.3T3/fmri/level3_run1/
+8118_1_1.3T3/fmri/level3_run1/behavioral/
+8118_1_1.3T3/fmri/level3_run1_blipdown/
+8118_1_1.3T3/fmri/level3_run2/
+8118_1_1.3T3/fmri/level3_run2/behavioral/
+8118_1_1.3T3/fmri/level3_run2_blipdown/
+8118_1_1.3T3/fmri/level3_run3/
+8118_1_1.3T3/fmri/level3_run3/behavioral/
+8118_1_1.3T3/fmri/level3_run3_blipdown/
+8118_1_1.3T3/fmri/resting_state_1/
+8118_1_1.3T3/fmri/resting_state_1_blipdown/
+8118_1_1.3T3/mri/
+8118_1_1.3T3/mri/anatomy/
+8118_1_1.3T3/mri/anatomy/multibandcoil/
+8118_1_1.3T3/mri/anatomy/standardcoil/
+8118_1_1.3T3/mri/dti/
+8119_1_1.3T3/
+8119_1_1.3T3/fmri/
+8119_1_1.3T3/fmri/encoding_1/
+8119_1_1.3T3/fmri/encoding_1/behavioral/
+8119_1_1.3T3/fmri/encoding_1/physiological/
+8119_1_1.3T3/fmri/encoding_2/
+8119_1_1.3T3/fmri/encoding_2/behavioral/
+8119_1_1.3T3/fmri/encoding_2/physiological/
+8119_1_1.3T3/fmri/localizer/
+8119_1_1.3T3/fmri/localizer/behavioral/
+8119_1_1.3T3/fmri/localizer/physiological/
+8119_1_1.3T3/fmri/resting_1/
+8119_1_1.3T3/fmri/resting_1/physiological/
+8119_1_1.3T3/fmri/resting_2/
+8119_1_1.3T3/fmri/resting_2/physiological/
+8119_1_1.3T3/fmri/retrieval_1/
+8119_1_1.3T3/fmri/retrieval_1/behavioral/
+8119_1_1.3T3/fmri/retrieval_1/physiological/
+8119_1_1.3T3/fmri/retrieval_2/
+8119_1_1.3T3/fmri/retrieval_2/behavioral/
+8119_1_1.3T3/fmri/retrieval_2/physiological/
+8119_1_1.3T3/fmri/retrieval_3/
+8119_1_1.3T3/fmri/retrieval_3/behavioral/
+8119_1_1.3T3/fmri/retrieval_3/physiological/
+8119_1_1.3T3/fmri/retrieval_4/
+8119_1_1.3T3/fmri/retrieval_4/behavioral/
+8119_1_1.3T3/fmri/retrieval_4/physiological/
+8119_1_1.3T3/mri/
+8119_1_1.3T3/mri/anatomy/
+8119_1_1.3T3/mri/dti/
+8120_1_1.3T3/
+8120_1_1.3T3/behavioral/
+8120_1_1.3T3/fmri/
+8120_1_1.3T3/fmri/level1_run1/
+8120_1_1.3T3/fmri/level1_run1/behavioral/
+8120_1_1.3T3/fmri/level1_run1_blipdown/
+8120_1_1.3T3/fmri/level1_run2/
+8120_1_1.3T3/fmri/level1_run2/behavioral/
+8120_1_1.3T3/fmri/level1_run2_blipdown /
+8120_1_1.3T3/fmri/level1_run3/
+8120_1_1.3T3/fmri/level1_run3/behavioral/
+8120_1_1.3T3/fmri/level1_run3_blipdown/
+8120_1_1.3T3/fmri/level1_run4/
+8120_1_1.3T3/fmri/level1_run4/behavioral/
+8120_1_1.3T3/fmri/level1_run4_blipdown/
+8120_1_1.3T3/fmri/level2_run1/
+8120_1_1.3T3/fmri/level2_run1/behavioral/
+8120_1_1.3T3/fmri/level2_run1_blipdown/
+8120_1_1.3T3/fmri/level2_run2/
+8120_1_1.3T3/fmri/level2_run2/behavioral/
+8120_1_1.3T3/fmri/level2_run2_blipdown/
+8120_1_1.3T3/fmri/level3_run1/
+8120_1_1.3T3/fmri/level3_run1/behavioral/
+8120_1_1.3T3/fmri/level3_run1_blipdown/
+8120_1_1.3T3/fmri/level3_run2/
+8120_1_1.3T3/fmri/level3_run2/behavioral/
+8120_1_1.3T3/fmri/level3_run2_blipdown/
+8120_1_1.3T3/fmri/level3_run3/
+8120_1_1.3T3/fmri/level3_run3/behavioral/
+8120_1_1.3T3/fmri/level3_run3_blipdown/
+8120_1_1.3T3/fmri/level3_run4/
+8120_1_1.3T3/fmri/level3_run4/behavioral/
+8120_1_1.3T3/fmri/level3_run4_blipdown/
+8120_1_1.3T3/fmri/resting_state_1/
+8120_1_1.3T3/fmri/resting_state_1_blipdown/
+8120_1_1.3T3/mri/
+8120_1_1.3T3/mri/anatomy/
+8120_1_1.3T3/mri/anatomy/multibandcoil/
+8120_1_1.3T3/mri/anatomy/standardcoil/
+8120_1_1.3T3/mri/dti/
+8122_1_1.3T3/
+8122_1_1.3T3/behavioral/
+8122_1_1.3T3/behavioral/CRT_training_gr_LongVersion-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/behavioral/CRT_training_gr_LongVersion-8122-1.edat2
+8122_1_1.3T3/behavioral/CRT_training_gr_LongVersion-8122-1.txt
+8122_1_1.3T3/behavioral/CRT_training_gr_ShortVersion-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/behavioral/CRT_training_gr_ShortVersion-8122-1.edat2
+8122_1_1.3T3/behavioral/CRT_training_gr_ShortVersion-8122-1.txt
+8122_1_1.3T3/behavioral/CSST_training_gr_LongVersion-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/behavioral/CSST_training_gr_LongVersion-8122-1.edat2
+8122_1_1.3T3/behavioral/CSST_training_gr_LongVersion-8122-1.txt
+8122_1_1.3T3/behavioral/CSST_training_gr_ShortVersion-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/behavioral/CSST_training_gr_ShortVersion-8122-1.edat2
+8122_1_1.3T3/behavioral/CSST_training_gr_ShortVersion-8122-1.txt
+8122_1_1.3T3/behavioral/SST_train_gr_LongVersion-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/behavioral/SST_train_gr_LongVersion-8122-1.edat2
+8122_1_1.3T3/behavioral/SST_train_gr_LongVersion-8122-1.txt
+8122_1_1.3T3/behavioral/SST_train_gr_ShortVersion-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/behavioral/SST_train_gr_ShortVersion-8122-1.edat2
+8122_1_1.3T3/behavioral/SST_train_gr_ShortVersion-8122-1.txt
+8122_1_1.3T3/fmri/
+8122_1_1.3T3/fmri/level1_run1/
+8122_1_1.3T3/fmri/level1_run1/behavioral/
+8122_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8122-1-ExperimentAdvisorReport.xml
+8122_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8122-1.edat2
+8122_1_1.3T3/fmri/level1_run1/behavioral/CRT_main_gr-8122-1.txt
+8122_1_1.3T3/fmri/level1_run1_blipdown/
+8122_1_1.3T3/fmri/level2_run1/
+8122_1_1.3T3/fmri/level2_run1/behavioral/
+8122_1_1.3T3/fmri/level2_run1_blipdown/
+8122_1_1.3T3/fmri/level2_run2/
+8122_1_1.3T3/fmri/level2_run2/behavioral/
+8122_1_1.3T3/fmri/level2_run2_blipdown/
+8122_1_1.3T3/fmri/level3_run1/
+8122_1_1.3T3/fmri/level3_run1/behavioral/
+8122_1_1.3T3/fmri/level3_run1_blipdown/
+8122_1_1.3T3/fmri/level3_run2/
+8122_1_1.3T3/fmri/level3_run2/behavioral/
+8122_1_1.3T3/fmri/level3_run2_blipdown/
+8122_1_1.3T3/fmri/level3_run3/
+8122_1_1.3T3/fmri/level3_run3/behavioral/
+8122_1_1.3T3/fmri/level3_run3_blipdown/
+8122_1_1.3T3/fmri/resting_state_1/
+8122_1_1.3T3/fmri/resting_state_1_blipdown/
+8122_1_1.3T3/mri/
+8122_1_1.3T3/mri/anatomy/
+8122_1_1.3T3/mri/anatomy/multibandcoil/
+8122_1_1.3T3/mri/anatomy/standardcoil/
+8122_1_1.3T3/mri/dti/
+
+sent 9075 bytes  received 9406498 bytes  1931.20 bytes/sec
+total size is 18772214953  speedup is 1993.74
+Archive:  1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom.zip
+{"group": {"_id": "menon"}, "project": {"label": "met"}, "session": {"uid": "1.2.840.113619.6.440.251868819045642524296459694565935272951", "timestamp": "2018-05-15T19:50:01-07:00", "label": "100514_1_1.3T2", "operator": "R^J", "timezone": "America/Los_Angeles", "subject": {"code": "100514_1_1.3T2"}}, "acquisition": {"files": [{"type": "dicom", "name": "1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom.zip"}], "timezone": "America/Los_Angeles", "uid": "1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1", "timestamp": "2018-05-15T20:40:31-07:00", "label": "T2"}}
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.762.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.755.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.760.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.754.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.756.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.758.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.761.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.753.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.759.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.757.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.763.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.777.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.779.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.820.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.845.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.824.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.838.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.780.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.847.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.796.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.970.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.782.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.839.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.769.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.802.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.978.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.830.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.801.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.792.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.979.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.814.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.805.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.800.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.828.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.810.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.789.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.767.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.816.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.783.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.764.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.835.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.799.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.843.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.765.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.815.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.806.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.833.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.831.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.794.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.973.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.982.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.974.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.819.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.834.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.771.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.848.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.850.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.776.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.804.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.825.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.788.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.766.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.822.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.818.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.768.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.781.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.980.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.778.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.842.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.803.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.984.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.773.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.797.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.821.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.832.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.851.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.808.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.983.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.786.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.823.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.826.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.849.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.787.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.813.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.798.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.981.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.844.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.809.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.775.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.836.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.972.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.817.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.841.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.837.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.976.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.812.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.785.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.971.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.790.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.772.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.793.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.829.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.977.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.807.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.791.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.975.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.846.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.774.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.795.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.827.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.770.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.784.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.840.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.811.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.884.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.859.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.878.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.856.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.860.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.951.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.853.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.861.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.855.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.858.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.854.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.906.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.969.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.873.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.852.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.862.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.877.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.901.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.863.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.935.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.864.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.924.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.916.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.943.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.857.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.949.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.909.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.945.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.968.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.902.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.895.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.938.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.919.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.900.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.892.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.867.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.912.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.952.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.889.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.910.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.947.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.914.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.965.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.891.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.879.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.936.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.890.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.875.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.925.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.871.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.963.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.966.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.898.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.923.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.876.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.940.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.967.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.870.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.896.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.907.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.888.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.953.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.929.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.928.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.893.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.897.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.882.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.886.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.954.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.921.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.942.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.939.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.917.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.913.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.932.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.926.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.962.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.868.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.881.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.874.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.883.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.869.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.950.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.908.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.894.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.915.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.933.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.918.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.958.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.957.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.941.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.880.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.903.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.930.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.899.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.960.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.948.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.934.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.904.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.959.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.905.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.866.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.937.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.946.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.955.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.887.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.956.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.964.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.961.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.931.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.927.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.911.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.922.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.885.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.920.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.944.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.872.dcm  
+  inflating: 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom/MR.1.2.840.113619.2.440.1599194.3214630.20787.1526402869.865.dcm  
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.556344) 64-bit (glnxa64)
+                               March 27, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+==================================================================
+DICOM conversion starts at 2018/05/22 18:44:08
+==================================================================
+Current directory is: /oak/stanford/groups/menon/scsnlscripts/utilities/dataOrganization/pre_preprocessing/utils
+------------------------------------------------------------------
+Warning: /oak/stanford/groups/menon/rawdata/scsnl/100514/visit1/session1/anatomical does not appear to have the specified number of DICOM files 
+host is littleEndian
+retro = 0   rvhr = 0
+Efile rev = 26
+infiletype = littleEndian
+P file name = P12800.7
+imgfilename = P12800.7.mag
+output file name = E14088S007P13312.7
+psd = sprlio
+gradient type = 2 (0=out, 1=in, 2=in-out
+number of slices = 31
+number of time frames = 176
+matrix size (npix) = 64
+nextra = 3
+TR = 2000
+nshot = 1
+time per frame = 2.000000
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/sprlioadd -O -N 64 -m 0 P12800.7.mag P12800.7.add 176 31
+slice 1
+apply average
+slice 2
+apply average
+slice 3
+apply average
+slice 4
+apply average
+slice 5
+apply average
+slice 6
+apply average
+slice 7
+apply average
+slice 8
+apply average
+slice 9
+apply average
+slice 10
+apply average
+slice 11
+apply average
+slice 12
+apply average
+slice 13
+apply average
+slice 14
+apply average
+slice 15
+apply average
+slice 16
+apply average
+slice 17
+apply average
+slice 18
+apply average
+slice 19
+apply average
+slice 20
+apply average
+slice 21
+apply average
+slice 22
+apply average
+slice 23
+apply average
+slice 24
+apply average
+slice 25
+apply average
+slice 26
+apply average
+slice 27
+apply average
+slice 28
+apply average
+slice 29
+apply average
+slice 30
+apply average
+slice 31
+apply average
+Done!
+
+executing: /oak/stanford/groups/menon/toolboxes/pconvert/onefile2nii -I P12800.7.add E14088S006P12800.7 E14088S007P13312.7
+
+nslc = 31  nframes = 176  npix = 64  TR = 2000 msec
+pixsize = 3.438 mm  slspace = 4.500 mm
+
+Rot matrix:  qfac = 1.0
+ -1.0000   0.0000  -0.0005
+  0.0000  -0.9618  -0.2736
+  0.0000  -0.2734   0.9619
+Quaternion: -0.0001 -0.1381 0.9904
+Offset vector: 110.0 120.7 -17.4
+
+Done!
+
+/oak/stanford/groups/menon/toolboxes/pconvert/makenifti finished on Tue May 22 18:44:22 PDT 2018
+rsyncing behavioral data
+ex12102 poorly formatted
+ex12261 poorly formatted
+ex12512 poorly formatted
+ex12225 poorly formatted
+ex12181 poorly formatted
+ex12443 poorly formatted
+ex12394 poorly formatted
+ex12352 poorly formatted
+ex12319 poorly formatted
+ex12318 poorly formatted
+ex12398 poorly formatted
+ex12450 poorly formatted
+ex12354 poorly formatted
+ex12444 poorly formatted
+ex12262 poorly formatted
+ex12085 poorly formatted
+ex12097 poorly formatted
+ex12264 poorly formatted
+ex12503 poorly formatted
+ex12395 poorly formatted
+ex12125 poorly formatted
+ex12221 poorly formatted
+ex12220 poorly formatted
+ex12202 poorly formatted
+ex12180 poorly formatted
+ex12451 poorly formatted
+ex12263 poorly formatted
+ex12179 poorly formatted
+ex12353 poorly formatted
+ex12584 poorly formatted
+ex12585 poorly formatted
+ex12587 poorly formatted
+ex12589 poorly formatted
+ex12590 poorly formatted
+ex12626 poorly formatted
+ex12627 poorly formatted
+ex12644 poorly formatted
+ex12650 poorly formatted
+ex12651 poorly formatted
+ex12652 poorly formatted
+ex12661 poorly formatted
+ex12662 poorly formatted
+ex12663 poorly formatted
+ex12664 poorly formatted
+ex12673 poorly formatted
+ex12674 poorly formatted
+ex12675 poorly formatted
+ex12709 poorly formatted
+ex12766 poorly formatted
+ex12775 poorly formatted
+ex12789 poorly formatted
+ex12796 poorly formatted
+ex12819 poorly formatted
+ex12824 poorly formatted
+ex12879 poorly formatted
+ex12873 poorly formatted
+ex12934 poorly formatted
+ex12935 poorly formatted
+ex12939 poorly formatted
+ex12940 poorly formatted
+ex12941 poorly formatted
+ex12942 poorly formatted
+ex12943 poorly formatted
+ex12944 poorly formatted
+ex12945 poorly formatted
+ex12980 poorly formatted
+ex12982 poorly formatted
+ex12983 poorly formatted
+ex13011 poorly formatted
+ex13013 poorly formatted
+ex13014 poorly formatted
+ex13015 poorly formatted
+ex13016 poorly formatted
+ex13017 poorly formatted
+ex13027 poorly formatted
+ex13042 poorly formatted
+ex13043 poorly formatted
+ex13081 poorly formatted
+ex13082 poorly formatted
+ex13119 poorly formatted
+ex13120 poorly formatted
+ex13125 poorly formatted
+ex13153 poorly formatted
+ex13154 poorly formatted
+ex13259 poorly formatted
+ex13260 poorly formatted
+ex13283 poorly formatted
+ex13298 poorly formatted
+ex13359 poorly formatted
+ex13363 poorly formatted
+ex13410 poorly formatted
+ex13412 poorly formatted
+ex13453 poorly formatted
+ex13490 poorly formatted
+ex13493 poorly formatted
+ex13495 poorly formatted
+ex13258 poorly formatted
+ex3028 poorly formatted
+ex13496 poorly formatted
+ex13357 poorly formatted
+ex13356 poorly formatted
+ex13361 poorly formatted
+ex13401 poorly formatted
+ex13402 poorly formatted
+ex13403 poorly formatted
+ex2945 poorly formatted
+ex13407 poorly formatted
+ex13408 poorly formatted
+ex13411 poorly formatted
+ex13469 poorly formatted
+ex13542 poorly formatted
+ex13815 poorly formatted
+16-03-20.1 poorly formatted
+16-11-06.2 poorly formatted
+new met scan found: 100514_1_1
+downloading /oak/stanford/groups/menon/rawdata/scsnl/100514/visit1/session1/fmri/sym1/unnormalized/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/100514/visit1/session1/fmri/sym2/unnormalized/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/100514/visit1/session1/fmri/sym3/unnormalized/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/100514/visit1/session1/fmri/sym4/unnormalized/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/100514/visit1/session1/anatomical/1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom.zip
+new adhd scan found: 8122_1_1
+new hwc scan found: 7982_2_1
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/E14088S004P11776.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/resting_state_1/Pfiles/P11776.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/E14088S005P12288.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_1/Pfiles/P12288.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/E14088S006P12800.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P12800.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/E14088S007P13312.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles/P13312.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/E14088S008P13824.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.mag.zits
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_match_1/Pfiles/P13824.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/E14088S013P17408.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_1/Pfiles/P17408.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/E14088S014P17920.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/Emotion_regulation_2/Pfiles/P17920.7.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/E14088S015P18432.7
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.B0
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.den.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.hdr
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.mag
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.mag.mot
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.nii
+downloading /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/BART_1/Pfiles/P18432.7.gz
+downloaded scanids:
+[['100514', 'visit1', 'session1', 'met'], ['7982', 'visit2', 'session1', 'hwc']]
+failed downloads:
+[['8122', 'visit1', 'session1', 'adhd']]
+processing 100514_1_1 behavioral
+found extra folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/mock_scan
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym2/behavioral/sym_run2_20_24_57.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym3/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym3/behavioral/sym_run3_20_30_23.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym1/behavioral/sym_run1_20_19_10.csv
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/grid1/behavioral
+run grid1 not found, creating acquisition behavioral under flywheel exam id 5afb9de4589ca30017f57d5e
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/grid4/behavioral
+run grid4 not found, creating acquisition behavioral under flywheel exam id 5afb9de4589ca30017f57d5e
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/grid3/behavioral
+run grid3 not found, creating acquisition behavioral under flywheel exam id 5afb9de4589ca30017f57d5e
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/grid2/behavioral
+run grid2 not found, creating acquisition behavioral under flywheel exam id 5afb9de4589ca30017f57d5e
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym4/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/100514_1_1.3T2/fmri/sym4/behavioral/sym_run4_20_36_00.csv
+pconverting 100514_1_1
+anatomical dicom convert 100514_1_1
+moving 1.2.840.113619.2.440.1599194.3214630.22495.1526402417.708_1.dicom to 001
+no spgr files made :(
+processing 7982_2_1 behavioral
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_2/behavioral/SST_main_gr-1475-32.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_match_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_match_1/behavioral/Real_EmotionMatch_sub1475_ss1_200518_1558.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_match_1/behavioral/Real_EmotionMatch_sub1475_ss1_200518_1558.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral/Real_EmotionRegulation_2runs_sub1475_ss32_200518_1645.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_regulation_2/behavioral/Real_EmotionRegulation_2runs_sub1475_ss32_200518_1645.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1_redo/behavioral
+run SST_1_redo not found, creating acquisition behavioral under flywheel exam id 5b01f58b589ca30014f5ae82
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1_redo/behavioral/SST_main_gr-1475-33-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1_redo/behavioral/SST_main_gr-1475-33.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1_redo/behavioral/SST_main_gr-1475-33.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/BART_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1475-31-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1475-31.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/BART_1/behavioral/BART_maintask_rewardOnly-1475-31.edat2
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1475-31-ExperimentAdvisorReport.xml
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1475-31.edat2
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/SST_1/behavioral/SST_main_gr-1475-31.txt
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral/Real_EmotionRegulation_2runs_sub1475_ss31_200518_1619.txt
+uploading /oak/stanford/groups/menon/rawdata/.fromlucas/7982_2_1.3T3/fmri/Emotion_regulation_1/behavioral/Real_EmotionRegulation_2runs_sub1475_ss31_200518_1619.edat2
+pconverting 7982_2_1
+pconverting /oak/stanford/groups/menon/rawdata/scsnl/7982/visit2/session1/fmri/SST_2/Pfiles
+moving first 2 images to unused

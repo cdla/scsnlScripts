@@ -1,16 +1,20 @@
-% %---Parameters useful to mlsubmit----
+%_This is the config file for Contrast_Generator.m
+
+% %---mlsubmit parameters----
 % %-Please specify parallel or nonparallel
 % %-e.g. for individualstats, set to 1 (parallel)
 % %-for groupstats, set to 0 (nonparallel)
 paralist.parallel = '0';
+
 % %-Please specify project directory
 paralist.projectdir = '/oak/stanford/groups/menon/projects/shelbyka/2017_TD_MD_mathfun/'; 
+
 % %-SPM version
 paralist.spmversion =  'spm12';
 
 %-----------------FILL OUT ALL THREE VARIABLES APPROPRIATLY----------
 %How many Conditions do you have in a SINGLE session (should have same number of
-%conditions in each session)?
+%conditions in each session)? 
 paralist.numcontrasts = 7;
 
 %How many sessions/runs will this be looking at? Sessons must be SAME size.
@@ -29,14 +33,15 @@ paralist.movementcorrection = 6;
 % Make sure the even numbered contrasts are the opposite of the
 % odd numbered contrasts. (i.e. all-rest; rest-all)
 
-% SET THIS. Names of the contrasts:
+%-Specify the names of the contrasts:
 paralist.contrastnames = {'math','music','emotion'};
 
 % paralist.contrastnames = {'CC','CC_neg','CE','CE_neg','EC','EC_neg','EE','EE_neg','cashout','cashout_neg','pump_lose','pump_lose_neg','trash','trash_neg','CC-CE','CE-CC','CC-EC','EC-CC','CC-EE','EE-CC','CE-EC','EC-CE','CE-EE','EE-CE','EC-EE','EE-EC'};
 
-% SET THIS. Contrasts defined in numbers, just based on your conditions. 
-% So each vector should be as long as the number of conditions.
-% NOTE: Each vector should sum to 0 unless contrasting with rest state
+% Contrasts defined in numbers, just based on your conditions. 
+% There should be as many vectors as contrast names
+% Each vector should be as long as the number of conditions.
+% Each vector should sum to 0 unless contrasting with rest state
 % If you named every other contrast the reverse of the previous one be sure to 
 % do the same when making your contrast matrices
 

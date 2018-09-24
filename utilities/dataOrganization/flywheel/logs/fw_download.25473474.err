@@ -1,0 +1,2 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+slurmstepd: error: *** JOB 25473474 ON sh-102-25 CANCELLED AT 2018-09-12T04:27:28 DUE TO TIME LIMIT ***

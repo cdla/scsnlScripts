@@ -1,0 +1,322 @@
+receiving incremental file list
+./
+7533_4_1.3T3/
+7533_4_1.3T3/fmri/
+7533_4_1.3T3/fmri/encoding_1/
+7533_4_1.3T3/fmri/encoding_1/behavioral/
+7533_4_1.3T3/fmri/encoding_2/
+7533_4_1.3T3/fmri/encoding_2/behavioral/
+7533_4_1.3T3/fmri/localizer/
+7533_4_1.3T3/fmri/localizer/behavioral/
+7533_4_1.3T3/fmri/resting_1/
+7533_4_1.3T3/fmri/resting_2/
+7533_4_1.3T3/fmri/retrieval_1/
+7533_4_1.3T3/fmri/retrieval_1/behavioral/
+7533_4_1.3T3/fmri/retrieval_2/
+7533_4_1.3T3/fmri/retrieval_2/behavioral/
+7533_4_1.3T3/fmri/retrieval_3/
+7533_4_1.3T3/fmri/retrieval_3/behavioral/
+7533_4_1.3T3/fmri/retrieval_4/
+7533_4_1.3T3/fmri/retrieval_4/behavioral/
+7533_4_1.3T3/mri/
+7942_3_1.3T3/
+7942_3_1.3T3/fmri/
+7942_3_1.3T3/fmri/BART_1/
+7942_3_1.3T3/fmri/BART_1/behavioral/
+7942_3_1.3T3/fmri/Emotion_match_1/
+7942_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7942_3_1.3T3/fmri/Emotion_match_1_redo/
+7942_3_1.3T3/fmri/Emotion_match_1_redo/behavioral/
+7942_3_1.3T3/fmri/Emotion_match_1_redo2/
+7942_3_1.3T3/fmri/Emotion_match_1_redo2/behavioral/
+7942_3_1.3T3/fmri/Emotion_regulation_1/
+7942_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7942_3_1.3T3/fmri/Emotion_regulation_2/
+7942_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7942_3_1.3T3/fmri/SST_1/
+7942_3_1.3T3/fmri/SST_1/behavioral/
+7942_3_1.3T3/fmri/SST_2/
+7942_3_1.3T3/fmri/SST_2/behavioral/
+7942_3_1.3T3/mri/
+7947_3_1.3T3/
+7947_3_1.3T3/fmri/
+7947_3_1.3T3/fmri/BART_1/
+7947_3_1.3T3/fmri/BART_1/behavioral/
+7947_3_1.3T3/fmri/Emotion_match_1/
+7947_3_1.3T3/fmri/Emotion_match_1/behavioral/
+7947_3_1.3T3/fmri/Emotion_regulation_1/
+7947_3_1.3T3/fmri/Emotion_regulation_1/behavioral/
+7947_3_1.3T3/fmri/Emotion_regulation_2/
+7947_3_1.3T3/fmri/Emotion_regulation_2/behavioral/
+7947_3_1.3T3/fmri/SST_1/
+7947_3_1.3T3/fmri/SST_1/behavioral/
+7947_3_1.3T3/fmri/SST_2/
+7947_3_1.3T3/fmri/SST_2/behavioral/
+7947_3_1.3T3/mri/
+7992_3_1.3T3/
+7992_3_1.3T3/fmri/
+7992_3_1.3T3/fmri/addition_1/
+7992_3_1.3T3/fmri/addition_1/behavioral/
+7992_3_1.3T3/fmri/addition_2/
+7992_3_1.3T3/fmri/addition_2/behavioral/
+7992_3_1.3T3/fmri/addition_3/
+7992_3_1.3T3/fmri/addition_3/behaviroal/
+7992_3_1.3T3/fmri/addition_4/
+7992_3_1.3T3/fmri/addition_4/behavioral/
+7992_3_1.3T3/mri/
+7992_3_1.3T3/strategy_assessment/
+8128_1_1.3T3/
+8128_1_1.3T3/behavioral/
+8128_1_1.3T3/fmri/
+8128_1_1.3T3/fmri/level1_run1/
+8128_1_1.3T3/fmri/level2_run1/
+8128_1_1.3T3/fmri/level2_run2/
+8128_1_1.3T3/fmri/level3_run1/
+8128_1_1.3T3/fmri/level3_run2/
+8128_1_1.3T3/fmri/level3_run3/
+8128_1_1.3T3/mri/
+8128_1_1.3T3/mri/anatomy/
+8128_1_1.3T3/mri/anatomy/multibandcoil/
+8128_1_1.3T3/mri/anatomy/standardcoil/
+8128_1_1.3T3/mri/anatomy/standardcoil/001/
+8128_1_1.3T3/mri/anatomy/standardcoil/002/
+8136_1_1.3T3/
+8136_1_1.3T3/behavioral/
+8136_1_1.3T3/behavioral/behavioral_practice/
+8136_1_1.3T3/fmri/
+8136_1_1.3T3/fmri/level1_run1/
+8136_1_1.3T3/fmri/level1_run1/behavioral/
+8136_1_1.3T3/fmri/level2_run1/
+8136_1_1.3T3/fmri/level2_run1/behavioral/
+8136_1_1.3T3/fmri/level2_run2/
+8136_1_1.3T3/fmri/level2_run2/behavioral/
+8136_1_1.3T3/fmri/level3_run1/
+8136_1_1.3T3/fmri/level3_run1/behavioral/
+8136_1_1.3T3/fmri/level3_run2/
+8136_1_1.3T3/fmri/level3_run2/behavioral/
+8136_1_1.3T3/fmri/level3_run3/
+8136_1_1.3T3/fmri/level3_run3/behavioral/
+8136_1_1.3T3/fmri/level3_run4/
+8136_1_1.3T3/fmri/level3_run4/behavioral/
+8136_1_1.3T3/mri/
+8136_1_1.3T3/mri/anatomy/
+9033_1_1.3T2/
+9033_1_1.3T2/behavioral/
+9033_1_1.3T2/behavioral/mock/
+9033_1_1.3T2/behavioral/mock/Problem_Sets/
+9033_1_1.3T2/behavioral/mock/Problem_Sets/Mock_Task/
+9033_1_1.3T2/behavioral/mock/Results/
+9033_1_1.3T2/behavioral/mock/Results/Mock_Task/
+9033_1_1.3T2/behavioral/mock/Scripts/
+9302_2_1.3T2/
+9302_2_1.3T2/behavioral/
+9302_2_1.3T2/behavioral/Mock scan/
+9302_2_1.3T2/behavioral/Results/
+9302_2_1.3T2/behavioral/Results/Mock_Task/
+9302_2_1.3T2/physio/
+9302_2_1.3T2/physio/grid1/
+9302_2_1.3T2/physio/grid2/
+9302_2_1.3T2/physio/grid3/
+9302_2_1.3T2/physio/grid4/
+9302_2_1.3T2/physio/resting/
+9302_2_1.3T2/physio/sym1/
+9302_2_1.3T2/physio/sym1_redo/
+9302_2_1.3T2/physio/sym2/
+9302_2_1.3T2/physio/sym2_redo/
+9302_2_1.3T2/physio/sym3_redo/
+9302_2_1.3T2/physio/sym4/
+9302_2_1.3T2/physio/sym4_redo/
+9316_1_1.3T2/
+9316_1_1.3T2/behavioral/
+9316_1_1.3T2/behavioral/Mock scan/
+9316_1_1.3T2/behavioral/Results/
+9316_1_1.3T2/behavioral/Results/Mock_Task/
+9316_1_1.3T2/physio/
+9316_1_1.3T2/physio/grid1/
+9316_1_1.3T2/physio/grid2/
+9316_1_1.3T2/physio/grid3/
+9316_1_1.3T2/physio/grid4/
+9316_1_1.3T2/physio/resting/
+9316_1_1.3T2/physio/sym1/
+9316_1_1.3T2/physio/sym2/
+9316_1_1.3T2/physio/sym3/
+9316_1_1.3T2/physio/sym4/
+9347_1_1.3T2/
+9347_1_1.3T2/behavioral/
+9347_1_1.3T2/behavioral/Mock scan/
+9347_1_1.3T2/behavioral/Results/
+9347_1_1.3T2/behavioral/Results/Mock_Task/
+9347_1_1.3T2/physio/
+9347_1_1.3T2/physio/grid1/
+9347_1_1.3T2/physio/grid2/
+9347_1_1.3T2/physio/grid3/
+9347_1_1.3T2/physio/grid4/
+9347_1_1.3T2/physio/resting/
+9347_1_1.3T2/physio/sym1/
+9347_1_1.3T2/physio/sym1_redo/
+9347_1_1.3T2/physio/sym2/
+9347_1_1.3T2/physio/sym2_redo/
+9347_1_1.3T2/physio/sym3/
+9347_1_1.3T2/physio/sym3_redo/
+9347_1_1.3T2/physio/sym4/
+9347_1_1.3T2/physio/sym4_redo/
+9347_2_1.3T2/
+9347_2_1.3T2/behavioral/
+9347_2_1.3T2/behavioral/Mock scan/
+9347_2_1.3T2/behavioral/Mock scan/MoTrak_9437_2_1.3T2_Grid1.txt
+9347_2_1.3T2/behavioral/Mock scan/MoTrak_9437_2_1.3T2_Grid2.txt
+9347_2_1.3T2/behavioral/Mock scan/MoTrak_9437_2_1.3T2_Sym1.txt
+9347_2_1.3T2/behavioral/Mock scan/MoTrak_9437_2_1.3T2_Sym2.txt
+9347_2_1.3T2/behavioral/Mock scan/MoTrak_9437_2_1.3T2_Sym3.txt
+9347_2_1.3T2/behavioral/Results/
+9347_2_1.3T2/behavioral/Results/sym_run1_11_04_47.csv
+9347_2_1.3T2/behavioral/Results/sym_run2_11_12_36.csv
+9347_2_1.3T2/behavioral/Results/sym_run3_11_21_00.csv
+9347_2_1.3T2/behavioral/Results/sym_run3_12_08_28_rerun.csv
+9347_2_1.3T2/behavioral/Results/sym_run4_11_44_35.csv
+9347_2_1.3T2/behavioral/Results/sym_run4_12_16_18_rerun.csv
+9347_2_1.3T2/behavioral/Results/Mock_Task/
+9347_2_1.3T2/behavioral/Results/Mock_Task/mock_grid_1_09_12_38.csv
+9347_2_1.3T2/behavioral/Results/Mock_Task/mock_grid_2_09_16_42.csv
+9347_2_1.3T2/behavioral/Results/Mock_Task/mock_sym_1_09_03_14.csv
+9347_2_1.3T2/behavioral/Results/Mock_Task/mock_sym_2_09_07_05.csv
+9347_2_1.3T2/behavioral/Results/Mock_Task/mock_sym_3_09_09_57.csv
+9347_2_1.3T2/physio/
+9347_2_1.3T2/physio/grid1/
+9347_2_1.3T2/physio/grid2/
+9347_2_1.3T2/physio/grid3/
+9347_2_1.3T2/physio/grid4/
+9347_2_1.3T2/physio/resting/
+9347_2_1.3T2/physio/sym1/
+9347_2_1.3T2/physio/sym1/P54784.physio
+9347_2_1.3T2/physio/sym2/
+9347_2_1.3T2/physio/sym2/P55808.physio
+9347_2_1.3T2/physio/sym3/
+9347_2_1.3T2/physio/sym3/P56832.physio
+9347_2_1.3T2/physio/sym3_redo/
+9347_2_1.3T2/physio/sym3_redo/P62464.physio
+9347_2_1.3T2/physio/sym4/
+9347_2_1.3T2/physio/sym4/P60928.physio
+9347_2_1.3T2/physio/sym4_redo/
+9347_2_1.3T2/physio/sym4_redo/P67584.physio
+
+sent 1,232 bytes  received 1,594,716 bytes  127,675.84 bytes/sec
+total size is 43,442,716  speedup is 27.22
+rsyncing behavioral data
+ex12102 poorly formatted
+ex12261 poorly formatted
+ex12512 poorly formatted
+ex12225 poorly formatted
+ex12181 poorly formatted
+ex12443 poorly formatted
+ex12394 poorly formatted
+ex12352 poorly formatted
+ex12319 poorly formatted
+ex12318 poorly formatted
+ex12398 poorly formatted
+ex12450 poorly formatted
+ex12354 poorly formatted
+ex12444 poorly formatted
+ex12262 poorly formatted
+ex12085 poorly formatted
+ex12097 poorly formatted
+ex12264 poorly formatted
+ex12503 poorly formatted
+ex12395 poorly formatted
+ex12125 poorly formatted
+ex12221 poorly formatted
+ex12220 poorly formatted
+ex12202 poorly formatted
+ex12180 poorly formatted
+ex12451 poorly formatted
+ex12263 poorly formatted
+ex12179 poorly formatted
+ex12353 poorly formatted
+ex12584 poorly formatted
+ex12585 poorly formatted
+ex12587 poorly formatted
+ex12589 poorly formatted
+ex12590 poorly formatted
+ex12626 poorly formatted
+ex12627 poorly formatted
+ex12644 poorly formatted
+ex12650 poorly formatted
+ex12651 poorly formatted
+ex12652 poorly formatted
+ex12661 poorly formatted
+ex12662 poorly formatted
+ex12663 poorly formatted
+ex12664 poorly formatted
+ex12673 poorly formatted
+ex12674 poorly formatted
+ex12675 poorly formatted
+ex12709 poorly formatted
+ex12766 poorly formatted
+ex12775 poorly formatted
+ex12789 poorly formatted
+ex12796 poorly formatted
+ex12819 poorly formatted
+ex12824 poorly formatted
+ex12879 poorly formatted
+ex12873 poorly formatted
+ex12934 poorly formatted
+ex12935 poorly formatted
+ex12939 poorly formatted
+ex12940 poorly formatted
+ex12941 poorly formatted
+ex12942 poorly formatted
+ex12943 poorly formatted
+ex12944 poorly formatted
+ex12945 poorly formatted
+ex12980 poorly formatted
+ex12982 poorly formatted
+ex12983 poorly formatted
+ex13011 poorly formatted
+ex13013 poorly formatted
+ex13014 poorly formatted
+ex13015 poorly formatted
+ex13016 poorly formatted
+ex13017 poorly formatted
+ex13027 poorly formatted
+ex13042 poorly formatted
+ex13043 poorly formatted
+ex13081 poorly formatted
+ex13082 poorly formatted
+ex13119 poorly formatted
+ex13120 poorly formatted
+ex13125 poorly formatted
+ex13153 poorly formatted
+ex13154 poorly formatted
+ex13259 poorly formatted
+ex13260 poorly formatted
+ex13283 poorly formatted
+ex13298 poorly formatted
+ex13359 poorly formatted
+ex13363 poorly formatted
+ex13410 poorly formatted
+ex13412 poorly formatted
+ex13453 poorly formatted
+ex13490 poorly formatted
+ex13493 poorly formatted
+ex13495 poorly formatted
+ex13258 poorly formatted
+ex3028 poorly formatted
+ex13496 poorly formatted
+ex13357 poorly formatted
+ex13356 poorly formatted
+ex13361 poorly formatted
+ex13401 poorly formatted
+ex13402 poorly formatted
+ex13403 poorly formatted
+ex2945 poorly formatted
+ex13407 poorly formatted
+ex13408 poorly formatted
+ex13411 poorly formatted
+ex13469 poorly formatted
+ex13542 poorly formatted
+ex13815 poorly formatted
+16-03-20.1 poorly formatted
+16-11-06.2 poorly formatted
+new mathwhiz scan found: 7605_2_2
+new met scan found: 9347_2_1
+new met scan found: 9347_2_1

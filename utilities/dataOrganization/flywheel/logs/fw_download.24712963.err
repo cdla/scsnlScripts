@@ -1,0 +1,127 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+mv: cannot stat ‘I*’: No such file or directory
+Cannot open volume I for reading!
+mv: cannot stat ‘I_0000*’: No such file or directory
+mv: cannot stat ‘I_0001*’: No such file or directory
+Cannot open volume * for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+** ERROR: nifti_convert_nhdr2nim: bad dim[0]
+** ERROR (nifti_image_read): cannot create nifti image from header '1_I.nii.gz'
+** ERROR: nifti_image_open(1_I): bad header info
+ERROR: failed to open file 1_I
+Cannot open volume 1_I for reading!
+unzip:  cannot find or open /oak/stanford/groups/menon/rawdata/scsnl/9316/visit1/session1/anatomical/ORIG, /oak/stanford/groups/menon/rawdata/scsnl/9316/visit1/session1/anatomical/ORIG.zip or /oak/stanford/groups/menon/rawdata/scsnl/9316/visit1/session1/anatomical/ORIG.ZIP.
+mv: target ‘3D_Volume_redo/004’ is not a directory
+/bin/rm: cannot remove ‘/oak/stanford/groups/menon/rawdata/scsnl/9316/visit1/session1/anatomical/ORIG’: No such file or directory
+/bin/rm: cannot remove ‘3D_Volume_redo/1.2.840.113619.2.440.1599194.3214630.22157.1534886816.468_1.dicom.zip’: No such file or directory
+setfacl: Option -m: Invalid argument near character 3
+setfacl: Option -m: Invalid argument near character 3

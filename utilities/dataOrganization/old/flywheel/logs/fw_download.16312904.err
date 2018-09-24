@@ -1,0 +1,5 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 251, in <module>
+    num_unused = int(studies_rules[scanid_list[3]]['unused_num'])
+KeyError: 'smp'

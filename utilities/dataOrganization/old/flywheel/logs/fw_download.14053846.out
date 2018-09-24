@@ -1,0 +1,55 @@
+receiving incremental file list
+./
+8098_1_1.3T3/
+8098_1_1.3T3/behavioral/
+8098_1_1.3T3/fmri/
+8098_1_1.3T3/fmri/level1_run1/
+8098_1_1.3T3/fmri/level1_run1/behavioral/
+8098_1_1.3T3/fmri/level1_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run1/
+8098_1_1.3T3/fmri/level2_run1/behavioral/
+8098_1_1.3T3/fmri/level2_run1_blipdown/
+8098_1_1.3T3/fmri/level2_run2/
+8098_1_1.3T3/fmri/level2_run2/behavioral/
+8098_1_1.3T3/fmri/level2_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run1/
+8098_1_1.3T3/fmri/level3_run1/behavioral/
+8098_1_1.3T3/fmri/level3_run1_blipdown/
+8098_1_1.3T3/fmri/level3_run2/
+8098_1_1.3T3/fmri/level3_run2/behavioral/
+8098_1_1.3T3/fmri/level3_run2_blipdown/
+8098_1_1.3T3/fmri/level3_run3/
+8098_1_1.3T3/fmri/level3_run3/behavioral/
+8098_1_1.3T3/fmri/level3_run3_blipdown/
+8098_1_1.3T3/fmri/resting_state_1/
+8098_1_1.3T3/fmri/resting_state_1_blipdown/
+8098_1_1.3T3/mri/
+8098_1_1.3T3/mri/anatomy/
+8098_1_1.3T3/mri/anatomy/multibandcoil/
+8098_1_1.3T3/mri/anatomy/standardcoil/
+8098_1_1.3T3/mri/dti/
+
+sent 250 bytes  received 2416 bytes  1066.40 bytes/sec
+total size is 2851846  speedup is 1069.71
+rsyncing behavioral data
+new adhd scan found: 8088_1_1
+new smpsmp scan found: 0224_2_2
+new adhd scan found: 8098_1_1
+new adhd scan found: 8098_1_1
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level1_run1/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level1_run1_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level2_run1/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level2_run1_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level2_run2/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level2_run2_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level3_run1/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level3_run1_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level3_run2/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level3_run2_blipdown/unnormalized_unc/I.nii.gz
+downloading /oak/stanford/groups/menon/rawdata/scsnl/8098/visit1/session1/fmri/level3_run3_blipdown/unnormalized_unc/I.nii.gz
+downloaded scanids:
+[['0224', 'visit2', 'session2', 'smpsmp'], ['8098', 'visit1', 'session1', 'adhd'], ['8098', 'visit1', 'session1', 'adhd']]
+failed downloads:
+[['8088', 'visit1', 'session1', 'adhd']]
+processing 0224_2_2 behavioral
+found behav folder /oak/stanford/groups/menon/rawdata/.fromlucas/0224_2_2.3T3/fmri/addevent_2/behavioral

@@ -1,0 +1,5 @@
+Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+Traceback (most recent call last):
+  File "download_from_flywheel.py", line 95, in <module>
+    scanid = scanidlist[0].zfill(4)+'_'+scanidlist[1]+'_'+scanidlist[2]
+IndexError: list index out of range

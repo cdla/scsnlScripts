@@ -17,7 +17,7 @@
 ################# 
 #SBATCH -p menon 
 #################
-#SBATCH --mem=30G
+#SBATCH --mem=20G
 # to request multiple threads/CPUs use the -c option, on Sherlock we use 1 thread/CPU, 16 CPUs on each normal compute node 4Gigs RAM per CPU.  Here we will request just 1.
 #SBATCH -c 1
 #################
@@ -27,7 +27,7 @@
 # Remember to change this to your email
 #SBATCH --mail-user=chamblin@stanford.edu
 
-source activate fw
+source activate fw2
 ml biology fsl matlab spm
 # You can use srun if your job is parallel
 python download_from_flywheel.py

@@ -221,8 +221,18 @@ for i = 1:2:numTContrasts
     invName = contrastNames{i+1};
   end
   dirName = fullfile(pwd, [conNum 'T_' conName]);
+  
   mkdir(dirName);
   cd(dirName);
+
+  if exist('SPM.mat', 'file')
+    disp('The stats directory contains SPM.mat. It will be deleted.');
+    disp('-----------------------------------------------------------')
+   % unix('/bin/rm -rf *');
+    delete *.mat;
+  end
+
+
   load(fullfile(template_path,batchfile));
   % -----------------------------------------------------------------------
   % One Group Analysis
