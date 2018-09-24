@@ -9,11 +9,16 @@ paralist.spmversion = 'spm12';
 %-for groupstats, set to 0 (nonparallel)
 paralist.parallel = '1';
 
+<<<<<<< HEAD
 %-Subject list (full path to the csv file)
 paralist.subjectlist = 'spgrsubjectlist.csv';
 %---- example ----
 %- PID, visit, session
 %- 7014, 1 ,1
+=======
+%-Subject list
+paralist.subjectlist = 'spgrsubjectlist.csv';
+>>>>>>> 5bb1231cf7c68d3aff25067c42ff11a91ed415bd
 
 %- List of smri images 
 % (no .nii or .img extensions)

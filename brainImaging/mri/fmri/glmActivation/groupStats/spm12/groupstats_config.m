@@ -12,6 +12,7 @@
 %-for groupstats, set to 0 (nonparallel)
 paralist.parallel = '0';
 
+<<<<<<< HEAD
 %-Please specify the full file path to the csv holding subjects to be analyzed
 % For two group stats, specify two subject list file paths. I.e.
 % {'group1.csv', 'group2.csv'}.
@@ -31,6 +32,25 @@ paralist.output_folder = 'groupstats_stats_spm12';
 
 % Please specify the file holding regressors
 % If there is no regressor, comment the first line and uncomment the second line
+=======
+%-Please specify file name holding subjects to be analyzed
+% For two group stats, specify two subject list files. For eg.,
+% {'group1.csv', 'group2.csv'}.
+paralist.subjlist_file = {'/oak/stanford/groups/menon/projects/ruiyuan/rui/shelbyka/2017_TD_MD_mathfun/scripts/fmrisubjectlist.csv'};  
+
+%-Please specify project directo
+paralist.projectdir = '/oak/stanford/groups/menon/projects/ruiyuan/rui/shelbyka/2017_TD_MD_mathfun';
+
+%-Please specify the individualstats folder path
+paralist.stats_folder  = 'comparisondot_swar';
+
+% Plese specify the folder path to put analysis results
+paralist.output_folder = 'groupstats_stats_spm12';
+
+% Please specify the file holding regressors
+% If there is no regressor, comment the first line and uncomment the second
+% line
+>>>>>>> 5bb1231cf7c68d3aff25067c42ff11a91ed415bd
 %paralist.reg_file = {'Anxiety.txt','Age.txt','Gender.txt'};
 paralist.reg_file = [''];
 
@@ -38,14 +58,20 @@ paralist.reg_file = [''];
 % Yuan added
 %-Analysis type (e.g., glm, seedfc etc.)
 paralist.analysis_type = 'glm';
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5bb1231cf7c68d3aff25067c42ff11a91ed415bd
 %-Data type (i.e., restfmri or taskfmri)
 paralist.fmri_type = 'taskfmri';
 
 % fMRI parameters
 %-spm8 batch templates location
 paralist.template_path = '/oak/stanford/groups/menon/scsnlscripts/brainImaging/mri/fmri/glmActivation/groupStats/spm12/batchtemplates/'; %'/oak/stanford/groups/menon/scsnlscripts_vsochat/fmri/spm/spm8/analysis/batchtemplates';
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5bb1231cf7c68d3aff25067c42ff11a91ed415bd
 %-SPM version
 paralist.spmversion = 'spm12';
 

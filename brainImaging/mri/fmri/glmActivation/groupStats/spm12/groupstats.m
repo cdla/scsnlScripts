@@ -221,6 +221,7 @@ for i = 1:2:numTContrasts
     invName = contrastNames{i+1};
   end
   dirName = fullfile(pwd, [conNum 'T_' conName]);
+<<<<<<< HEAD
   
   mkdir(dirName);
   cd(dirName);
@@ -233,6 +234,10 @@ for i = 1:2:numTContrasts
   end
 
 
+=======
+  mkdir(dirName);
+  cd(dirName);
+>>>>>>> 5bb1231cf7c68d3aff25067c42ff11a91ed415bd
   load(fullfile(template_path,batchfile));
   % -----------------------------------------------------------------------
   % One Group Analysis

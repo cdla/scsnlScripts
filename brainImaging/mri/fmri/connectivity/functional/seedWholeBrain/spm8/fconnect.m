@@ -44,7 +44,11 @@ clear ConfigFile;
 spm_version             = strtrim(paralist.spmversion);
 software_path           = '/oak/stanford/groups/menon/software/';
 spm_path                = fullfile(software_path, spm_version);
+<<<<<<< HEAD
 spmfcscript_path   = ['/oak/stanford/groups/menon/scsnlscripts/brainImaging/mri/fmri/connectivity/functional/seedWholeBrain/' spm_version];
+=======
+spmfcscript_path   = ['/oak/stanford/groups/menon/scsnlscripts/brainImaging/mri/fmri/connectivity/functional/seedWholeBrain' spm_version];
+>>>>>>> 5bb1231cf7c68d3aff25067c42ff11a91ed415bd
 
 sprintf('adding SPM path: %s\n', spm_path);
 addpath(genpath(spm_path));
