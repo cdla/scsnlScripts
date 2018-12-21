@@ -3,7 +3,7 @@ function preprocessfmri(SubjectI, ConfigFile)
 % tianwenc, 2011-12-02,  created preprocessfmri.m
 % ruiyuan, 2018-02-08, updated with SWCAR
 % ruiyuan, 2018-07-26, upgrade slice timing
-$ cdla, 2018-12-21, removed local script locations for docker implementation
+% cdla, 2018-12-21, removed local script locations for docker implementation
 
 spm_version             = 'spm12';
 
