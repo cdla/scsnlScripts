@@ -1,7 +1,7 @@
 function preprocessfmri(SubjectI, ConfigFile)
 
 % tianwenc, 2011-12-02,  created preprocessfmri.m
-% ruiyuan, 2018-02-08, updated with SWCAR 
+% ruiyuan, 2018-02-08, updated with SWCAR
 % ruiyuan, 2018-07-26, upgrade slice timing
 
 
@@ -70,7 +70,7 @@ end
 
 data_type          = 'nii';
 SPGR_folder        = 'anatomical';
-unnorm_folder      = 'unnormalized'; 
+unnorm_folder      = 'unnormalized';
 
 disp('-------------- Contents of the Parameter List --------------------');
 disp(config);
@@ -151,10 +151,10 @@ for isubj = 1:numsubj
   fprintf('Processing subject: %s\n', subject);
 
   %%%%--------- check anatomical folder image at output side --------
- 
+
    SPGRdir = fullfile(project_dir, '/data/imaging/participants/', SPGRsubject, ...
      ['visit',SPGRvisit], ['session',SPGRsession], SPGR_folder);
-    
+
      if ~exist(SPGRdir,'dir')
      mkdir(SPGRdir);
      end
@@ -165,12 +165,12 @@ for isubj = 1:numsubj
   %%%% -------- using the raw anatomical data ---------------------
    SPGRdir_raw = fullfile(data_dir, SPGRsubject,['visit',visit],['session',session], SPGR_folder);
    SPGRfile_file = '';
-  
+
   %%%---------- locate the anatomical image ------------------------
   if ismember('c', wholepipeline)
 
      if ismember('g',wholepipeline)
-        
+
           if isempty(dir(fullfile(SPGRdir, ['seg' ,'_', spm_version],['y_',SPGRfilename,'.nii'])))
             fprintf('>>>>> the deformation of user specified anatomical image is %s \n',fullfile(SPGRdir, ['seg' ,'_', spm_version], ['y_',SPGRfilename,'.nii']));
             error('Error: the deformation of user specified anatomical image is not found, use preprocessmri.m');
@@ -182,40 +182,40 @@ for isubj = 1:numsubj
      else
          unix(sprintf('gunzip -fq %s', fullfile(SPGRdir, [SPGRfilename, '*.gz'])));
          listfile_file = dir(fullfile(SPGRdir, [SPGRfilename, '.nii']));
-    
-         if isempty(listfile_file) 
-             if strcmp(SPGRfilename,'spgr') 
-              %%%----- copy original spgr to proprocess folder 
+
+         if isempty(listfile_file)
+             if strcmp(SPGRfilename,'spgr')
+              %%%----- copy original spgr to proprocess folder
               unix(sprintf('cp -f %s %s', fullfile(SPGRdir_raw,'spgr.nii*'),SPGRdir));
               unix(sprintf('gunzip -fq %s', fullfile(SPGRdir, [SPGRfilename, '*.gz'])));
 
               else
-               %%%---  cannot find the specfic image 
-              error('<<<<<<<< Please specif anatomical image as spgr or use swgcar  >>>>>>>' ); 
+               %%%---  cannot find the specfic image
+              error('<<<<<<<< Please specif anatomical image as spgr or use swgcar  >>>>>>>' );
              end
          end
-    
- 
- %----- update list, check input spgr file again ----- 
- 
-        listfile_file = dir(fullfile(SPGRdir, [SPGRfilename, '.nii'])); 
-        if isempty(listfile_file) 
-          fprintf('>>>>>> cannot find file: \n  %s \n \n ',fullfile(SPGRdir,[SPGRfilename,'.nii']));    
+
+
+ %----- update list, check input spgr file again -----
+
+        listfile_file = dir(fullfile(SPGRdir, [SPGRfilename, '.nii']));
+        if isempty(listfile_file)
+          fprintf('>>>>>> cannot find file: \n  %s \n \n ',fullfile(SPGRdir,[SPGRfilename,'.nii']));
         end
         if length(listfile_file)==1
           SPGRfile_file = fullfile(SPGRdir, listfile_file(1).name);
         elseif length(listfile_file)>1
          error('found more than 1 specified anatomical files' );
         end
-        
-     end   
+
+     end
      fprintf(' SPGRfile_file is %s \n',SPGRfile_file);
- end 
+ end
   %%%%-----------------------------------------------------------------------
-  
-  
- 
-  
+
+
+
+
   for irun = 1:numrun
     runcnt = runcnt + 1;
     %errcnt = 1;
@@ -227,23 +227,23 @@ for isubj = 1:numsubj
       fprintf('run directory not exists: %s\n', runs{irun});
       continue;
     end
-    
+
     %%%----- Put tmp directories in scratch in case temp files get stuck.
-    
+
     tmp_dir = fullfile('/scratch/users',getenv('LOGNAME'), 'tmp_files');
     if ~exist(tmp_dir, 'dir')
       mkdir(tmp_dir);
     end
-      
+
     temp_dir = fullfile(tmp_dir, [subject,['visit',visit],['session',session], ...
       runs{irun},'_', tempname,'_', wholepipeline]);
-    
+
     unnorm_dir = fullfile(totalrun_dir{runcnt}, unnorm_folder);
 
     if ~exist(unnorm_dir, 'dir')
       continue;
     end
-  
+
     if isempty(inputimgprefix)
       if ~exist(temp_dir, 'dir')
         mkdir(temp_dir);
@@ -260,7 +260,7 @@ for isubj = 1:numsubj
         error('<<<<<<<<<< Cannot find I.nii at subject tmp folder in scrath >>>>>>>>>>>>');
       end
     end
-    
+
     %%%--------------- check output folder-------------------
 
    %imaging_path = '/data/imaging/participants/';
@@ -305,12 +305,12 @@ for isubj = 1:numsubj
       p = pipeline(nstep-cnt+1);
       fprintf('+++ at stage %s\n',p);
       switch p
-        
+
        %%%%%%---------------------------------------------------
        %%%%%%---------realign ----------------------------------
        %%%%%%---------------------------------------------------
         case 'r'
-          
+
             listfile_file = dir(fullfile(temp_dir, [prevprefix, 'I.nii.gz']));
             if ~isempty(listfile_file)
                 unix(sprintf('gunzip -fq %s', fullfile(temp_dir, [prevprefix, 'I.nii.gz'])));
@@ -338,7 +338,7 @@ for isubj = 1:numsubj
               meanimg_file = fullfile(temp_dir, listfile_file(1).name);
 
           %%%%----------check all time points --------------
-          
+
 %               if strcmpi(data_type, 'img')
 %                 p = spm_select('ExtFPList', temp_dir, ['^r', prevprefix, 'I.*\.img']);
 %               else
@@ -353,7 +353,7 @@ for isubj = 1:numsubj
 %               end
 %               fclose(fid);
 
-              
+
               if strcmpi(data_type, 'img')
                 error('Error: IMG format is not supported. Please convert your files to 4D NIFTI format');
               else
@@ -370,13 +370,13 @@ for isubj = 1:numsubj
       %%%%%%---------------------------------------------------
       %%%%%%---------Volume Repair-----------------------------
       %%%%%%---------------------------------------------------
-        
+
        case 'v'
               volflag = preprocessfmri_VolRepair(temp_dir, data_type, prevprefix);
               volrepairflag(runcnt) = volflag;
               nifti3Dto4D(temp_dir, prevprefix);
               unix(sprintf('gunzip -fq %s', fullfile(temp_dir, ['v', prevprefix, 'I.nii.gz'])));
-              
+
               if volflag == 1
                   disp('Skipping Art_Global (v) step ...');
                   break;
@@ -389,8 +389,8 @@ for isubj = 1:numsubj
 
       %%%%%%---------------------------------------------------
       %%%%%%---------Volume Repair Version O-------------------
-      %%%%%%---------------------------------------------------     
-          
+      %%%%%%---------------------------------------------------
+
          case 'o'
           volflag = preprocessfmri_VolRepair_OVersion(temp_dir, data_type, prevprefix);
           volrepairflag(runcnt) = volflag;
@@ -411,15 +411,15 @@ for isubj = 1:numsubj
 
       %%%%%%---------------------------------------------------
       %%%%%%---------Flip Z direction  ------------------------
-      %%%%%%---------------------------------------------------     
+      %%%%%%---------------------------------------------------
         case 'f'
           preprocessfmri_FlipZ(temp_dir, prevprefix);
-          
-          
+
+
       %%%%%%---------------------------------------------------
       %%%%%%--------- Slice timing correction -----------------
-      %%%%%%---------------------------------------------------     
-      
+      %%%%%%---------------------------------------------------
+
         case 'a'
           [inputimg_file, selecterr] = preprocessfmri_selectfiles(temp_dir, prevprefix, data_type);
           if selecterr == 1
@@ -429,8 +429,8 @@ for isubj = 1:numsubj
 
       %%%%%%---------------------------------------------------
       %%%%%%--------- Co-registration  ------------------------
-      %%%%%%---------------------------------------------------         
-          
+      %%%%%%---------------------------------------------------
+
         case 'c'
           [inputimg_file, selecterr] = preprocessfmri_selectfiles(temp_dir, prevprefix, data_type);
           if selecterr == 1
@@ -441,8 +441,8 @@ for isubj = 1:numsubj
 
       %%%%%%---------------------------------------------------
       %%%%%%--------- Normalization  ------------------------
-      %%%%%%---------------------------------------------------        
-             
+      %%%%%%---------------------------------------------------
+
         case 'w'
 
           if strcmp(spm_version, 'spm12')
@@ -450,7 +450,7 @@ for isubj = 1:numsubj
           else
               error('Error: please specify spm_version as spm12');
           end
-         
+
           [inputimg_file, selecterr] = preprocessfmri_selectfiles(temp_dir, prevprefix, data_type);
           if selecterr == 1
             error('Error: no scans selected');
@@ -461,8 +461,8 @@ for isubj = 1:numsubj
        %%%%%%---------------------------------------------------
        %%%%%%--------- Segmentation check  ---------------------
        %%%%%%--segmentation run by other script ----------------
-       %%%%%%---------------------------------------------------     
-          
+       %%%%%%---------------------------------------------------
+
         case 'g'
 %           listfile_file = dir(fullfile(SPGRdir, 'seg', '*seg_sn.mat'));
 %           if isempty(listfile_file)
@@ -484,13 +484,13 @@ for isubj = 1:numsubj
 %                 fullfile(temp_dir, ['g', listfile_file(1).name])));
 %             end
 %           end
-         
-          
+
+
           %SPGRseg_dir = fullfile(project_dir,'/data/imaging/participants/',subject,['visit',visit],['session',session],SPGR_folder);
 
 %           disp('------------------------------------------------------------------');
 %           fprintf('Segmentation file locates at: \n %s \n \n ',fullfile(SPGRseg_dir, ['seg' '_' spm_version], ['y_' SPGRfilename '.nii']));
-          
+
           listfile_file = dir(fullfile(SPGRdir, ['seg' ,'_', spm_version],[ 'y_',SPGRfilename,'.nii']));
           if isempty(listfile_file)
             error('Error: no segmentation has been done, use preprocessmri.m');
@@ -506,14 +506,14 @@ for isubj = 1:numsubj
                %%% --- copy arI.nii to tmp file as garI.nii
               listfile_file = dir(fullfile(temp_dir, [prevprefix, 'I.nii']));
               unix(sprintf('cp -af %s %s', fullfile(temp_dir, listfile_file(1).name), fullfile(temp_dir, ['g', listfile_file(1).name])));
-              
+
 %             end
           end
 
      %%%%%%---------------------------------------------------
      %%%%%%----------------- Smoothing -----------------------
-     %%%%%%---------------------------------------------------         
-      
+     %%%%%%---------------------------------------------------
+
         case 's'
           [inputimg_file, selecterr] = preprocessfmri_selectfiles(temp_dir, prevprefix, data_type);
           if selecterr == 1
@@ -528,16 +528,16 @@ for isubj = 1:numsubj
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   %%%%%%%%%%%%%%%%%%%%%%%  Main Section End  %%%%%%%%%%%%%%%%%%%%%%%
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
-    
-  
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
      %%%%%%---------------------------------------------------
      %%%%%%-------Cleaning and copy output--------------------
-     %%%%%%---------------------------------------------------      
+     %%%%%%---------------------------------------------------
     if strcmp(prevprefix(1), 's')
-        
-         %%%%%%--------- delete intermediate images ------------------ 
-         
+
+         %%%%%%--------- delete intermediate images ------------------
+
             for iinter = 2:length(prevprefix)
                 interprefix = prevprefix(iinter:end);
                 listfile_file = dir(fullfile(temp_dir, [interprefix, 'I.nii']));
@@ -547,7 +547,7 @@ for isubj = 1:numsubj
                 end
             end
             unix(sprintf('rm -rf %s', fullfile(temp_dir, '*.mat')));
-            
+
 %             listfile_file = dir(fullfile(output_dir, '*.mat*'));
 %               if ~isempty(listfile_file)
 %                   unix(sprintf('rm -rf %s', fullfile(output_dir, '*.mat*')));
@@ -556,14 +556,14 @@ for isubj = 1:numsubj
 %               if ~isempty(listfile_file)
 %                   unix(sprintf('rm -rf %s', fullfile(output_dir, '*.jpg*')));
 %               end
-            
-      
-         %%%%%%--------- compresss and copy final images to output dir ------------ 
-          
+
+
+         %%%%%%--------- compresss and copy final images to output dir ------------
+
           unix(sprintf('gzip -fq %s', fullfile(temp_dir, [prevprefix, 'I*.nii'])));
           unix(sprintf('gzip -fq %s', fullfile(temp_dir, 'meanI*.nii')));
           unix(sprintf('cp -af %s %s', fullfile(temp_dir, 'meanI*'), output_dir));
-      
+
           if ismember('f', prevprefix)
               f_flist = dir(fullfile(temp_dir, [prevprefix, 'I.nii.gz']));
               fl_name = f_flist(1).name;
@@ -574,22 +574,22 @@ for isubj = 1:numsubj
           else
               unix(sprintf('cp -af %s %s', fullfile(temp_dir, [prevprefix, 'I.nii.gz']), output_dir));
           end
-      
+
           unix(sprintf('cp -af %s %s', fullfile(temp_dir, 'log', '*.mat'), fullfile(output_dir, 'log')));
 
-         %%%%%--------completely deletet the tmp folder -------------------   
+         %%%%%--------completely deletet the tmp folder -------------------
           unix(sprintf('rm -rf %s', temp_dir));
-          
+
     end
-   
-    
+
+
   end
- 
+
      %%%%---------- zip anatomical image -----------------
       % if all(ismember('sc', [pipeline, inputimgprefix]))
       %   unix(sprintf('gzip -fq %s', SPGRfile_file));
       % end
-      
+
 end
 
 cd(currentdir);
@@ -607,4 +607,3 @@ close all;
 disp('==================================================================');
 
 end
-
