@@ -1,6 +1,5 @@
 function [VolFlag] = preprocessfmri_VolRepair(OutputDir, DataType, ImgPrefix)
 
-addpath(genpath('/oak/stanford/groups/menon/software/spm8/toolbox/ArtRepair'));
 VolFlag = 0;
 
 nifti4Dto3D_rui(OutputDir, ImgPrefix);
