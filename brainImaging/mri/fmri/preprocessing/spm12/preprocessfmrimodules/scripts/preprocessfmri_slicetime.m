@@ -46,7 +46,7 @@ if custom_slicetiming == 1
 
 else
 
-     switch SliceAcq 
+     switch SliceAcq
 	case  'interleaved'
 		  if mod(nslices, 2) == 0
      			 matlabbatch{1}.spm.temporal.st.so = [2:2:nslices 1:2:nslices];
@@ -65,7 +65,7 @@ else
                  matlabbatch{1}.spm.temporal.st.so = [nslices:-1:1];
                  fprintf('descending slice acquisition: total %d\n', nslices);
         otherwise
-                 error('Error: slice acquisition mode is undetermined');  
+                 error('Error: slice acquisition mode is undetermined');
       end
 
 end
@@ -84,22 +84,24 @@ BatchFile = fullfile(LogDir, ['batch_slice_timing_', WholePipeLine, '.mat']);
 save(BatchFile, 'matlabbatch');
 
 % Run batch of slice_timing
-spm_jobman('run', BatchFile);
+% spm_jobman('run', BatchFile);
+system(sprintf('spm12 batch %s',BatchFile)
+
 clear matlabbatch;
 
 %     NiiFile = dir(fullfile(OutputDir,  'arI*.nii*'));
 %     unix(sprintf('cp -af %s %s', fullfile(OutputDir, NiiFile(1).name), ...
 %       fullfile(OutputDir, ['save_', NiiFile(1).name])));
-% 
+%
 %  pause(65);
 end
 
 %%%%----- rui yuan comment out this Feb 2018
 
 % function TR = GetTR (Efile)
-% 
+%
 % fid   = fopen(Efile);
-% 
+%
 % while 1
 %   tline = fgetl(fid);
 %   if ~ischar(tline),   break,   end
@@ -109,7 +111,7 @@ end
 %     break;
 %   end
 % end
-% 
+%
 % if fid > 0; fclose(fid); end
-% 
+%
 % end

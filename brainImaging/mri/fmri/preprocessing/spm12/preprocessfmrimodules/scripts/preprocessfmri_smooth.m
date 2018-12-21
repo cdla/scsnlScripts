@@ -10,7 +10,7 @@ function preprocessfmri_smooth(WholePipeLine, TemplatePath, InputImgFile, Output
         matlabbatch{1}.spm.spatial.smooth.fwhm = SmoothWidth;
         matlabbatch{1}.spm.spatial.smooth.data = InputImgFile;
 
-      %%% ----- spm 12 using direct batch ---------------------   
+      %%% ----- spm 12 using direct batch ---------------------
 %         matlabbatch{1}.spm.spatial.smooth.data = InputImgFile;
 %         matlabbatch{1}.spm.spatial.smooth.fwhm =  SmoothWidth;
 %         matlabbatch{1}.spm.spatial.smooth.dtype = 0;
@@ -20,7 +20,8 @@ function preprocessfmri_smooth(WholePipeLine, TemplatePath, InputImgFile, Output
 
         BatchFile = fullfile(OutputDir, 'log', ['batch_smooth_', WholePipeLine, '.mat']);
         save(BatchFile, 'matlabbatch');
-        spm_jobman('run', BatchFile);
+%       spm_jobman('run', BatchFile);
+        system(sprintf('spm12 batch %s',BatchFile)
         clear matlabbatch;
 
 end

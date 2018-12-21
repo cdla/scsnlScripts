@@ -15,7 +15,7 @@ function preprocessfmri_coreg(WholePipeLine, TemplatePath, DataType, SPGRfile_FI
    %%%%%---------  using direct batch -----------------
        fprintf('inputimage is : \n %s \n\n',InputImgFile{1});
        fprintf('reference image is :\n %s \n\n',SPGRfile_FILE);
-       
+
             matlabbatch{1}.spm.spatial.coreg.estimate.ref{1} = SPGRfile_FILE;
             matlabbatch{1}.spm.spatial.coreg.estimate.source = {MeanImgFile};
             matlabbatch{1}.spm.spatial.coreg.estimate.other = InputImgFile;
@@ -27,7 +27,8 @@ function preprocessfmri_coreg(WholePipeLine, TemplatePath, DataType, SPGRfile_FI
 
 BatchFile = fullfile(OutputDir, 'log', ['batch_coregistration_', WholePipeLine, '.mat']);
 save(BatchFile, 'matlabbatch');
-spm_jobman('run', BatchFile);
+%spm_jobman('run', BatchFile);
+system(sprintf('spm12 batch %s',BatchFile)
 
 %switch DataType
 %  case 'img'
@@ -44,11 +45,11 @@ spm_jobman('run', BatchFile);
     NiiFile = dir(fullfile(OutputDir, [ImgPrefix, 'I.nii*']));
     unix(sprintf('cp -af %s %s', fullfile(OutputDir, NiiFile(1).name), ...
       fullfile(OutputDir, ['c', NiiFile(1).name])));
-  
+
     MatFile = dir(fullfile(OutputDir, [ImgPrefix, 'I.mat']));
     unix(sprintf('cp -af %s %s', fullfile(OutputDir, MatFile(1).name), ...
       fullfile(OutputDir, ['c', MatFile(1).name])));
-  
+
 %end
 
 clear matlabbatch;

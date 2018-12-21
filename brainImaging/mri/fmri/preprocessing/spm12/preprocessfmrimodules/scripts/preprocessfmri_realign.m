@@ -39,7 +39,10 @@ function preprocessfmri_realign(WholePipeLine, CurrentDir,TemplatePath, ImgFiles
 
         % Run batch of realignment
         cd(OutputDir);
-        spm_jobman('run', BatchFile);
+
+        % spm_jobman('run', BatchFile);
+        system(sprintf('spm12 batch %s',BatchFile)
+
         clear matlabbatch;
         cd(CurrentDir);
 
