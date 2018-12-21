@@ -21,7 +21,7 @@ function preprocessfmri_smooth(WholePipeLine, TemplatePath, InputImgFile, Output
         BatchFile = fullfile(OutputDir, 'log', ['batch_smooth_', WholePipeLine, '.mat']);
         save(BatchFile, 'matlabbatch');
 %       spm_jobman('run', BatchFile);
-        system(sprintf('spm12 batch %s',BatchFile)
+        system(sprintf('spm12 batch %s',BatchFile));
         clear matlabbatch;
 
 end

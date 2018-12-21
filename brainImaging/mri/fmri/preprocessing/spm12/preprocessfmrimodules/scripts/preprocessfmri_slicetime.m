@@ -85,7 +85,7 @@ save(BatchFile, 'matlabbatch');
 
 % Run batch of slice_timing
 % spm_jobman('run', BatchFile);
-system(sprintf('spm12 batch %s',BatchFile)
+system(sprintf('spm12 batch %s',BatchFile));
 
 clear matlabbatch;
 

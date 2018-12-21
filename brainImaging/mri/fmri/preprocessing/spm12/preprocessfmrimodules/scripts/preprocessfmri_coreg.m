@@ -28,7 +28,7 @@ function preprocessfmri_coreg(WholePipeLine, TemplatePath, DataType, SPGRfile_FI
 BatchFile = fullfile(OutputDir, 'log', ['batch_coregistration_', WholePipeLine, '.mat']);
 save(BatchFile, 'matlabbatch');
 %spm_jobman('run', BatchFile);
-system(sprintf('spm12 batch %s',BatchFile)
+system(sprintf('spm12 batch %s',BatchFile));
 
 %switch DataType
 %  case 'img'
