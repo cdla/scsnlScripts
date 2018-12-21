@@ -3,19 +3,9 @@ function preprocessfmri(SubjectI, ConfigFile)
 % tianwenc, 2011-12-02,  created preprocessfmri.m
 % ruiyuan, 2018-02-08, updated with SWCAR
 % ruiyuan, 2018-07-26, upgrade slice timing
-
+$ cdla, 2018-12-21, removed local script locations for docker implementation
 
 spm_version             = 'spm12';
-software_path           = '/oak/stanford/groups/menon/toolboxes/';
-spm_path                = fullfile(software_path, spm_version);
-spmpreprocscript_path   = '/oak/stanford/groups/menon/scsnlscripts/brainImaging/mri/fmri/preprocessing/spm12/';
-
-sprintf('adding SPM path: %s\n', spm_path);
-addpath(genpath(spm_path));
-
-%rmpath(genpath('/oak/stanford/groups/menon/toolboxes/spm8'));
-sprintf('adding SPM based preprocessing scripts path: %s\n', spm_path);
-addpath(genpath(spmpreprocscript_path));
 
 currentdir = pwd;
 
