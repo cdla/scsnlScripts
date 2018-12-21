@@ -1,4 +1,4 @@
-function preprocessfmri(SubjectI, ConfigFile)
+function preprocessfmri(SubjectI, rawdatadir, projectdir, outputdirname, subjectlist, runlist, batchtemplatepath)
 
 % tianwenc, 2011-12-02,  created preprocessfmri.m
 % ruiyuan, 2018-02-08, updated with SWCAR
@@ -7,13 +7,20 @@ function preprocessfmri(SubjectI, ConfigFile)
 
 spm_version             = 'spm12';
 
+
+data_dir           = strtrim(rawdatadir);
+project_dir        = strtrim(projectdir);
+output_folder      = strtrim(outputdirname);
+subjectlist        = strtrim(subjectlist);
+runlist            = strtrim(runlist);
+template_path      = strtrim(batchtemplatepath);
 currentdir = pwd;
 
 disp('==========================e========================================');
  [v,r] = spm('Ver','',1);
 fprintf('>>>-------- This SPM is %s V%s ---------------------\n',v,r);
 fprintf('Current directory: %s\n', currentdir);
-fprintf('Script: %s\n', which('preprocessfmri_spm12.m'));
+fprintf('Script: %s\n', which('preprocessfmri.m'));
 fprintf('Configfile: %s\n', ConfigFile);
 fprintf('\n');
 
@@ -34,8 +41,6 @@ clear ConfigFile;
 
 config             = paralist;
 subject_i          = SubjectI;
-subjectlist        = strtrim(config.subjectlist);
-runlist            = strtrim(config.runlist);
 inputimgprefix     = strtrim(config.inputimgprefix);
 wholepipeline      = strtrim(config.pipeline);
 pipeline           = wholepipeline(1:end-length(inputimgprefix));
@@ -46,10 +51,7 @@ slicetiming_file   = strtrim(config.slicetimingfile);
 sliceacq           = strtrim(config.sliceacq);
 smooth_width       = config.smoothwidth;
 boundingboxdim     = config.boundingboxdim;
-template_path      = strtrim(config.batchtemplatepath);
-data_dir           = strtrim(config.rawdatadir);
-project_dir        = strtrim(config.projectdir);
-output_folder      = strtrim(config.outputdirname);
+
 
 
 try

@@ -10,13 +10,13 @@ paralist.spmversion = 'spm12';
 paralist.parallel = '1';
 
 %-Subject list
-paralist.subjectlist = '/data/subjectlist.csv'
+%paralist.subjectlist = '/config/subjectlist.csv'
 %---- example ----
 %- PID, visit, session
 %- 7014, 1 ,1
 
 %-Run list
-paralist.runlist = 'runlist.txt';
+%paralist.runlist = '/config/runlist.txt';
 %--- example -----
 %-- comparison_dot
 
@@ -33,11 +33,11 @@ paralist.pipeline = 'swcar';
 
 % I/O parameters
 % - Raw data directory
-paralist.rawdatadir = '/oak/stanford/groups/menon/rawdata/scsnl/';
+%paralist.rawdatadir = '/oak/stanford/groups/menon/rawdata/scsnl/';
 
 % - Project directory - output of the preprocessing will be saved in the
 % data/imaging folder of the project directory
-paralist.projectdir = '/oak/stanford/groups/menon/projects/ruiyuan/2018_preproc_fMRI';
+%paralist.projectdir = '/oak/stanford/groups/menon/projects/ruiyuan/2018_preproc_fMRI';
 %%% ----------example -------------------
 % '/oak/stanford/groups/menon/projects/shelbyka/2017_TD_MD_mathfun'
 
@@ -47,7 +47,7 @@ paralist.outputdirname = 'swcar_spm12';
 
 % fMRI parameters
 % - spm8 batch templates location
-paralist.batchtemplatepath = '/oak/stanford/groups/menon/scsnlscripts/brainImaging/mri/fmri/preprocessing/spm12/preprocessfmrimodules/batchtemplates/';
+%paralist.batchtemplatepath = '/batchtemplates/';
 
 % - prefix for the unnormalized file name. for scsnl lab. this value is
 % usually empty
